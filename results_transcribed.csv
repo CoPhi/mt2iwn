@@ -1,1242 +1,787 @@
-Literal Lemma;MariTerm ID;Total Similarity;Normalized Score;Multiple Entries in ItalWN;MariTerm Gloss
-nave militare;N#20;17.33;0.00;No (1);nave impiegata per scopi militari e/o di guerra.
-imbarcazione;N#58;12.51;0.00;No (1);"termine generico per indicare barche di piccole e medie dimensioni  utilizzate per diversi scopi (lavoro  piacere  etc.).
-"
-oggetto;N#645;8.80;0.00;No (1);qualunque oggetto concreto.
-inerente;AG#127;5.77;0.00;No (1);
-bussola;N#106;5.51;0.00;No (1);Strumento che indica la direzione del punto cardinale Nord e permette pertanto di conoscere la direzione di uno spostamento  rispetto a tale punto cardinale.
-galleggiante;N#379;5.31;0.00;No (1);qualsiasi corpo che galleggia sia fissato al fondo come boe o gavitelli  sia mobile come vari tipi d'imbarcazione.
-porto;N#90;4.83;0.00;No (1);luogo di scalo di navi
-attività;N#2136;4.79;0.00;No (1);atto compiuto per uno scopo
-unità_di_misura;N#1177;4.51;0.00;No (1);grandezza di paragone il cui valore viene messo uguale a uno e rispetto alla quale vengono misurate le altre grandezze con essa omogenee.
-lavoratore;N#482;4.13;0.00;No (1);chi lavora nel campo della navigazione e dei trasporti navali.
-attività_sportiva;N#1901;3.73;0.00;No (1);gioco o esercizio praticato per diletto o per esibizione
-prodotto;N#644;3.68;0.00;No (1);tutto ciò che gli uomini producono.
-cardine;N#994;3.37;0.00;No (1);punto cardinale
-strumento nautico;N#2172;3.37;0.00;No (1);utile per calcolare la posizione della nave e per tecniche e/o operazioni di navigazione.
-fenomeno_atmosferico;N#1009;3.09;0.00;No (1);fenomeno fisico che concerne l'atmosfera.
-roba;N#264;2.46;0.00;No (1);qualunque bene mobile  economicamente utile  destinato alla vendita.
-duello;N#2096;2.37;0.00;No (1);atto  sforzo di due o più concorrenti per vincersi  superarsi a vicenda.
-bagaglio;N#682;2.24;0.00;No (1);insieme degli oggetti che un viaggiatore reca con sè
-persona;N#2132;2.18;0.00;No (1);
-pesce;N#2032;2.18;0.00;No (1);animale vertebrato acquatico
-altezza;N#1648;2.01;0.00;No (1);misura riferita alle stelle oppure a parti dell'imbarcazione. Ha anche altri significati differenti a seconda del contesto.
-nulla_osta;N#516;1.91;0.00;No (1);il documento che attesta il permesso accordato
-circumnavigazione;N#782;1.91;0.00;No (1);viaggio marittimo intorno al globo terrestre. O anche intorno ad un'isola o ad un continente.
-fardello;N#2019;1.91;0.00;No (1);carico  involto  pacco voluminoso e pesante da portare.
-ufficio;N#517;1.85;0.00;No (1);insieme degli impiegati che in un determinato luogo svolgono una attività
-insieme;N#635;1.83;0.00;No (1);la totalità  persone o animali o cose radunate insieme
-insenatura;N#1616;1.75;0.00;No (1);rientranza di varia profondità lungo la sponda di un corso d'acqua  di un lago o del mare. 
-rivestitura;N#1180;1.70;0.00;No (1);la cosa che si usa per ricoprire alcuni oggetti  in genere con funzione di protezione
-remo;N#705;1.62;0.00;No (1);asta  specialmente di legno sagomato resistente e leggero  dotata di un estremo in forma di pala che viene immerso nell'acqua affinché il rematore  facendo leva sull'estremo opposto  possa dare spinta propulsiva al natante.
-rimorchiatore;N#1781;1.54;0.00;No (1);nave addetta al rimorchio di altri natanti anche di dimensioni molto maggiori.
-evento;N#2133;1.52;0.00;No (1);
-fondo;N#188;1.45;0.00;No (1);la parte bassa
-scalo;N#655;1.36;0.00;No (1);luogo in cui arrivano o da cui partono mezzi e passeggeri di aerei  navi  treni
-viaggio;N#2683;1.28;0.00;No (1);trasferimento da un luogo ad un altro
-sottufficiale;N#2139;1.26;0.00;No (1);militare di grado intermedio tra gli ufficiali e la truppa
-dichiarazione;N#250;1.25;0.00;No (1);documento con il quale si dichiara
-fenomeno_naturale;N#2505;1.17;0.00;No (1);
-azimut;N#926;1.15;0.00;No (1);nella navigazione astronomica indica l'arco di cerchio compreso tra il Nord e la verticale dell'astro stesso.
-campionato;N#2097;1.15;0.00;No (1);
-dazio;N#246;1.15;0.00;No (1);
-eliminatoria;N#2099;1.15;0.00;No (1);
-ora;N#2279;1.15;0.00;No (1);tempo misurabile dall'orologio
-semifinale;N#2102;1.15;0.00;No (1);
-alberatura;N#581;1.15;0.00;No (1);insieme degli alberi pennoni e cordame di una imbarcazione a vela.
-balla;N#591;1.15;0.00;No (1);grosso involto di merce
-import;N#2182;1.15;0.00;No (1);l'insieme delle merci importate
-informativa;N#2645;1.15;0.00;No (1);insieme di informazioni
-poppavia;N#1583;1.15;0.00;No (1);direzione relativa verso la parte di poppa.
-porto commerciale;N#91;1.15;0.00;No (1);porto dedicato al traffico commerciale e mercantile.
-porto di rifornimento;N#92;1.15;0.00;No (1);punto di sosta intermedio per navi.
-porto di velocità;N#93;1.15;0.00;No (1);porto destinato al movimento dei passeggeri.
-porto industriale;N#94;1.15;0.00;No (1);porto al servizio di grandi complessi industriali.
-porto petrolifero;N#95;1.15;0.00;No (1);porto attrezzato per la ricezione di prodotti finiti da nave cisterna.
-sartiame;N#1711;1.15;0.00;No (1);"l'insieme di tutte le manovre dormienti che sostengono gli alberi: sartie  stralli  paterazzi  stralletti  etc. 
-"
-segnale;N#220;1.15;0.00;No (1);qualsiasi oggetto o figura che serva a contrassegnare o a indicare qualcosa
-stazza;N#271;1.15;0.00;No (1);volume interno della nave indicativo della sua capacità di carico.
-velame;N#135;1.15;0.00;No (1);l'insieme delle vele di una imbarcazione  complesso delle vele di un'imbarcazione
-aereo;AG#2613;1.15;0.00;No (1);che concerne l'areonautica.
-albero dell'antenna;N#955;1.15;0.00;No (1);parte superiore e più fine degli alberi nei grandi velieri
-albero di fortuna;N#954;1.15;0.00;No (1);albero improvvisato con un fusto o palo in coperta per sostituire un albero spezzato dal vento o da una avaria.
-albero di maestra;N#456;1.15;0.00;No (1);albero di maggiore dimensione che in genere sostiene una vela chiamata randa di maestra.
-ammattare;V#1446;1.15;0.00;No (1);chiedere aiuto inalberando segnali sulla nave
-andatura al lasco;N#785;1.15;0.00;No (1);andatura con il vento che proviene tra i 90 e i 150 gradi di angolatura rispetto alla prua.
-andatura di bolina;N#791;1.15;0.00;No (1);andatura con il vento che proviene da una direzione che forma con la prua il minor angolo possibile  in genere 40-60 gradi.  
-andatura in poppa;N#784;1.15;0.00;No (1);andatura con il vento che proviene da poppa o con un'approssimazione fino a 20- 30 dalla poppa stessa.
-austro;N#998;1.15;0.00;No (1);punto cardinale a sud
-binocolo;N#984;1.15;0.00;No (1);"visore a doppio oculare e dotato di un potere elevato di ingrandimento. I più comunemente utilizzati sono i binocoli prismatici.
-"
-bolina;N#102;1.15;0.00;No (1);"negli antichi velieri  venivano chiamate così le cime che servivano a tirare il più possibile verso prua il lato della vela dalla parte di entrata del vento  per navigare il più possibile vicino alla direzione del vento.
-"
-bordeggio;N#878;1.15;0.00;No (1);traiettoria a zig-zag che un veliero deve seguire per risalire il vento. Un buon bordeggio permette di fare un cammino più breve o di coprire una distanza con maggior velocità.
-bovo;N#1938;1.15;0.00;No (1);piccolo veliero mercantile. 
-bussola da rilevamento;N#293;1.15;0.00;No (1);"Particolare tipo di bussola magnetica  per ""rilevare"" cioè per stabilire la direzione di un qualsiasi oggetto rispetto al nord magnetico."
-bussola di rotta;N#294;1.15;0.00;No (1);Bussola principale dell'imbarcazione  normalmente posta davanti al timone.
-bussola giroscopica;N#291;1.15;0.00;No (1);Bussola che funziona indipendentemente dall'azione del magnetismo terrestre e che si basa sul principio del giroscopio.
-bussola magnetica;N#292;1.15;0.00;No (1);Bussola che sfrutta l'effetto del magnetismo terrestre  composta da uno o più aghi magnetici  liberi di ruotare  che si orientano verso il Nord magnetico disponendosi parallelamente ai meridiani magnetici.
-calumare;V#679;1.15;0.00;No (1);calare le funi in mare
-campana;N#1065;1.15;0.00;No (1);"strumento che si usa a bordo per segnalazioni (es. in caso di nebbia) o per segnalare allarmi. 
-"
-caravella;N#364;1.15;0.00;No (1);veliero leggero e veloce  usato soprattutto da Portoghesi e Spagnoli nei secoli XV e XVI  per la guerra e per il traffico.
-carroponte;N#776;1.15;0.00;No (1);gru per sollevare e trasportare grandi carichi
-cirro;N#1087;1.15;0.00;No (1);"Nuvola d'alta quota che si presenta a forma di filamento  bianca e senza ombre. Può essere isolato o presentarsi in grandi insiemi compatti  in tal caso portano maltempo. 
-"
-cirrocumulo;N#2539;1.15;0.00;No (1);nube stratificata e densa composta di piccoli fiocchi biancastri disposti in file o in gruppi che formano il cosiddetto cielo a pecorelle. 
-cirrostrato;N#2540;1.15;0.00;No (1);nube biancastra sottile e trasparente  costituita da cristalli di ghiaccio. la presenza di queste nubi possono annunciare l'arrivo di un periodo caldo o di una tempesta.
-collettame;N#2184;1.15;0.00;No (1);merce varia trasportata da un unico mezzo  per conto di più clienti
-continentale;AG#2636;1.15;0.00;No (1);del continente (clima)
-dazio;N#245;1.15;0.00;No (1);
-dogana;N#252;1.15;0.00;No (1);
-export;N#254;1.15;0.00;No (1);l'esportare.
-esportazione;N#2186;1.15;0.00;No (1);l'insieme delle cose esportate.
-fischio;N#1480;1.15;0.00;No (1);congegno sonoro di segnalazione usato sulle navi per indicare variazioni di andatura o di rotta.
-grandine;N#2535;1.15;0.00;No (1);precipitazione atmosferica di acqua gelata in piccole masse di dimensioni variabili causata dall'improvviso raffreddamento del vapore acqueo.
-imbuto;N#1601;1.15;0.00;No (1);"attrezzo a forma tronco-conica  di plastica o tela  talvolta utilizzato nelle imbarcazioni a vela per raccogliere lo spinnaker.
-"
-intercontinentale;AG#2637;1.15;0.00;No (1);Che riguarda  che mette in comunicazione e sim. più continenti.
-maretta;N#748;1.15;0.00;No (1);stato del mare caratterizzato da onde corte e confuse.
-navale;AG#10;1.15;0.00;No (1);relativo alle navi
-nave a carroponte;N#13;1.15;0.00;No (1);dispone di propri mezzi di sollevamento  scorrevoli su rotaie da poppa a prua per servire tutte le stive della nave ed in grado di operare sui due lati della nave.
-nave autosbarcante;N#14;1.15;0.00;No (1);nave di modeste dimensioni destinata al trasporto di granaglie  carbone e minerali. Dotata di tramogge è in grado di scaricare il materiale su nastri convogliatori a terra.
-nave frigo;N#18;1.15;0.00;No (1);nave con locali frigoriferi per la conservazione della merce.
-nave per carico secco;N#22;1.15;0.00;No (1);nave da carico.
-navigazione astronomica;N#473;1.15;0.00;No (1);insieme dei metodi e degli strumenti per determinare la posizione geografica mediante l'osservazione degli astri e la misurazione delle loro coordinate.
-cabotaggio;N#208;1.15;0.00;No (1);navigazione lungo le coste di porto in porto generalmente a scopo commerciale.
-navigazione d'altura;N#206;1.15;0.00;No (1);navigazione in altomare.
-navigazione mista;N#207;1.15;0.00;No (1);navigazione praticata un tempo a vela e a vapore.
-navigazione piana;N#474;1.15;0.00;No (1);"insieme dei metodi e degli espedienti per risolvere i problemi della ""navigazione costiera"" e della ""navigazione stimata"" sulla carta nautica con l'ausilio della Geometria Piana."
-navigazione stimata;N#475;1.15;0.00;No (1);procedimento per calcolare e determinare la posizione geografica attuale in dipendenza dell'ultima posizione certa.
-navigazione strumentale;N#476;1.15;0.00;No (1);la navigazione che si avvale dell'ausilio di vari strumenti.
-nembo;N#1528;1.15;0.00;No (1);nube bassa  oscura  portatrice di pioggia
-neve;N#2496;1.15;0.00;No (1);precipitazione atmosferica costituita da piccole particelle di ghiaccio originate dal forte raffreddamento del vapore acqueo delle nubi  che scendono lentamente al suolo spec. aggregate in fiocchi bianchi.
-nord-est;N#999;1.15;0.00;No (1);punto cardinale intermedio.
-nostromo;N#810;1.15;0.00;No (1);"sottufficiale addetto ai servizi marinareschi e di bordo | sottufficiale della categoria dei nocchieri.
-"
-occaso;N#1000;1.15;0.00;No (1);punto cardinale
-oceano;N#2014;1.15;0.00;No (1);
-oriente;N#1001;1.15;0.00;No (1);punto cardinale
-passascotte;N#1542;1.15;0.00;No (1);
-penna;N#1548;1.15;0.00;No (1);"angolo superiore delle vele latine  dei fiocchi e delle vele di strallo  al quale si collega la ""drizza"" per issare e tesare la vela."
-pescatore;N#2031;1.15;0.00;No (1);utensile per il recupero degli attrezzi di sondaggio in caso di incidenti.
-pesce_angelo;N#2035;1.15;0.00;No (1);
-pesce_volante;N#2036;1.15;0.00;No (1);pesce che spicca salti fuori dell'acqua
-pescecane;N#2037;1.15;0.00;No (1);nome di vari pesci di alcuni ordini dei Selaci  dal comportamento aggrssivo e pericoloso.
-pioggia;N#2506;1.15;0.00;No (1);precipitazione atmosferica di gocce d’acqua  che ha origine dalla condensazione del vapore acqueo contenuto nell’atmosfera
-radionavigazione;N#472;1.15;0.00;No (1);navigazione assistita via radio sia aerea che marittima
-recapito;N#685;1.15;0.00;No (1);consegna di un oggetto.
-rinfuse;N#1974;1.15;0.00;No (1);
-rotaia;N#1793;1.15;0.00;No (1);profilo metallico che serve come guida di scorrimento per un bozzello  un carrello  una manovra  ecc.
-sartia;N#740;1.15;0.00;No (1);ciascuno dei cavi d'acciaio che sostengono lateralmente gli alberi.
-sborso;N#253;1.15;0.00;No (1);lo sborsare.
-scirocco;N#996;1.15;0.00;No (1);punto cardinale intermedio.
-serrafila;N#564;1.15;0.00;No (1);sottufficiale o graduato che marcia in coda ad un reparto  persona che chiude una fila
-buffo;N#2583;1.15;0.00;No (1);vento leggero che soffia a tratti
-stivare;V#229;1.15;0.00;No (1);sistemare il carico a bordo di una nave o di una imbarcazione.
-subcontinente;N#2639;1.15;0.00;No (1);parte di un continente con caratteristiche peculiari
-sud-ovest;N#1002;1.15;0.00;No (1);punto cardinale intermedio.
-tramontana;N#1003;1.15;0.00;No (1);punto cardinale indicato dalla Stella Polare
-trasporto;N#2237;1.15;0.00;No (1);ogni attività che ha per scopo il trasferimento di persone o cose da un luogo all'altro.
-tuono;N#2525;1.15;0.00;No (1);fenomeno acustico causato dall'onda d'urto prodotta dalla violenta espansione dell'aria in prossimità dei fulmini.
-velico;AG#162;1.15;0.00;No (1);della vela  delle vele.
-venduto;N#2188;1.15;0.00;No (1);la merce venduta
-visto;N#279;1.15;0.00;No (1);formula scritta con cui un'amministrazione attesta di aver controllato un documento
-visto;N#514;1.15;0.00;No (1);autorizzazione con cui uno stato straniero rende effettiva la validità di un passaporto
-antenna;N#969;1.15;0.00;No (1);strumento di foggia diversa  asta  parabola o sistema composto  usato per ricevere o per diffondere onde radio.
-boma;N#103;1.15;0.00;No (1);asta imperniata sull'albero di poppa  usata per mantenere tesa la vela di randa.
-canottaggio;N#1971;1.15;0.00;No (1);sport nautico su imbarcazioni a remi. Lo sport moderno del c. ebbe origine in Inghilterra nel 1715.
-crociera;N#1862;1.15;0.00;No (1);viaggio di piacere compiuto su una nave  seguendo un tragitto e un programma fissato in precedenza.
-fattura;N#255;1.15;0.00;No (1);documento che prova una vendita
-franchigia;N#256;1.15;0.00;No (1);documento che attesta una franchigia
-furgone;N#2616;1.15;0.00;No (1);veicolo
-navetta_spaziale;N#33;1.15;0.00;No (1);navetta spaziale
-pennone;N#881;1.15;0.00;No (1);asta sospesa orizzontalmente all'albero che sostiene e mantiene distesa una vela quadra. Ogni vela ha il bordo superiore e quello inferiore fissati a due pennoni che prendono il nome  dalla rispettiva vela.
-pesistica;N#2044;1.15;0.00;No (1);
-picco;N#1552;1.15;0.00;No (1);asta simile ad un mezzo pennone al quale si fissa il lato superiore di una randa aurica.
-roulotte;N#2617;1.15;0.00;No (1);veicolo attrezzato ad abitazione
-sottufficiale;N#2140;1.15;0.00;No (1);grado intermedio della gerarchia militare
-tangone;N#1697;1.15;0.00;No (1);lunga asta  in lega leggera o in fibre composite  che serve per mantenere esterno dalla coperta il punto di mura dello spinnaker e di altre vele di prua non inferite.
-tir;N#2603;1.15;0.00;No (1);convenzione che regola il trasporto di merci su strada.
-ufficiale;N#2141;1.15;0.00;No (1);grado di certi ordini della cavalleria
-vela;N#130;1.15;0.00;No (1);sport
-grado_centesimale;N#1893;1.15;0.00;No (1);unità di misura degli angoli corrispondente alla centesima parte di un angolo retto.
-millibar;N#1259;1.15;0.00;No (1);unità di misura della pressione atmosferica. Un millibar equivale a 0 76 mm della colonna di mercurio. 
-formula;N#515;1.09;0.00;No (1);insieme di parole stabilite dall'uso o dalla norma ecc.
-convenzione;N#2602;1.09;0.00;No (1);patto  trattato tra stati
-incidente;N#2131;1.09;0.00;No (1);fatto inatteso  spec. negativo che viene a turbare lo svolgimento di un'attività o il normale corso degli eventi  disgrazia  sciagura.
-messaggio;N#1445;1.09;0.00;No (1);la cosa comunicata.
-partecipazione;N#1447;1.09;0.00;No (1);l'atto di comunicare  partecipare  l'atto del comunicare.
-pirata;N#1309;1.09;0.00;No (1);chi corre il mare per depredare navi
-potenza;N#2051;1.09;0.00;No (1);capacità di un sistema di sviluppare lavoro  grandezza fisica
-segnalare;V#1444;1.09;0.00;No (1);indicare per mezzo di segnali.
-simbolo;N#1441;1.09;0.00;No (1);segno che acquisisce un valore all'interno di un sistema convenzionale
-trasportare;V#450;1.09;0.00;No (1);
-portare;V#1661;1.07;0.00;No (1);"dicesi delle vele quando ricevono il vento sulla superficie rivolta verso poppa e sono ben regolate  cioè senza pieghe e piene di vento.
-"
-cadenza;N#2281;1.05;0.00;No (1);il tempo musicale  successione regolare di unità metriche uniformii
-temperatura;N#2508;1.05;0.00;No (1);
-cucire;V#753;1.03;0.00;No (1);
-stanga;N#893;1.00;0.00;No (1);barra di materiale vario.
-motoscafo;N#539;0.95;0.00;No (1);imbarcazione spinta da motore a scoppio.
-alta marea;N#744;0.84;0.00;No (1);punto massimo della marea crescente. 
-bassa marea;N#745;0.84;0.00;No (1);punto minimo della marea calante.
-barografo;N#978;0.83;0.00;No (1);strumento che  collegato a un barometro  riporta su un rotolo di carta i valori della pressione atmosferica nel tempo  sotto forma di diagramma. Anch'esso può essere sia meccanico che elettronico.
-parete;N#796;0.82;0.00;No (1);
-regata;N#729;0.82;0.00;No (1);gara di velocità tra imbarcazioni di vario tipo
-armamento;N#78;0.82;0.00;No (1);il complesso dei materiali e degli uomini occorrenti a mettere una nave in condizioni di navigare.
-comandante;N#107;0.82;0.00;No (1);ufficiale di qualsiasi grado che ha il comando di una nave  nella marina civile  è colui che ha la responsabilità giuridica della nave. 
-navigatore;N#42;0.82;0.00;No (1);l'ufficiale che indica la rotta da seguire sulle navi e sugli aerei
-anemoscopio;N#2549;0.82;0.00;No (1);strumento per misurare la direzione del vento.
-baglio;N#927;0.82;0.00;No (1);trave che collega orizzontalmente le fiancate dell'imbarcazione  per tutta la sua lunghezza e sostenendo il peso della coperta (o ponte).
-canapo;N#649;0.82;0.00;No (1);grossa fune di canapa.
-contenitore;N#603;0.82;0.00;No (1);oggetto che serve a contenerne altri  spec. per agevolarne il trasporto.
-cutter;N#370;0.82;0.00;No (1);piccolo veliero originario dell'Inghilterra.
-drizza;N#1405;0.82;0.00;No (1);"Cima o cavo d'acciaio utilizzato per alzare (drizzare) al loro posto vele  bandiere
-o altri sistemi di coperta. 
-"
-marra;N#669;0.82;0.00;No (1);uno dei (di solito) due bracci curvi dell'ancora. 
-nave Roll on-Roll off;N#25;0.82;0.00;No (1);nave per la movimentazione di materiale rotabile  con una apertura a poppa e munita di più rampe di accesso al ponte superiore
-orza;N#847;0.82;0.00;No (1);lato dell'imbarcazione dal quale viene il vento  lato sopravvento.
-racer;N#915;0.82;0.00;No (1);termine inglese che designa una imbarcazione da competizione  sia a vela che a motore.
-rugiada;N#2545;0.82;0.00;No (1);precipitazione atmosferica formata da minuscole gocce d'acqua in seguito alla condensazione del vapore acqueo dell'aria a contatto con superfici che presentano temperature superiori a 0° C.
-società;N#2644;0.82;0.00;No (1);azienda  una ditta  complesso industriale o commerciale.  la ditta come insieme delle persone che la costituiscono
-contratto;N#244;0.82;0.00;No (1);documento frutto di un accordo tra parti
-fasciame;N#1346;0.82;0.00;No (1);tavole in legno o lamiere metalliche che ricoprono l'ossatura e formano la superficie esterna dello scafo.
-gomena;N#1519;0.82;0.00;No (1);Grossa cima di tessile ritorto  utilizzata nelle navi per gli ormeggi. 
-squero;N#2706;0.80;0.00;No (1);piccolo cantiere in cui un tempo la gondola veniva costruita e ricoverata in rimessaggio.
-umidità;N#2530;0.78;0.00;No (1);presenza di acqua o di vapore acqueo nell'atmosfera.
-diramazione;N#259;0.76;0.00;No (1);
-gru;N#775;0.76;0.00;No (1);macchina per sollevare e spostare carichi.
-liquidazione;N#527;0.76;0.00;No (1);il pagamento di somme dovute  atto del pagare.
-mattone;N#2119;0.76;0.00;No (1);
-morire;V#2709;0.76;0.00;No (1);cessare di esistere
-passerella;N#1545;0.76;0.00;No (1);tavola di legno o metallica utilizzata per collegare un natante ad una banchina o ad un secondo galleggiante.
-proprietà;N#2138;0.76;0.00;No (1);qualità particolare  virtù propria di alcune cose.
-salvagente;N#218;0.74;0.00;No (1);giubbotto contenente materiale galleggiante da indossare in navigazione.
-versamento;N#247;0.74;0.00;No (1);l'oggetto o i valori depositati.
-periplo;N#2685;0.74;0.00;No (1);circumnavigazione
-impiombare;V#2640;0.70;0.00;No (1);"unire due cavi intrecciandoli alle estremità per i legnoli.
-"
-bilancella;N#1922;0.67;0.00;No (1);piccola imbarcazione da pesca  usata soprattutto in Sicilia e attrezzata con un albero a vela latina e un fiocco. 
-burchiello;N#1923;0.67;0.00;No (1);piccola barca a fondo piatto pwer trasporti fluviali  lagunari o lacustri.
-canoa;N#360;0.67;0.00;No (1);barca degli Indiani dell’America centrale  scavata in un tronco d’albero  con poppa e prua uguali.
-gozzo;N#374;0.67;0.00;No (1);barca con la quale i pescatori di tonni fanno la guardia sopra il bordonaro  per osservare quando vengono i tonni.
-segnalazione;N#1442;0.65;0.00;No (1);ogni comunicazione di notizie  effettuata con qualsiasi mezzo
-viaggiare;V#2684;0.65;0.00;No (1);spostarsi da un luogo all'altro per lavoro  turismo  o altro.
-esportatore;N#493;0.62;0.00;No (1);Chi esporta merci all'estero.
-radiotelegrafista;N#809;0.62;0.00;No (1);
-vettore;N#278;0.62;0.00;No (1);chi esegue il trasporto di merci o persone per conto di terzi
-silurante;N#27;0.60;0.00;No (1);
-torpediniera;N#568;0.60;0.00;No (1);nave militare
-pagaia;N#1538;0.57;0.00;No (1);remo con le due estremità a pala  che si maneggia tenendolo al centro con entrambe le mani. Si usa sulle canoe e su altri natanti di tipo fluviale o balneare.
-prueggiare;V#663;0.55;0.00;No (1);navigare di prua
-codice morse;N#309;0.55;0.00;No (1);codice telegrafico usato internazionalmente  inventato da S. Morse.
-capitano;N#507;0.49;0.00;No (1);comandante di una nave della Marina mercantile.
-codice;N#239;0.49;0.00;No (1);gruppo di numeri o di numeri e lettere che serve a identificare ogni singola entità d'un dato sistema.
-scotta;N#894;0.49;0.00;No (1);cima utilizzata per bordare e regolare le vele (cazzare e lascare). Questa cima è fissata all'angolo di scotta che è libero di orientarsi secondo il vento.
-assicurazione;N#235;0.49;0.00;No (1);documento assicurativo
-miglio;N#1176;0.49;0.00;No (1);unità di misura di lunghezza
-accostata;N#575;0.49;0.00;No (1);spostamento della prua per effetto del timone
-tonneggio;N#1908;0.49;0.00;No (1);manovra con cui si sposta una nave da un punto d'ormeggio ad un altro.
-virata;N#1685;0.49;0.00;No (1);azione del virare.
-navigare;V#38;0.48;0.00;No (1);effettuare un percorso  un viaggio per mare  su un corso o uno specchio d'acqua  es.: una nave che naviga per il Mediterraneo  navigare sul Nilo 
-aliscafo;N#63;0.47;0.00;No (1);imbarcazione a motore che naviga planando su alip oste ai lati dello scafo raggiungendo altissime velocità.
-baleniera;N#67;0.47;0.00;No (1);imbarcazione a remi usata un tempo da comandanti e ammiragli
-fasello;N#169;0.47;0.00;No (1);antica imbarcazione veloce
-idroplano;N#172;0.47;0.00;No (1);natante a sostentazione idroplana
-idroscivolante;N#173;0.47;0.00;No (1);imbarcazione propulsa con elica aerea
-iole;N#174;0.47;0.00;No (1);piccola imbarcazione a remi o a vela per uso costiero.
-patino;N#540;0.47;0.00;No (1);imbarcazione da diporto  a remi o pedali
-pilotina;N#541;0.47;0.00;No (1);
-piroga;N#542;0.47;0.00;No (1);
-sampang;N#543;0.47;0.00;No (1);imbarcazione a remi  usata su fiumi e acque costiere nell'Estremo Oriente.
-sandolino;N#544;0.47;0.00;No (1);
-tender;N#545;0.47;0.00;No (1);imbarcazione di servizio utilizzato per scendere a terra da imbarcazioni più grandi.
-scalandrone;N#1543;0.45;0.00;No (1);passerella mobile tra nave e banchina
-baleniera;N#66;0.45;0.00;No (1);nave attrezzata per la caccia alla balena
-bireme;N#1934;0.45;0.00;No (1);nave antica a due ordini di remi.
-nave bacino;N#15;0.45;0.00;No (1);nave bacino semisommergibile.
-nave da crociera;N#17;0.45;0.00;No (1);bastimento che naviga a scopo turistico o escursionistico 
-rompighiaccio;N#26;0.45;0.00;No (1);nave attrezzata per aprirsi la strada nei mari polari  rompendo la crosta di ghiaccio che li copre.
-navicella;N#34;0.45;0.00;No (1);piccola nave.
-continente;N#2624;0.43;0.00;No (1);Ciascuna delle grandi superfici emerse della crosta terrestre
-cala;N#197;0.41;0.00;No (1);locale di una nave  nella parte più bassa della stiva.
-cucina;N#1370;0.41;0.00;No (1);locale dell'imbarcazione dove si conservano e si cucinano gli alimenti. 
-magazzino;N#262;0.41;0.00;No (1);locale per il deposito e la conservazione di merce
-stiva;N#221;0.41;0.00;No (1);nelle navi è lo spazio destinato al carico delle merci.
-colonna;N#641;0.41;0.00;No (1);si dice di varie cose verticali di forma allungata.
-omaggio;N#2129;0.41;0.00;No (1);la cosa donata.
-appontare;V#329;0.40;0.00;No (1);compiere la manovra di appontaggio
-straorzare;V#330;0.40;0.00;No (1);condurre la prua della nave oltre l'orza
-gabbia;N#666;0.39;0.00;No (1);tipo di vela
-parrocchetto;N#667;0.39;0.00;No (1);vela dell'albero di trinchetto
-spinnaker;N#1733;0.39;0.00;No (1);"vela di prua di grande superficie e di tessuto leggero  viene usata con venti ""portanti""  dal ""traverso"" fino al ""fil di ruota""  la progenitrice di questa vela fu alzata per la prima volta su uno yacht britannico nel 1865."
-velaccio;N#134;0.39;0.00;No (1);vela quadra
-circolo Amici-Magnaghi;N#966;0.38;0.00;No (1);strumento a riflessione  impiegato ancora oggi per misurare gli angoli azimutali sottocosta.
-ottante;N#2174;0.38;0.00;No (1);costruito e firmato da Joseph William Duff (sec. XVIII). Precursore del sestante  anche l'ottante serviva per determinare l'altezza degli astri sull'orizzonte.
-sferoscopio;N#967;0.38;0.00;No (1);consente la lettura delle coordinate altazimutali corrispondenti a quelle locali orarie o equatoriali e - viceversa - di un astro assegnato
-consegnare;V#684;0.37;0.00;No (1);dare a un destinatario.
-ABS;N#1905;0.37;0.00;No (1);materiale termoplastico utilizzato nella costruzione di scafi inferiori ai 5 metri.
-baricentro;N#979;0.33;0.00;No (1);in un corpo o sistema di corpi  punto di applicazione della forza di gravitazione. 
-bordo;N#83;0.33;0.00;No (1);altezza del fianco della nave emergente
-navalmeccanica;N#11;0.33;0.00;No (1);
-segnalazione;N#1443;0.33;0.00;No (1);messaggio  comunicazione
-informazione;N#2398;0.32;0.00;No (1);elemento o dato che permette di venire a conoscenza di qcs.  notizia: chiedere un'informazione a qcn.  dare  fornire informazioni riservate  scambio di informazioni  trovare una buona fonte di informazioni  informazioni per l'utente  per i passeggeri.
-buttafuori;N#892;0.29;0.00;No (1);genericamente qualunque asta che tenga spinto verso l'esterno dello scafo un qualsiasi oggetto  tipicamente una vela o una scotta.
-spedizioniere;N#234;0.29;0.00;No (1);
-timoniere;N#947;0.29;0.00;No (1);persona addetta alla manovra della barra o della ruota del timone.
-costeggiare;V#662;0.22;0.00;No (1);navigare senza allontanarsi dalla costa.
-barometro;N#977;0.22;0.00;No (1);strumento meccanico o elettronico per la misura della pressione atmosferica.
-nave;N#6;0.20;0.00;No (1);"imbarcazione di una certa grandezza che  fornita di adeguati mezzi di propulsione  è adibita al trasporto di persone e merci o che  opportunamente attrezzata e armata  è impiegata in attività belliche.
-"
-naufragio;N#1523;0.19;0.00;No (1);incidente marittimo per cui una nave affonda o va distrutta
-classe;N#299;0.16;0.00;No (1);gruppo di imbarcazioni che possiedono le stesse caratteristiche.
-armare;V#703;0.16;0.00;No (1);mettere una qualunque attrezzatura  della nave e/o imbarcazione in condizione di svolgere la propria funzione.
-ponte;N#384;0.16;0.00;No (1);"ognuno di piani orizzontali che dividono l'interno delle navi nel senso dell'altezza  nelle imbarcazioni da diporto spesso il termine ponte coincide con ""coperta""."
-tecnologia;N#2137;0.16;0.00;No (1);attività volta a creare congegni e macchinari
-situare;V#422;0.16;0.00;No (1);porre  collocare una persona o una cosa in un determinato luogo.
-vela;N#131;0.16;0.00;No (1);ciascuno dei teli disposti verticalmente a bordo dei velieri in modo da ricevere la pressione del vento per utilizzarla come forza motrice.
-trimarano;N#946;0.14;0.00;No (1);imbarcazione a vela formata da uno scafo centrale e due laterali più piccoli  paralleli e simmetrici  uniti con traverse metalliche o in vetroresina  allo scafo centrale.
-condizione;N#2148;0.14;0.00;No (1);modo di essere
-bastimento;N#2347;0.12;0.00;No (1);nave per passeggeri o da carico di grandi dimensioni.
-betta;N#1933;0.12;0.00;No (1);piccola nave sussidiaria della Marina militare.
-goletta;N#1517;0.12;0.00;No (1);Veliero a due alberi (di trinchetta e di maestra) con vele auriche e bompresso.
-piroscafo;N#2348;0.12;0.00;No (1);nave mercantile a vapore  usata spec. in passato per il trasporto di merci e passeggeri.
-trireme;N#1955;0.12;0.00;No (1);antica nave da guerra greca e fenicia.
-vaporetto;N#573;0.12;0.00;No (1);piccola nave a vapore o a motore. 
-vascello;N#569;0.12;0.00;No (1);grande nave da guerra a tre ponti  tre alberi altissimi  pezzi di artiglieria e moltissime vele  in uso fino alla metà del XIX secolo.
-imposizione;N#273;0.10;0.00;No (1);le tasse  versamento di denaro dovuto dai cittadini allo stato
-isola;N#2690;0.09;0.00;No (1);
-cabina;N#1059;0.08;0.00;No (1);"piccola camera di un'imbarcazione  dotata di letti o cuccette.
-"
-trasferire;V#447;0.08;0.00;No (1);
-abbisciare;V#176;0.06;0.00;No (1);"avvolgere un cavo od una catena  ad ampie spire  in modo che possano svolgersi liberamente e scorrere senza impedimenti. 
-"
-abbandonare;V#722;0.00;0.00;No (1);l'atto di lasciare la nave in pericolo da parte del capitano e dell'equipaggio.
-abbeverare;V#2691;0.00;0.00;No (1);colmare d'acqua un'imbarcazione tirata in secco per far gonfiare il legname della chiglia cosicché collimi.
-abbonacciare;V#1818;0.00;0.00;No (1);il calmarsi del mare e del vento.
-abbrumare;V#2694;0.00;0.00;No (1);detto della carena lignea delle navi  corrodersi a causa di piante e molluschi marini che vi atteschiscono.
-abbuono;N#731;0.00;0.00;No (1);compenso di tempo concesso a barche a vela di caratteristiche  e dimensioni diverse che corrono in una stessa regata per permettere loro di correre in una condizione di parità.
-Abenra;NP#948;0.00;0.00;No (1);
-Aberdeen;NP#949;0.00;0.00;No (1);
-Aden;NP#950;0.00;0.00;No (1);
-aereo;AG#2612;0.00;0.00;No (1);pieno d'aria.
-affiorare;V#1820;0.00;0.00;No (1);l'apparire in superficie di un qualsiasi oggetto immerso nell'acqua.
-affondamento;N#2580;0.00;0.00;No (1);l'affondare e il suo risultato.
-Africa;NP#2628;0.00;0.00;No (1);
-Agadir;NP#1013;0.00;0.00;No (1);
-al traverso;AV#1721;0.00;0.00;No (1);col vento che proviene da una direzione perpendicolare (o approssimatamente tale) alla chiglia dell'imbarcazione.
-Alborg;NP#1014;0.00;0.00;No (1);
-Algeri;NP#1015;0.00;0.00;No (1);
-Alicante;NP#1016;0.00;0.00;No (1);
-allestimento;N#957;0.00;0.00;No (1);
-allineamento;N#845;0.00;0.00;No (1);linea che congiunge due punti fissi in mare o sulla costa  utilizzati per dare alle imbarcazioni percorsi sicuri  ad esempio per entrare in un ancoraggio o in un canale.
-Amalfi;NP#2360;0.00;0.00;No (1);
-Amburgo;NP#1202;0.00;0.00;No (1);
-Americhe;NP#2629;0.00;0.00;No (1);
-Amsterdam;NP#2418;0.00;0.00;No (1);
-Anchorage;NP#1017;0.00;0.00;No (1);
-Ancona;NP#2361;0.00;0.00;No (1);
-anemometro;N#77;0.00;0.00;No (1);Strumento per misurare la velocità del vento.
-Annaba;NP#1018;0.00;0.00;No (1);
-Anversa;NP#2336;0.00;0.00;No (1);
-Aqaba;NP#1019;0.00;0.00;No (1);
-arare;V#864;0.00;0.00;No (1);si dice dell'ancora quando non sta ben aggrappata al fondo
-Arbatax;NP#1020;0.00;0.00;No (1);
-Argo;NP#96;0.00;0.00;No (1);nome della nave di Giasone
-Arhus;NP#1021;0.00;0.00;No (1);
-armatore;N#79;0.00;0.00;No (1);la persona o la compagnia che arma una nave per usarla per viaggi o traffici mercantili  non necessariamente è il proprietario della nave.
-arruolare;V#813;0.00;0.00;No (1);assumere chi è iscritto nelle matricole della gente di mare  perché faccia parte dell'equipaggio.
-Arzew;NP#1022;0.00;0.00;No (1);
-Asia;NP#2630;0.00;0.00;No (1);
-Assab;NP#1023;0.00;0.00;No (1);
-Astoria;NP#1024;0.00;0.00;No (1);
-Atlantico;NP#2015;0.00;0.00;No (1);
-atollo;N#2665;0.00;0.00;No (1);isola composta da una particolare formazione di terra emersa e lagune.
-Australia;NP#2631;0.00;0.00;No (1);
-autorità;N#761;0.00;0.00;No (1);persona o ente investito di una carica pubblica o di potere legittimo.
-avvistare;V#621;0.00;0.00;No (1);scorgere qualcosa da lontano in mare.
-Baltimora;NP#1025;0.00;0.00;No (1);
-Banjul;NP#1026;0.00;0.00;No (1);
-Barcellona;NP#2152;0.00;0.00;No (1);
-Bari;NP#2363;0.00;0.00;No (1);
-Barranquilla;NP#1027;0.00;0.00;No (1);
-Barry;NP#1028;0.00;0.00;No (1);
-Bassora;NP#1029;0.00;0.00;No (1);
-Bastia;NP#1030;0.00;0.00;No (1);
-Baton_Rouge;NP#1031;0.00;0.00;No (1);
-battagliola;N#980;0.00;0.00;No (1);ringhiera metallica che si eleva al di sopra dei fianchi della nave per proteggere persone o carico.
-battente;N#1798;0.00;0.00;No (1);lato libero della bandiera.
-Bayonne;NP#1032;0.00;0.00;No (1);
-Belfast;NP#1033;0.00;0.00;No (1);
-Belgrado;NP#2491;0.00;0.00;No (1);
-bengala;N#983;0.00;0.00;No (1);razzo utilizzato per segnalare emergenze o per illuminare dall'alto.
-Bergen;NP#1034;0.00;0.00;No (1);
-Bilbao;NP#2425;0.00;0.00;No (1);
-boccaporto;N#851;0.00;0.00;No (1);apertura praticata nella coperta delle imbarcazioni e delle navi per il passaggio delle persone o delle merci tra i diversi livelli di ponte.
-Boma;NP#1037;0.00;0.00;No (1);
-Bordeaux;NP#1038;0.00;0.00;No (1);
-Boston;NP#2164;0.00;0.00;No (1);
-Boulogne;NP#1039;0.00;0.00;No (1);
-Brema;NP#1040;0.00;0.00;No (1);
-Brest;NP#1041;0.00;0.00;No (1);
-Bridgetown;NP#1036;0.00;0.00;No (1);
-Brindisi;NP#2445;0.00;0.00;No (1);
-bugliolo;N#891;0.00;0.00;No (1);nome marinaro per recipienti a forma di secchio.
-Cadice;NP#1042;0.00;0.00;No (1);
-Cagliari;NP#2259;0.00;0.00;No (1);
-Calais;NP#1043;0.00;0.00;No (1);
-campionare;V#595;0.00;0.00;No (1);
-capo;N#1091;0.00;0.00;No (1);"promontorio o sporgenza della costa  normalmente alto sul mare.
-"
-Capo_Carbonara;NP#2586;0.00;0.00;No (1);
-Capo_Rizzuto;NP#2587;0.00;0.00;No (1);
-cappellano;N#807;0.00;0.00;No (1);
-Capraia;NP#2260;0.00;0.00;No (1);
-Capri;NP#2364;0.00;0.00;No (1);
-Cardiff;NP#2463;0.00;0.00;No (1);
-carenaggio;N#718;0.00;0.00;No (1);operazione con cui si mette in secco la carena per ripulire la carena o eseguire riparazioni.
-Carrara;NP#2446;0.00;0.00;No (1);
-carrello;N#1331;0.00;0.00;No (1);sistema scorrevole su una rotaia che porta uno o più bozzelli nei quali scorrono le scotte che regolano le diverse vele.
-Cartagena;NP#1044;0.00;0.00;No (1);
-carteggiare;V#780;0.00;0.00;No (1);tracciare e seguire una rotta sulle carte nautiche.
-carteggio;N#779;0.00;0.00;No (1);procedimento per tracciare e seguire una rotta sulle carte nautiche .
-Caspio;NP#2052;0.00;0.00;No (1);
-Catania;NP#2367;0.00;0.00;No (1);
-cavitazione;N#1183;0.00;0.00;No (1);"Effetto turbolento dell'elica causato da una velocità di rotazione troppo elevata  che determina un decadimento della spinta.
-"
-centinatura;N#1336;0.00;0.00;No (1);curvatura trasversale della ordinata.
-Cherbourg;NP#1045;0.00;0.00;No (1);
-Chioggia;NP#2447;0.00;0.00;No (1);
-Cinque_Terre;NP#2588;0.00;0.00;No (1);
-Civitavecchia;NP#2368;0.00;0.00;No (1);
-classificazione;N#1338;0.00;0.00;No (1);indica la tipologia ed il grado di bontà e di affidabilità  per le navi e talvolta anche per imbarcazioni da diporto di considerevole dimensione e pregio. . E' determinato da funzionari del registro navale (in Italia il RINA). 
-collo;N#1350;0.00;0.00;No (1);"Giro completo di una cima attorno ad un punto fisso  normalmente una bitta  per bloccarla.
-"
-coltellaccio;N#665;0.00;0.00;No (1);tipo di vela a forma di trapezio
-committente;N#599;0.00;0.00;No (1);chi attraverso un commissionario fa acquisti o vendite di merci o di titoli
-comperare;V#940;0.00;0.00;No (1);ottenere in proprietà dando del denaro.
-consegnatario;N#242;0.00;0.00;No (1);chi ha in consegna qualcosa.
-consumatore;N#602;0.00;0.00;No (1);chi acquista e consuma i prodotti dell'industria per i propri fabbisogni.
-contagiri;N#1355;0.00;0.00;No (1);"Strumento  meccanico od elettronico  per la misurazione del numero di rivoluzioni dell'albero motore (giri del motore). 
-"
-contraliseo;N#841;0.00;0.00;No (1);vento di direzione opposta all'aliseo.
-Copenhagen;NP#1046;0.00;0.00;No (1);
-Corinto;NP#2171;0.00;0.00;No (1);
-Cork;NP#1047;0.00;0.00;No (1);
-coronamento;N#1363;0.00;0.00;No (1);"bordo superiore o ringhiera (battagliola) di poppa dell'imbarcazione.
-"
-Cristoforo_Colombo;NP#1249;0.00;0.00;No (1);navigatore (Genova 1451-Valladolid 1506)
-crocetta;N#1367;0.00;0.00;No (1);"barra fissata perpendicolamente all'albero  a diverse altezze  nel senso trasversale dell'imbarcazione  all'estremità della quale passano le sartie laterali che sostengono
-l'albero stesso. 
-"
-Crotone;NP#2369;0.00;0.00;No (1);
-cubia;N#854;0.00;0.00;No (1);foro praticato nello scafo che permette il passaggio della catena dell'ancora. Nelle navi si trovano lateralmente da due a quattro cubie.
-Dakar;NP#1049;0.00;0.00;No (1);
-decreto;N#2057;0.00;0.00;No (1);atto del governo che stabilisce nuove norme amministrative.
-dente di cane;N#1374;0.00;0.00;No (1);"incrostazione calcarea che si forma sulla carena delle imbarcazioni ad opera di un organismo marino.
-"
-deriva;N#115;0.00;0.00;No (1);spostamento operato da una massa liquida in movimento
-disalberare;V#1437;0.00;0.00;No (1);"smontare gli alberi di un veliero per manutenzione. Si dice anche nel caso in cui l'alberatura venga spezzata dal vento o da avarie di diversa natura. 
-"
-disarmare;V#773;0.00;0.00;No (1);"opposto di ""armare""  significa sbarcare tutte le attrezzature e porre l'imbarcazione in disarmo  cioè in demolizione."
-disarmo;N#781;0.00;0.00;No (1);stato in cui si trova un'imbarcazione quando è priva degli strumenti necessari alla navigazione o  più specificatamente  al combattimento.
-disincagliare;V#1439;0.00;0.00;No (1);"liberare una imbarcazione la cui chiglia si è posata o incastrata in una secca o su un bassofondo. 
-"
-Doha;NP#1050;0.00;0.00;No (1);
-Dordrecht;NP#1051;0.00;0.00;No (1);
-Dover;NP#1053;0.00;0.00;No (1);
-Drammen;NP#1054;0.00;0.00;No (1);
-Dubai;NP#1131;0.00;0.00;No (1);
-Dublino;NP#2417;0.00;0.00;No (1);
-Dundee;NP#1138;0.00;0.00;No (1);porto della Scozia.
-Dunkerque;NP#1139;0.00;0.00;No (1);
-Durazzo;NP#1140;0.00;0.00;No (1);
-Durban;NP#1141;0.00;0.00;No (1);
-Eleusi;NP#1142;0.00;0.00;No (1);
-eliografo;N#2554;0.00;0.00;No (1);strumento per la misura dell'eliofania.
-Emden;NP#1143;0.00;0.00;No (1);
-estintore;N#1466;0.00;0.00;No (1);"recipiente metallico che contiene gas  polvere o schiuma sotto pressione atta a spegnere il fuoco. 
-"
-Europa;NP#2632;0.00;0.00;No (1);
-falla;N#183;0.00;0.00;No (1);apertura nella carena di una imbarcazione  causata da un incidente  dalla quale entra acqua di mare nello scafo.
-Felixstowe;NP#1144;0.00;0.00;No (1);
-fermare;V#651;0.00;0.00;No (1);fissare in anticipo (una camera in albergo  un posto a teatro  ecc.).
-Ferrol;NP#1145;0.00;0.00;No (1);
-fiera;N#2080;0.00;0.00;No (1);grande mostra mercato nazionale o internazionale che si tiene periodicamente in una determinata località e che riguarda tutti o solo alcuni settori produttivi.
-Filadelfia;NP#2163;0.00;0.00;No (1);
-fiume;N#1481;0.00;0.00;No (1);corso d'acqua dolce di consistente dimensione spesso navigabile.
-Fiume;NP#2340;0.00;0.00;No (1);
-Fiumicino;NP#2371;0.00;0.00;No (1);
-Fleetwood;NP#1146;0.00;0.00;No (1);
-Formia;NP#2372;0.00;0.00;No (1);
-forza;N#1988;0.00;0.00;No (1);intensità del vento espressa secondo i gradi della scala Beaufort  lo stato del mare considerato in relazione al vento ed espresso con i gradi della stessa scala.
-Fredericia;NP#1147;0.00;0.00;No (1);
-Frederikshavn;NP#1148;0.00;0.00;No (1);
-Freetown;NP#1149;0.00;0.00;No (1);
-Freja;NP#1048;0.00;0.00;No (1);
-galleggiamento;N#1501;0.00;0.00;No (1);lo stare a galla.
-Gand;NP#1150;0.00;0.00;No (1);
-gas;N#2076;0.00;0.00;No (1);sostanza aeriforme
-gasolio;N#2077;0.00;0.00;No (1);liquido
-Genova;NP#2373;0.00;0.00;No (1);
-germogliare;V#2117;0.00;0.00;No (1);emettere getti o germogli.
-gettare;V#2115;0.00;0.00;No (1);allontanare  mandare al macero  roba rotta  vecchia  inservibile.
-gettare;V#2116;0.00;0.00;No (1);versare  far colare in uno stampo materiale fuso.
-gettare;V#2118;0.00;0.00;No (1);causare un cambiamento negativo  mettere in una condizione peggiore .
-Gibuti;NP#1152;0.00;0.00;No (1);
-Gioia_Tauro;NP#2374;0.00;0.00;No (1);
-Giovanni_Caboto;NP#1250;0.00;0.00;No (1);navigatore (1420-1498) nato forse a Genova
-Giovanni_da_Verrazzano;NP#1251;0.00;0.00;No (1);navigatore (Firenze 1485-1528)
-Glasgow;NP#1154;0.00;0.00;No (1);
-Golfo_Arabico;NP#1198;0.00;0.00;No (1);
-Goole;NP#1155;0.00;0.00;No (1);
-Goteborg;NP#2428;0.00;0.00;No (1);
-Grangemouth;NP#1156;0.00;0.00;No (1);
-Great_Yarmouth;NP#1157;0.00;0.00;No (1);
-Greenock;NP#1158;0.00;0.00;No (1);
-grillo;N#1531;0.00;0.00;No (1);maniglione a forma di U  si usa come parte terminale dei cavi d'acciaio che ad esso sono fissati con un occhio piombato ed una redancia.
-pozza;N#2621;0.00;0.00;No (1);quantità di liquido versato in terra.
-Halmstad;NP#1159;0.00;0.00;No (1);
-Haugesund;NP#1160;0.00;0.00;No (1);
-Helsinki;NP#2344;0.00;0.00;No (1);
-Honolulu;NP#1161;0.00;0.00;No (1);
-Hudson;NP#1313;0.00;0.00;No (1);navigatore  imbarcatosi per conto degli Olandesi  esplorò le coste del nord del Canada (?-1611?).
-Hull;NP#1162;0.00;0.00;No (1);
-Ibiza;NP#1132;0.00;0.00;No (1);
-idrodinamica;N#1564;0.00;0.00;No (1);branca della fisica che studia il moto dell'acqua e l'effetto prodotto dal movimento dei corpi immersi.
-idrografia;N#1565;0.00;0.00;No (1);"scienza del rilevamento e della rappresentazione grafica  su carte ad uso dei naviganti  delle coste  dei mari e delle acque interne.
-"
-idroscalo;N#1567;0.00;0.00;No (1);"spazio in mare (o in acque interne) adibito al decollo e atterraggio di idrovolanti. 
-"
-idrostatica;N#1569;0.00;0.00;No (1);"branca della fisica che studia il comportamento dei corpi immersi e le relative caratteristiche di galleggiabilità.
-"
-idrovolante;N#1571;0.00;0.00;No (1);"velivolo a fondo piatto  spesso dotato di scarponi galleggianti laterali  adatto all'atterraggio e decollo in mare. 
-"
-igrometro;N#1572;0.00;0.00;No (1);"strumento misuratore dell'umidità relativa dell'aria  tarato da 0 a 100%. 
-"
-imballo;N#258;0.00;0.00;No (1);l'involucro usato per imballare
-imbarcare;V#616;0.00;0.00;No (1);caricare o prendere a bordo di una nave o di un'imbarcazione in genere cose persone animali.
-imbarcarsi;V#55;0.00;0.00;No (1);salire a bordo.
-imbarcatoio;N#57;0.00;0.00;No (1);sovrastruttura della banchina che facilita le operazioni di imbarco e sbarco dei passeggeri.
-imbarco;N#615;0.00;0.00;No (1);azione dell'imbarcare.
-imbracare;V#1585;0.00;0.00;No (1);legare un oggetto con cavi  catene o reti per alzarlo con una gru. 
-immergersi;V#1602;0.00;0.00;No (1);"Dicesa sott'acqua in apnea o con autorespiratore  effettuata per lavoro sottomarino o per effettuare controlli. 
-"
-Immingham;NP#1163;0.00;0.00;No (1);
-impedimento;N#2125;0.00;0.00;No (1);impedimento non fisico 
-impiombatura;N#1609;0.00;0.00;No (1);"sistema tradizionale per unire le estremità di due cime in tessile  intrecciando i legnuoli della cime per una lunghezza ampia in modo da garantire una perfetta tenuta. 
-"
-import;N#2183;0.00;0.00;No (1);l'importare.
-incagliarsi;V#1440;0.00;0.00;No (1);si dice quando un'imbarcazione rimane bloccata su una secca o un bassofondo sabbioso.
-inclinazione;N#633;0.00;0.00;No (1);posizione di un corpo quando forma un angolo rispetto a un piano di riferimento
-incocciare;V#1627;0.00;0.00;No (1);"sinonimo marinaresco di agganciare  cioè inserire un gancio o un grillo in un anello o in un occhio di una cima. 
-"
-incrocio;N#1629;0.00;0.00;No (1);"indica l'avvicinamento di due velieri che navigano con ""mure opposte"" e su rotte convergenti o quasi.
-"
-indicatore;N#1614;0.00;0.00;No (1);Strumento o pannello che riporta o ripete una misura (velocità  profondità  pressione  etc.).
-infrastruttura;N#2011;0.00;0.00;No (1);insieme degli impianti e delle installazioni che permettono l'espletamento di un servizio.
-ingaggio;N#1631;0.00;0.00;No (1);si  dice quando  in una regata velica  una imbarcazione raggiunge una seconda e ne supera la poppa con la sua prua.
-intermediatore;N#263;0.00;0.00;No (1);chi fa da tramite tra due o più persone
-invasatura;N#1632;0.00;0.00;No (1);insieme di strutture che sostiene la nave prima e durante il varo.
-Ionio;NP#1964;0.00;0.00;No (1);
-Ipswich;NP#1164;0.00;0.00;No (1);
-isobara;N#1607;0.00;0.00;No (1);curva che  sulle carte metero  unisce i punti di uguale pressione atmosferica. 
-Isole_Ciclopi;NP#2589;0.00;0.00;No (1);
-Isole_Egadi;NP#2601;0.00;0.00;No (1);
-Isole_Tremiti;NP#2591;0.00;0.00;No (1);
-isoterma;N#1605;0.00;0.00;No (1);"Curva che  su particolari carte  unisce i punti di uguale temperatura rilevata o prevista. 
-"
-Istanbul;NP#1165;0.00;0.00;No (1);
-istmo;N#1604;0.00;0.00;No (1);striscia di terra che unisce due continenti o una penisola a un continente e separa due mari.
-Kalmar;NP#1166;0.00;0.00;No (1);
-Karlstad;NP#1167;0.00;0.00;No (1);
-Kiel;NP#2455;0.00;0.00;No (1);
-Spezia;NP#2377;0.00;0.00;No (1);
-La_Valletta;NP#1169;0.00;0.00;No (1);
-lago;N#2620;0.00;0.00;No (1);massa d'acqua circondata dalla terra
-landa;N#1635;0.00;0.00;No (1);"piastra di acciaio alla quale si fissa il capo inferiore del sartiame che sostiene l'albero (laterale  a prua e a poppa). 
-"
-larghezza;N#1636;0.00;0.00;No (1);"distanza tra i due punti estremi della ""sezione maestra"" cioè della parte più larga della coperta  includendo il fasciame. 
-"
-Larne;NP#1170;0.00;0.00;No (1);
-Las_Palmas;NP#1171;0.00;0.00;No (1);
-lasco;AG#1637;0.00;0.00;No (1);dicesi di una cima  di una manovra o di una vela allentata.
-Le_Havre;NP#1172;0.00;0.00;No (1);
-Leith;NP#1173;0.00;0.00;No (1);
-Limerick;NP#1188;0.00;0.00;No (1);
-Lisbona;NP#660;0.00;0.00;No (1);
-listino;N#261;0.00;0.00;No (1);elenco dei prezzi
-Liverpool;NP#1189;0.00;0.00;No (1);
-Livorno;NP#121;0.00;0.00;No (1);
-Londonderry;NP#1190;0.00;0.00;No (1);
-Londra;NP#2421;0.00;0.00;No (1);
-longitudine;N#1360;0.00;0.00;No (1);distanza di un luogo dal meridiano fondamentale  misurata in gradi
-Lowestoft;NP#1191;0.00;0.00;No (1);
-Lubecca;NP#1192;0.00;0.00;No (1);
-Luderitz;NP#1193;0.00;0.00;No (1);
-madiere;N#1342;0.00;0.00;No (1);"zona inferiore della costola (parte del quinto o ordinata) dello scafo  che si incastra nella chiglia.
-"
-Madras;NP#1194;0.00;0.00;No (1);
-mal_di_mare;N#1408;0.00;0.00;No (1);mal di mare
-Malaga;NP#1195;0.00;0.00;No (1);
-Malmoe;NP#1196;0.00;0.00;No (1);
-Manchester;NP#2422;0.00;0.00;No (1);
-Maputo;NP#1206;0.00;0.00;No (1);
-Mar dei Caraibi;NP#2053;0.00;0.00;No (1);
-Mar dei Sargassi;NP#2056;0.00;0.00;No (1);
-Mar_Cinese_Meridionale;NP#2060;0.00;0.00;No (1);
-Mar_Cinese_Orientale;NP#2061;0.00;0.00;No (1);
-Mar_dei_Coralli;NP#2062;0.00;0.00;No (1);
-Mar_del_Giappone;NP#2063;0.00;0.00;No (1);
-Mar_del_Nord;NP#2064;0.00;0.00;No (1);
-Mar_di_Sardegna;NP#2065;0.00;0.00;No (1);
-Mar_Eussino;NP#2066;0.00;0.00;No (1);
-Mar_Giallo;NP#2067;0.00;0.00;No (1);
-Mar_Nero;NP#2068;0.00;0.00;No (1);
-Mar_Rosso;NP#2069;0.00;0.00;No (1);
-Mare-Nostrum;NP#2055;0.00;0.00;No (1);
-marina;N#2243;0.00;0.00;No (1);quadro raffigurante un paesaggio di mare
-Marina_di_Carrara;NP#50;0.00;0.00;No (1);
-marinaio;N#53;0.00;0.00;No (1);uomo di mare  esperto di mare
-marinaio;N#54;0.00;0.00;No (1);nella marina mercantile  qualifica del personale di coperta maggiorenne e con almeno due anni di servizio
-Marsiglia;NP#2145;0.00;0.00;No (1);
-Mascat;NP#1207;0.00;0.00;No (1);
-Mazara_del_Vallo;NP#1208;0.00;0.00;No (1);
-medico di bordo;N#803;0.00;0.00;No (1);
-Mercato_Comune_Europeo;NP#2354;0.00;0.00;No (1);
-meridiano;N#1719;0.00;0.00;No (1);ciascuno dei circoli massimi della Sfera Terrestre passanti per i due Poli.
-Messina;NP#2448;0.00;0.00;No (1);
-meteorologicamente;AV#2574;0.00;0.00;No (1);per quanto riguarda la meteorologia
-meteorologico;AG#2575;0.00;0.00;No (1);relativo alla meteorologia
-meteorologo;N#2576;0.00;0.00;No (1);
-meteoropatia;N#2577;0.00;0.00;No (1);complesso di disturbi legati a particolari condizioni atmosferiche
-Milazzo;NP#2379;0.00;0.00;No (1);
-Milford_Haven;NP#1209;0.00;0.00;No (1);
-minerale;N#2074;0.00;0.00;No (1);sostanza solida inorganica omogenea
-Miramare;NP#2592;0.00;0.00;No (1);
-missiva;N#260;0.00;0.00;No (1);testo epistolare
-mittente;N#487;0.00;0.00;No (1);chi invia una lettera  un pacco ecc.  per posta  posta elettronica  corriere ecc.
-Monfalcone;NP#1211;0.00;0.00;No (1);
-Monopoli;NP#1212;0.00;0.00;No (1);
-Montego_Bay;NP#1213;0.00;0.00;No (1);
-Morse;NP#290;0.00;0.00;No (1);inventore statunitense (1791-1872)  dalle scoperte di Ampère trasse spunto per l'invenzione del telegrafo elettrico.
-moschettone;N#1724;0.00;0.00;No (1);gancio metallico.
-movimento;N#2280;0.00;0.00;No (1);ciascuna parte  caratterizzata da un ritmo diverso  di una composizione musicale.
-mozzo;N#812;0.00;0.00;No (1);nell'attuale Marina mercantile membro dell'equipaggio imbarcato come apprendista.
-murata;N#459;0.00;0.00;No (1);parete laterale di nave o imbarcazione  dalla linea di galleggiamento alla battagliola. E' la parte emersa della fiancata.
-muro;N#2126;0.00;0.00;No (1);costruzione in muratura  in sassi  mattoni o altro  commesso con calcina o cemento.
-Nacala;NP#1214;0.00;0.00;No (1);
-Nakskov;NP#1215;0.00;0.00;No (1);
-Namibe;NP#1216;0.00;0.00;No (1);
-Nantes;NP#1217;0.00;0.00;No (1);
-Napoli;NP#2380;0.00;0.00;No (1);
-Nave_Argo;NP#28;0.00;0.00;No (1);costellazione australe
-navigabile;AG#36;0.00;0.00;No (1);che può essere percorso da navi
-Newport;NP#1219;0.00;0.00;No (1);
-North_Atlantic_Treaty_Organization_(Organizzazione_del_Trattato_nord_atlantico);NP#2355;0.00;0.00;No (1);
-nuvolosità;N#2528;0.00;0.00;No (1);
-Nyborg;NP#1220;0.00;0.00;No (1);
-Oceania;NP#2633;0.00;0.00;No (1);
-Odense;NP#1221;0.00;0.00;No (1);
-Olbia;NP#2256;0.00;0.00;No (1);
-Organizzazione_delle_Nazioni_Unite;NP#2356;0.00;0.00;No (1);
-Oslo;NP#1222;0.00;0.00;No (1);
-Ostenda;NP#1223;0.00;0.00;No (1);
-osteriggio;N#850;0.00;0.00;No (1);chiusura ermetica di boccaporto nelle imbarcazioni da diporto.
-Owendo;NP#1224;0.00;0.00;No (1);
-Pacifico;NP#2016;0.00;0.00;No (1);
-Palermo;NP#2382;0.00;0.00;No (1);
-Parigi;NP#2351;0.00;0.00;No (1);
-parola;N#2245;0.00;0.00;No (1);
-Penisola_del_Sinis-Isola_Mal_di_Ventre;NP#2593;0.00;0.00;No (1);
-Pensacola;NP#1225;0.00;0.00;No (1);
-percorrere;V#2687;0.00;0.00;No (1);percorrere una distanza.
-periplo;N#2686;0.00;0.00;No (1);nella letteratura greco-latina  descrizione di un viaggio marittimo
-pesca;N#2027;0.00;0.00;No (1);tipo di lotteria
-pescaia;N#2028;0.00;0.00;No (1);sbarramento collocato lungo il corso di un fiume
-pescare;V#1550;0.00;0.00;No (1);"termine molto usato nella marineria col significato di ""essere immerso"" relativamente ad uno scafo.
-"
-pescato;N#2029;0.00;0.00;No (1);quantità di pesce pescato
-pescatore;N#2030;0.00;0.00;No (1);chi si dedica alla pesca per mestiere o per sport.
-pesce;N#2033;0.00;0.00;No (1);errore di stampa che consiste nel saltare una parola o una frase dell'originale.
-pesce;N#2034;0.00;0.00;No (1);il pesce commestibile usato come alimento.
-pescheria;N#2038;0.00;0.00;No (1);
-peschiera;N#2039;0.00;0.00;No (1);
-pesciaiola;N#2040;0.00;0.00;No (1);
-peseta;N#2042;0.00;0.00;No (1);moneta
-pesista;N#2043;0.00;0.00;No (1);atleta che pratica il sollevamento pesi
-Piombino;NP#2383;0.00;0.00;No (1);
-pirata;N#2241;0.00;0.00;No (1);"persona avida e priva di scrupoli  che si arricchisce in modo disonesto a spese degli altri: i pirati della finanza  dell'industria.
-"
-planare;V#1414;0.00;0.00;No (1);dicesi di uno scafo o un galleggiante che  per effetto della velocità e della forma  riesce a navigare a pelo d'acqua o comunque si solleva rispetto alla sua immersione in condizioni normali.
-Pola;NP#2342;0.00;0.00;No (1);
-Polo_Sud;NP#2634;0.00;0.00;No (1);
-Poole;NP#1226;0.00;0.00;No (1);
-Portland;NP#1330;0.00;0.00;No (1);
-Portland;NP#2162;0.00;0.00;No (1);
-Porto_Cesareo;NP#2594;0.00;0.00;No (1);
-Porto_Santo_Stefano;NP#1227;0.00;0.00;No (1);
-Porto_Vesme;NP#1229;0.00;0.00;No (1);
-Portoferraio;NP#1230;0.00;0.00;No (1);
-Portofino;NP#2386;0.00;0.00;No (1);
-Portofino;NP#2595;0.00;0.00;No (1);
-portolano;N#1666;0.00;0.00;No (1);libro che elenca i porti di una regione e ne descrive le coste i fondali i venti e le correnti  indispensabile per la navigazione.
-Portsmouth;NP#1231;0.00;0.00;No (1);
-Pozzuoli;NP#2388;0.00;0.00;No (1);
-premiare;V#2127;0.00;0.00;No (1);
-Procida;NP#2389;0.00;0.00;No (1);
-proroga;N#2703;0.00;0.00;No (1);posposizione di una scadenza  ritardo.
-provento;N#2189;0.00;0.00;No (1);denaro che risulta dalla differenza tra incassi e spese  ciò che si ottiene economicamente  profitto
-Providence;NP#1232;0.00;0.00;No (1);
-puleggia;N#1658;0.00;0.00;No (1);"rotella del bozzello (o di una carrucola) scanalata alla periferia per consentirne l'aderenza delle cime o dei cavi d'acciaio.
-"
-Punta_Campanella;NP#2596;0.00;0.00;No (1);
-quadrante;N#1664;0.00;0.00;No (1);ciascuno dei quattro settori di 90° compresi tra i quattro punti cardinali nella rosa della bussola  e di conseguenza nell'orizzonte marino.
-quota;N#2529;0.00;0.00;No (1);altezza in metri rispetto al livello marino medio.
-radio;N#213;0.00;0.00;No (1);apparecchio radiofonico.
-radio;N#214;0.00;0.00;No (1);sistema di trasmissione
-radiogoniometro;N#1739;0.00;0.00;No (1);strumento in grado di rilevare le onde radio emesse da un radiofaro  per rilevare da bordo la direzione di un radiofaro e quindi ottenere informazioni utili per la navigazione costiera.
-Ramsgate;NP#1233;0.00;0.00;No (1);
-Ravenna;NP#2390;0.00;0.00;No (1);
-recapitare;V#686;0.00;0.00;No (1);
-reclamo;N#265;0.00;0.00;No (1);lamentanza
-relitto;N#2666;0.00;0.00;No (1);"persona ridotta in stato di miseria fisica o spirituale  che vive ai margini della società: ""l'alcol lo ha trasformato in un relitto umano"".
-"
-remeggio;N#706;0.00;0.00;No (1);
-Reykjavik;NP#1234;0.00;0.00;No (1);
-ricevuta;N#266;0.00;0.00;No (1);tagliando che attesta un pagamento
-ridosso;N#1772;0.00;0.00;No (1);terra emersa abbastanza alta da costituire un riparo dalla forza del mare e del vento (un'isola  una montagna  etc.).
-rifiutare;V#1775;0.00;0.00;No (1);dicesi del vento quando scarseggia e di conseguenza delle vele quando non portano a causa di tale diminuzione.
-rifiuto;N#1777;0.00;0.00;No (1);zona della vela che si sgonfia in prossimità del bordo di entrata  a causa di un calo di vento o ad un cambio di direzione  e che quindi diminuisce la sua spinta propulsiva.
-Riga;NP#2481;0.00;0.00;No (1);
-rimorchiare;V#230;0.00;0.00;No (1);trascinare  dietro o di fianco  una nave o imbarcazione priva dei suoi mezzi di propulsione.
-rinfrescare;V#1786;0.00;0.00;No (1);allentare i cavi di ormeggio o le manovre  mutandone i punti di attacco o do volta.
-riserva_marina;N#2585;0.00;0.00;No (1);area marina protetta spec. per le sue caratteristiche ecologiche.
-ritardo;N#523;0.00;0.00;No (1);il tempo di cui si ritarda
-rivaleggiare;N#2104;0.00;0.00;No (1);
-rollare;V#974;0.00;0.00;No (1);avvolgere le vele attorno a un sistema di coperta.
-Ronne;NP#1235;0.00;0.00;No (1);
-Rostock;NP#1236;0.00;0.00;No (1);
-rotta;N#216;0.00;0.00;No (1);percorso di una nave o di un mezzo aereo
-Rouen;NP#1237;0.00;0.00;No (1);
-sagoma;N#524;0.00;0.00;No (1);linea di contorno di una cosa
-Sahara;NP#2627;0.00;0.00;No (1);deserto sabbioso.
-Saint_Malo;NP#1238;0.00;0.00;No (1);
-Salerno;NP#2391;0.00;0.00;No (1);
-Salonicco;NP#2413;0.00;0.00;No (1);
-salvare;V#742;0.00;0.00;No (1);mettere in salvo.
-Samsun;NP#1278;0.00;0.00;No (1);
-San_Remo;NP#1279;0.00;0.00;No (1);
-Santander;NP#2460;0.00;0.00;No (1);
-Savannah;NP#1247;0.00;0.00;No (1);
-Savona;NP#2397;0.00;0.00;No (1);
-sbandare;V#907;0.00;0.00;No (1);inclinarsi lateralmente a causa del vento  del moto ondoso o di uno spostamento dei pesi a bordo.
-sbarcare;V#617;0.00;0.00;No (1);scendere a terra da una imbarcazione. 
-sbarcare;V#618;0.00;0.00;No (1);mettere a terra un carico.
-sbarco;N#267;0.00;0.00;No (1);operazione di togliere il carico
-sbattere;V#1718;0.00;0.00;No (1);"si dice delle vele quando  a causa del vento debole  si gonfiano e sgonfiano alternativamente  provocando un rumore di frusta. 
-"
-scadere;V#1422;0.00;0.00;No (1);"lo spostarsi di un galleggiante in senso laterale per effetto del vento (scarroccio) o di altre cause  ad es. una corrente marina.
-"
-scandaglio;N#905;0.00;0.00;No (1);strumento per misurare la profondità delle acque.
-scartamento;N#525;0.00;0.00;No (1);distanza tra le rotaie
-scassa;N#1423;0.00;0.00;No (1);l'alloggiamento del piede dell'albero  nelle imbarcazioni a vela.
-scia;N#1424;0.00;0.00;No (1);solco lasciato da un galleggiante in moto
-scia;N#1425;0.00;0.00;No (1);traccia lasciata da qualcosa nell'aria  sulla terra o nell'acqua
-scoglio;N#1426;0.00;0.00;No (1);roccia di diversa natura  che emerge dal mare in prossimità della costa e spesso costituisce un pericolo per la navigazione.
-scostare;V#1427;0.00;0.00;No (1);deviare dalla rotta prestabilita.
-Sebastiano_Caboto;NP#1252;0.00;0.00;No (1);navigatore (Venezia 1476-Londra 1557) figlio di Giovanni
-senseria;N#268;0.00;0.00;No (1);
-serbatoio;N#2200;0.00;0.00;No (1);
-Setubal;NP#1280;0.00;0.00;No (1);
-sicuramente;AV#2682;0.00;0.00;No (1);con sicurezza: in nave si viaggia sicuramente
-sicuro;AG#2681;0.00;0.00;No (1);che non comporta pericoli
-Siviglia;NP#1281;0.00;0.00;No (1);
-Smirne;NP#1282;0.00;0.00;No (1);
-soffiare;V#2582;0.00;0.00;No (1);detto del vento.
-solcometro;N#1729;0.00;0.00;No (1);strumento per misurare la velocità delle imbarcazioni.
-Southampton;NP#1283;0.00;0.00;No (1);
-Spalato;NP#2338;0.00;0.00;No (1);
-speronare;V#1875;0.00;0.00;No (1);colpire un'altra nave con lo sperone o con la prora  incidentalmente o durante un'azione di guerra.
-statuizione;N#2058;0.00;0.00;No (1);deliberazione  ordine  decisione di un'autorità.
-Stavanger;NP#1285;0.00;0.00;No (1);
-stecca;N#1746;0.00;0.00;No (1);"lama o profilato plastico di diversa forma e sezione che  inserito nel lato di balumina della randa  contribuisce a mantenerla distesa.
-"
-Stella Polare;NP#547;0.00;0.00;No (1);nave militare
-Stettino;NP#1286;0.00;0.00;No (1);
-Stoccolma;NP#2431;0.00;0.00;No (1);
-stopper;N#1748;0.00;0.00;No (1);attrezzo in grado di bloccare le scotte  normalmente formato da una ganascia  azionata con una leva  che frena la scotta dentro una apposita guida.
-Sud_America;NP#2635;0.00;0.00;No (1);
-Sunderland;NP#1287;0.00;0.00;No (1);
-Swansea;NP#1288;0.00;0.00;No (1);
-Sydney;NP#1245;0.00;0.00;No (1);
-Sydney;NP#1321;0.00;0.00;No (1);
-Tacoma;NP#1289;0.00;0.00;No (1);
-Tallin;NP#1290;0.00;0.00;No (1);
-Tampa;NP#1291;0.00;0.00;No (1);
-Tangeri;NP#1292;0.00;0.00;No (1);
-Taranto;NP#1244;0.00;0.00;No (1);
-Tarragona;NP#1293;0.00;0.00;No (1);
-Tavolara-Punta_Coda_Cavallo;NP#2597;0.00;0.00;No (1);
-tavoletta;N#1757;0.00;0.00;No (1);"pezzo di materiale sintetico a forma di triangolo  che viene cucito sulla parte superiore della randa per renderla più resistente.
-"
-tenersi_a_galla;V#1500;0.00;0.00;No (1);
-Tirreno;NP#1962;0.00;0.00;No (1);
-Toronto;NP#2160;0.00;0.00;No (1);
-Torre_Guaceto;NP#2598;0.00;0.00;No (1);
-traghettare;V#451;0.00;0.00;No (1);
-transito;N#276;0.00;0.00;No (1);passaggio  il passare.
-Trapani;NP#2395;0.00;0.00;No (1);
-trapezio;N#945;0.00;0.00;No (1);imbragatura usata dai prodieri delle piccole imbarcazioni da regata  per porgersi fuoribordo.
-traverso;N#1720;0.00;0.00;No (1);direzione perpendicolare a quella della chiglia  nei due lati dell'imbarcazione. Si dice comunemente: traverso di dritta e traverso di sinistra.
-Trebisonda;NP#1295;0.00;0.00;No (1);
-tribordo;N#712;0.00;0.00;No (1);lato destro di un'imbarcazione.
-Trieste;NP#2396;0.00;0.00;No (1);
-tuga;N#1764;0.00;0.00;No (1);nelle navi identifica qualsiasi sovrastruttura chiusa elevata su un ponte  ad esempio per un passaggio coperto o per proteggere attrezzature.
-Tunisi;NP#2261;0.00;0.00;No (1);
-Turku;NP#1296;0.00;0.00;No (1);
-uragano;N#2095;0.00;0.00;No (1);distruzione di edifici  manufatti  ecc.  in mare la schiuma e gli spruzzi riducono assai la visibilità. Velocità del vento oltre 118 Km. orari. Grado 12 della scala Beaufort.
-urbe;N#2672;0.00;0.00;No (1);un centro abitato di dimensioni variabili dal medio al grande
-Ustica;NP#2599;0.00;0.00;No (1);
-Vancouver;NP#1253;0.00;0.00;No (1);navigatore inglese (1757-1798)  sbarcò in Nuova Zelanda  Australia e Hawaii  giungendo fino alle coste del Canada.
-varare;V#228;0.00;0.00;No (1);far discendere una nave in mare da un'apposito bacino  oppure mettere in mare un'imbarcazione con l'ausilio di una slitta o di una gru.
-Varna;NP#1297;0.00;0.00;No (1);
-Vasteras;NP#1298;0.00;0.00;No (1);
-velista;N#165;0.00;0.00;No (1);atleta degli sport della vela
-vendere;V#939;0.00;0.00;No (1);cedere ad altri q.c. ricevendone il prezzo  commerciare (anche assol.).
-Venezia;NP#1994;0.00;0.00;No (1);
-Ventotene_e_Santo_Stefano;NP#2600;0.00;0.00;No (1);
-Vittorio Veneto;NP#551;0.00;0.00;No (1);nave militare
-Vlissingen;NP#1299;0.00;0.00;No (1);
-Waterford;NP#1300;0.00;0.00;No (1);
-direzione;N#1892;-0.00;0.00;No (1);luogo verso il quale ci si dirige
-navigazione;N#9;-0.11;0.00;No (1);il navigare.
-utensile;N#2173;-0.18;0.00;No (1);arnese atto all'esecuzione di determinate operazioni proprie di un'arte  di un mestiere o di una tecnica.
-virare;V#2618;-0.26;0.00;No (1);eseguire un mutamento di rotta.
-punto;N#652;-0.33;0.00;No (1);termine generico per indicare una posizione specifica sia fisica che geografica.
-abbittare;V#577;-0.33;0.00;No (1);legare un cavo o una catena a una bitta
-abboccare;V#2692;-0.33;0.00;No (1);detto di un'imbarcazione a vela  navigare inclinata su un fianco con il bordo a pelo dell'acqua.
-abbrivare;V#1870;-0.33;0.00;No (1);mettere in moto  far acquistare velocità.
-abbrivio;N#177;-0.33;0.00;No (1);moto progressivo iniziale di una imbarcazione dovuta alla sua propulsione o ad altri fattori esterni  quali il vento o la corrente.
-abbrivio;N#179;-0.33;0.00;No (1);impulso iniziale dato ad un veicolo
-abete;N#1819;-0.33;0.00;No (1);legno particolarmente usato per le alberature delle barche a vela.
-accone;N#59;-0.33;0.00;No (1);solido barcone lungo e quadrato  già usato per trasportare a bordo  rimorchiandolo  il carico e l’armamento
-accostare;V#332;-0.33;0.00;No (1);cambiare la prua dell'imbarcazione  manovrando il timone  verso destra o sinistra.
-affondamento;N#2581;-0.33;0.00;No (1);il mandare a fondo  lo spingere qc. sotto l'acqua.
-affondare;V#839;-0.33;0.00;No (1);andare a fondo per eccesso di peso o per una falla che fa entrare acqua.
-affondare;V#1867;-0.33;0.00;No (1);mandare a a fondo.
-afforcare;V#334;-0.33;0.00;No (1);ancorarsi affondando due ancore a prua.
-agente marittimo;N#233;-0.33;0.00;No (1);rappresentante  in un porto  della compagnia di navigazione o dell'armatore.
-ala;N#1920;-0.33;0.00;No (1);cavo per la manovra dell'alaggio.
-alaggio;N#736;-0.33;0.00;No (1);operazione con cui si mette a secco un'imbarcazione per mezzo di gru  scivoli  o altro.
-albatrosso;N#62;-0.33;0.00;No (1);tipo di nave inventata  verso la fine del ‘400  da mastro Giovanni dell’arsenale di Pisa.
-aliseo;N#840;-0.33;0.00;No (1);vento costante che spira tutto l'anno tra i due tropici e l'equatore
-alluminio;N#2012;-0.33;0.00;No (1);metallo leggero e di elevate caratteristiche meccaniche che lo rendono molto adatto alla costruzione di imbarcazioni.
-altostrato;N#962;-0.33;0.00;No (1);nuvola grigia o azzurrognola velata  di media quota che spesso precede depressioni e cattivo tempo.
-ammiraglia;N#97;-0.33;0.00;No (1);nave dell'ammiraglio
-amperometro;N#1652;-0.33;0.00;No (1);strumento per misurare l'intensità della corrente elettrica.
-ancoraggio;N#588;-0.33;0.00;No (1);luogo riparato dai venti dove un' imbarcazione può tenersi ferma con l'ancora o trovare riparo in caso di mal tempo
-andana;N#783;-0.33;0.00;No (1);"modalità di ormeggio  per cui una imbarcazione si ormeggia affiancandosi ad un'altra ormeggiata alla banchina o a sua volta affiancata.
-"
-andana;N#1858;-0.33;0.00;No (1);banchina portuale.
-anfibio;N#531;-0.33;0.00;No (1);veicolo in grado di muoversi sia in terra che su acqua
-angolo di deriva;N#623;-0.33;0.00;No (1);angolo formato dalla direzione del cammino reale e la direzione indicata dalla bussola  causato dallo spostamento laterale dovuto alla corrente marina.
-annegare;V#2579;-0.33;0.00;No (1);far morire per annegamento.
-annegare;V#2584;-0.33;0.00;No (1);morire per soffocamento in acqua o altro liquido.
-anticiclone;N#958;-0.33;0.00;No (1);area circoscritta dove la pressione atmosferica è massima.
-appoggio;N#64;-0.33;0.00;No (1);veliero usato per la pesca con lo scafandro.
-approdare;V#337;-0.33;0.00;No (1);prendere terra  approdare.
-armo;N#710;-0.33;0.00;No (1);l'insieme di imbarcazione ed equipaggio per una regata (specialmente nel canottaggio).
-arrancare;V#2236;-0.33;0.00;No (1);vogare con energia cercando di aumentare il ritmo.
-arsenalotto;N#2648;-0.33;0.00;No (1);operaio di un arsenale marittimo.
-assetto;N#777;-0.33;0.00;No (1);modo in cui i pesi sono distribuiti su un'imbarcazione.
-assicurare;V#1829;-0.33;0.00;No (1);legare saldamente  fermare  fissare.
-associazione;N#2650;-0.33;0.00;No (1);unione organizzata di più persone con finalità comuni.
-astrolabio;N#2150;-0.33;0.00;No (1);antico strumento usato dai naviganti per determinare l'altezza di un astro ull'orizzonte  oggi sostituito dal sestante.
-atollo;N#380;-0.33;0.00;No (1);grosso galleggiante
-attraccare;V#227;-0.33;0.00;No (1);avvicinarsi ad una banchina o a un'altra imbarcazione assicurandola con un ormeggio.
-autotreno;N#590;-0.33;0.00;No (1);camion con rimorchio.
-avamporto;N#620;-0.33;0.00;No (1);zona di mare antistante l'entrata del porto  in genere protetta da dighe foranee.
-avvisatore;N#80;-0.33;0.00;No (1);chi avvisa
-bagala;N#65;-0.33;0.00;No (1);barcone a vela  con la poppa rotonda e la pruna rasa slanciata  in uso nel Mar Rosso e sul Nilo.
-bagnasciuga;N#976;-0.33;0.00;No (1);parte esterna dello scafo che sta a pelo dell'acqua e che può essere bagnata o meno a seconda del carico e del moto ondoso.
-bagnasciuga;N#1995;-0.33;0.00;No (1); striscia di spiaggia su cui si infrangono le onde.
-barbariccio;N#1925;-0.33;0.00;No (1);piccola barca a remi usata in Sardegna per la pesca dei tonni.
-barbetta;N#873;-0.33;0.00;No (1);cima lunga e fine che si usa per ormeggiare o trainare una piccola imbarcazione ausiliaria.
-barra;N#99;-0.33;0.00;No (1);leva orizzontale fissata sulla testa del timone che trasmette alla pala il moto angolare.
-base;N#877;-0.33;0.00;No (1);lato inferiore della vela.
-beccheggio;N#578;-0.33;0.00;No (1);movimento oscillatorio longitudinale dell'imbarcazione
-belvedere;N#354;-0.33;0.00;No (1);la penultima delle vele quadre dei bastimenti a tre alberi.
-benzina;N#2177;-0.33;0.00;No (1);liquido trasparente  volatile  infiammabile ottenuto dal petrolio
-bettolina;N#382;-0.33;0.00;No (1);galleggiante di ampie dimensioni
-biga;N#1914;-0.33;0.00;No (1);gru usata per alzare grossi pesi.
-biscaglina;N#1935;-0.33;0.00;No (1);nave a vele quadre tipica della Biscaglia.
-bissona;N#1936;-0.33;0.00;No (1);barca veneziana da parata a otto remi  sottile e veloce.
-bitta;N#100;-0.33;0.00;No (1);attrezzatura di coperta che si utilizza in fase di ormeggio per avvolgervi e bloccare catene o cime. 
-bolletta;N#592;-0.33;0.00;No (1);ricevuta di un pagamento.
-bombarda;N#1937;-0.33;0.00;No (1);piccolo veliero da guerra con due alberi e un mortaio da bombe.
-bora;N#982;-0.33;0.00;No (1);vento freddo e impetuoso che soffia da nord est sul mare Adriatico con la massima intensità a Trieste e lungo le coste della Dalmazia.
-bordeggiare;V#664;-0.33;0.00;No (1);veleggiare con vento obliquo per diagonali  cambiando di boerdo dii volta in volta.
-bordo;N#84;-0.33;0.00;No (1);la nave stessa.
-bordo;N#2726;-0.33;0.00;No (1);nella navigazione di bolina delle barche a vela  ogni tratto percorso con il vento da uno stesso lato.
-braccio;N#882;-0.33;0.00;No (1);misura inglese di profondità che corrisponde a metri 1 85 e si suddivide in 6 piedi.
-bragozzo;N#1939;-0.33;0.00;No (1);barca da pesca in uso nell'alto Adriatico  di forme rotonde e tozze  con due alberi con vela a terzo dipinta a colori vivaci.
-bucintoro;N#1940;-0.33;0.00;No (1);barca da parata con una ventina di remi per lato  usata a Venezia per la cerimonia dello sposalizio col mare.
-bugna;N#890;-0.33;0.00;No (1);angolo di una vela. Nelle moderne vele triangolari  le bugne sono tre: b. di penna  b. di mura  b. di scotta.
-bulbo;N#1010;-0.33;0.00;No (1);"pesante siluro  normalmente in piombo  collocato il più in basso possibile solidarmente alla chiglia  per aumentare il momento raddrizzante dell'imbarcazione sotto vela.
-"
-buttare;V#2114;-0.33;0.00;No (1);far cadere verso il basso.
-cacciasommergibili;N#555;-0.33;0.00;No (1);
-caicco;N#167;-0.33;0.00;No (1);battello a remi  leggero e sottile  usato sul Bosforo per il trasporto delle persone. E' la gondola del Bosforo.
-cala;N#196;-0.33;0.00;No (1);insenatura poco profonda adatta per l'approdo e l'ormeggio delle piccole imbarcazioni.
-calare;V#678;-0.33;0.00;No (1);far scendere lentamente.
-calcestruzzo;N#2112;-0.33;0.00;No (1);materiale da costruzione
-cambusa;N#1055;-0.33;0.00;No (1);deposito dei viveri sulla nave o imbarcazione.
-cambusiere;N#1056;-0.33;0.00;No (1);addetto alla custodia e distribuzione dei viveri  cuoco di bordo.
-camera;N#593;-0.33;0.00;No (1);ente  associazione  assemblea
-canapa;N#723;-0.33;0.00;No (1);fibra tessile che si ricava dalla pianta usata per fabbricare cavi e  in passato  anche vele.
-cannoniera;N#556;-0.33;0.00;No (1);
-canoa;N#361;-0.33;0.00;No (1);la Marina da diporto dà questo nome a un battello lungo circa 5 metri  con fasciame sovrapposto  prua e poppa pontate  un albero con vela di taglio e un fiocco.
-canotto;N#362;-0.33;0.00;No (1);sulle navi mercantili è la più piccola delle imbarcazioni di bordo.
-cappa;N#1179;-0.33;0.00;No (1);"copertura di tela utilizzata per proteggere i boccaporti  strumenti  o l'intera imbarcazione.
-"
-carabottino;N#1333;-0.33;0.00;No (1);graticolato usato come pavimento per le zone in cui si vuole che l'acqua passi e scorra via.
-carboniere;N#168;-0.33;0.00;No (1);piccolo bastimento per il trasporto del carbone.
-carena;N#720;-0.33;0.00;No (1);la parte dello scafo che normalmente sta sotto il livello dell'acqua.
-caricare;V#446;-0.33;0.00;No (1);
-cassero;N#1999;-0.33;0.00;No (1);sulle grandi navi a vela fino al XIX secolo: il tratto di coperta tra il casseretto e l'albero maestro.
-catamarano;N#1560;-0.33;0.00;No (1);imbarcazione a vela con due scafi.
-cellulosa;N#2196;-0.33;0.00;No (1);composto organico solido e fibroso  presente in natura come componente delle pareti cellulari delle piante od ottenuto industrialmente  usato come materia prima spec. nell'industria cartaria e tessile.
-cemento;N#2108;-0.33;0.00;No (1);materiale per costruzione  ottimamente resistente alla compressione
-cerata;N#1847;-0.33;0.00;No (1);indumento impermeabilizzato e ben chiuso per impedire il passaggio dell'acqua  di solito formato da giacca con cappuccio e pantaloni alti o tuta intera.
-cessione;N#597;-0.33;0.00;No (1);atto del cedere qualcosa a qualcuno  trasferendone la proprietà
-chiesuola;N#640;-0.33;0.00;No (1);colonna fissata al ponte della nave che sostiene e protegge la bussola magnetica.
-clausola;N#598;-0.33;0.00;No (1);disposizione di contenuto autonomo inserita in un atto giuridico
-coffa;N#460;-0.33;0.00;No (1);piattaforma circolare o semicircolare posta sulla cima degli alberi degli antichi velieri o di moderne imbarcazioni di grandi dimensioni.
-collidere;V#339;-0.33;0.00;No (1);urtare fortuitamente.
-investimento;N#1352;-0.33;0.00;No (1);urto tra due navi o imbarcazioni.
-coltellaccio;N#352;-0.33;0.00;No (1);ciascuna delle quattro vele trapezoidali che le navi a vele quadre spiegano col tempo buono.
-comando;N#762;-0.33;0.00;No (1);l'atto del comandare
-commettere;V#2181;-0.33;0.00;No (1);ordinare una merce.
-commissione;N#241;-0.33;0.00;No (1);compenso richiesto dalle banche per alcune operazioni
-commodoro;N#2242;-0.33;0.00;No (1);nelle marine anglosassoni  ufficiale che assume il comando di una divisione navale
-condizione;N#601;-0.33;0.00;No (1);circostanza richiesta all'interno di un patto  condizioni previste da un accordo.
-continente;N#2623;-0.33;0.00;No (1);terraferma  parte emersa di un continente
-coperta;N#385;-0.33;0.00;No (1);ponte scoperto della nave
-coppa;N#2098;-0.33;0.00;No (1);
-corallina;N#1946;-0.33;0.00;No (1);nave attrezzata per la pesca del corallo.
-corazzata;N#557;-0.33;0.00;No (1);grande nave da battaglia.
-crociera;N#469;-0.33;0.00;No (1);l'incrociare in un determinato tratto di mare a scopo di sorveglianza o di ricerca.
-dandy;N#371;-0.33;0.00;No (1);cutter che a poppa porta un piccolo albero con una randa.
-darsena;N#112;-0.33;0.00;No (1);parte interna del porto  dove le navi vengono riparate o custodite
-depressione;N#959;-0.33;0.00;No (1);area di bassa pressione atmosferica con il valore minimo al centro. Si producono rapidamente e sono accompagnate da maltempo e spesso da tempeste. Ai tropici possono dar luogo ai cicloni.
-destinazione;N#2400;-0.33;0.00;No (1);punto di arrivo di un'imbarcazione ( per es.: un traghetto).
-detrazione;N#2646;-0.33;0.00;No (1);riduzione di una somma da pagare
-diamante;N#1385;-0.33;0.00;No (1);parte terminale del fuso dell'ancora dal quale si dipartono le marre. 
-disciplina;N#2711;-0.33;0.00;No (1);complesso organico e sistematico delle conoscenze che si posseggono intorno a un certo argomento.
-draglia;N#1406;-0.33;0.00;No (1);"nelle imbarcazioni da diporto identifica un cavo d'acciaio che viene sostenuto dai ""candelieri"" a formare la ""battagliola"".
-"
-dragone;N#70;-0.33;0.00;No (1);imbarcazione a vela da regata
-drizzare;V#1846;-0.33;0.00;No (1);manovrare le drizze.
-equipaggio;N#182;-0.33;0.00;No (1);costituito dal comandante  dagli ufficiali e da tutte le altre persone arruolate per il servizio della nave. 
-falegnameria;N#2204;-0.33;0.00;No (1);nelle imbarcazioni è l'insieme delle opere in legno.
-fare;V#1469;-0.33;0.00;No (1);lasciare uscire o entrare  detto specialmente di liquidi.
-fare;V#1473;-0.33;0.00;No (1);procacciarsi  ottenere.
-fare scalo;V#1475;-0.33;0.00;No (1);Sostare in un porto  o in un ancoraggio.
-fondale;N#186;-0.33;0.00;No (1);altezza dal livello dell'acqua
-foschia;N#1493;-0.33;0.00;No (1);"stato opaco dell'atmosfera  diverso dalla nebbia  e frequente anche con bel tempo. E' spesso dovuto a differenze di temperatura tra zone contigue.
-"
-frangente;N#1495;-0.33;0.00;No (1);onda del mare che  in corrispondenza di bassifondi o scogli affioranti  rompe in spuma e spruzzi.
-fregata;N#554;-0.33;0.00;No (1);nave militare con compiti di scorta  con dislocamento fra 1650 e 7800 tonnellate.
-gavitello;N#101;-0.33;0.00;No (1);galleggiante di segnalazione di varia forma solidamente ancorato al fondale utilizzato specie per l'ormeggio delle imbarcazioni  o nelle gare nautiche. 
-gettare;V#2113;-0.33;0.00;No (1);far cadere qualcosa  con impeto e con forza  lontano da sé.
-ghibli;N#2518;-0.33;0.00;No (1);"forte vento  dovuto alle basse pressioni mediterranee e alle alte pressioni sahariane  che spira dall’Africa verso il Mediterraneo specialmente in maggio e settembre  causando aumento della temperatura e diminuzione dell’umidità.
-"
-giacenza;N#2185;-0.33;0.00;No (1);merce che giace in magazzino  in particolare non venduta
-golfo;N#1518;-0.33;0.00;No (1);"Insenatura di grandi dimensioni  che talvolta contiene insenature minori (cale  baie 
-etc.). 
-"
-gondola;N#170;-0.33;0.00;No (1);barca a due remi  e di solito a un sol rematore  sottile  lunga  a fondo piatto  con estremità molto rialzate. Forse dal latino cymbula (barchetta) o concha (concula=conchiglia)  o dal greco kuntelas (dalle parole kontos (corto) e helas (navicella)).
-governare;V#2722;-0.33;0.00;No (1);detto di una nave  rispondere ai comandi.
-granito;N#2078;-0.33;0.00;No (1);roccia cristallina
-grappino;N#680;-0.33;0.00;No (1);ancorotto
-grecale;N#1004;-0.33;0.00;No (1);vento che spira da Nord-Est a Sud-Ovest sul Mediterraneo centrale e meridionale nelle stagioni fredde.
-guidone;N#1537;-0.33;0.00;No (1);"bandiera di forma triangolare o di striscia  che rappresenta il club di appartenenza o la compagnia di navigazione nella navi della Marina Mercantile.
-"
-imballo;N#257;-0.33;0.00;No (1);l'imballare
-imbrogliare;V#1587;-0.33;0.00;No (1);Chiudere e raccogliere rapidamente le vele per sottrarle all'azione del vento.
-immersione;N#639;-0.33;0.00;No (1);misura della distanza verticale tra la parte inferiore della chiglia di uno scafo e il piano di galleggiamento. 
-incrociatore;N#552;-0.33;0.00;No (1);nave militare
-indice;N#1615;-0.33;0.00;No (1);ago o altro tipo si sistema di segnalazione di uno strumento di misura o di un indicatore.
-inferire;V#1465;-0.33;0.00;No (1);"legare le vele all'albero o infilarne e far scorrere la ralinga (o gratile) nell'apposita canaletta (dell'albero e del boma)  per distenderle e metterle in posizione di lavoro. 
-"
-investire;V#340;-0.33;0.00;No (1);urtare volontariamente.
-lanciamissili;N#560;-0.33;0.00;No (1);nave militare
-lanciarazzi;N#1340;-0.33;0.00;No (1);particolare pistola per lanciare razzi.
-levante;N#2517;-0.33;0.00;No (1);vento fresco e umido di debole intensità che spira da Est  principalmente nel periodo estivo  sulla zona di Gibilterra.
-lino;N#724;-0.33;0.00;No (1);fibra tessile ricavata dalla pianta del lino.
-lossodromia;N#1643;-0.33;0.00;No (1);linea retta che incrocia i meridiani con un angolo costante. E' il percorso normalmente seguito navigando con la bussola.
-lunghezza;N#1644;-0.33;0.00;No (1);"distanza tra la prua e la poppa dello scafo  misurata sull'asse longitudinale escludendo eventuali estremità.
-"
-galleggiamento;N#1502;-0.33;0.00;No (1);Distanza  misurata sul piano del galleggiamento  tra la prua e la poppa  cioè tra i due punti nei quali prua e poppa toccano l'acqua.Questa misura determina la velocità massima sviluppabile da uno scafo.
-maestrale;N#990;-0.33;0.00;No (1);vento che spira da Nord Ovest  è uno dei venti predominanti del Mediterraneo.
-manifestazione;N#2134;-0.33;0.00;No (1);
-mano;N#1380;-0.33;0.00;No (1);ripiegatura che si fa alle rande per ridurne la superficie esposta quando il vento aumenta in modo considerevole.
-manovrabile;AG#1382;-0.33;0.00;No (1);che si può manovrare.
-marcia;N#1387;-0.33;0.00;No (1);"movimento dell'imbarcazione dato dalla posizione dell'invertitore (neutro  avanti o indietro) e dell'acceleratore (lenta  veloce  etc.).
-"
-mare;N#2728;-0.33;0.00;No (1);abbondanza  grande quantità  estensione.
-altura;N#860;-0.33;0.00;No (1);mare lontano dalle coste.
-mareggiata;N#1174;-0.33;0.00;No (1);"burrasca generata normalmente da forti venti di traversia. Può essere o meno accompagnata da maltempo  e normalmente si abbatte sulle coste in modo
-violento."
-mareografo;N#2551;-0.33;0.00;No (1);strumento per il rilevamento del livello medio marino.
-marmo;N#2049;-0.33;0.00;No (1);calcare di vario colore che deve la sua struttura a fenomeni di metamorfismo.
-mistral;N#1262;-0.33;0.00;No (1);vento molto forte  secco e freddo  proveniente da Nord-Ovest  che soffia  soprattutto nei mesi invernali  lungo la valle del Rodano fino al golfo del Leone.
-misurare;V#1007;-0.33;0.00;No (1);stabilire un rapporto fra una grandezza e un'altra omogenea usata come unità di misura.
-monotipo;N#1723;-0.33;0.00;No (1);imbarcazione a vela prodotta in serie  realizzata secondo gli standard richiesti per l'omologazione nelle varie classi sportive.
-monsone;N#2499;-0.33;0.00;No (1);vento periodico causato da sbalzo termico tra aree oceaniche e aree continentali che spira dall'Oceano Indiano verso il continente asiatico durante i mesi estivi (m. di mare) e dal continente verso l'Oceano Indiano durante i mesi invernali (m. di terra).
-nadir;N#1344;-0.33;0.00;No (1);"è il punto della sfera celeste diametralmente opposto allo ""zenit""."
-naufrago;N#1524;-0.33;0.00;No (1);persona caduta in mare o superstite da un naufragio
-navetta;N#32;-0.33;0.00;No (1);veicolo che percorre continuamente nei due sensi lo stesso percorso.
-navigabilità;N#37;-0.33;0.00;No (1);
-navigare;V#2688;-0.33;0.00;No (1);"muoversi all'interno di un ipertesto scegliendo un itinerario: navigare in Internet.
-"
-nodo;N#390;-0.33;0.00;No (1);unità di misura della velocità di una nave
-nodo semplice;N#391;-0.33;0.00;No (1);"termine generico per indicare le legature tra due cime o corde che  nella marineria  sono realizzate in base ai particolari usi ai quali sono destinate. 
-"
-noleggiare;V#314;-0.33;0.00;No (1);dare in noleggio
-noleggiare;V#315;-0.33;0.00;No (1);prendere in noleggio
-oblò;N#852;-0.33;0.00;No (1);finestra circolare delle navi  dotata di vetro molto spesso che può essere apribile o fisso.
-olio;N#2178;-0.33;0.00;No (1);prodotto liquido di varia natura
-orientare;V#857;-0.33;0.00;No (1);posizionare le vele  per un determinato vento e una determinata andatura  in modo che l'azione del vento sulle vele sia massima.
-ormeggiare;V#202;-0.33;0.00;No (1);legare l'imbarcazione a terra o ad uno o più punti di presa con ancore  cavi o catene  allo scopo di trattenerla e di sottrarla ai movimenti che gli imprimerebbe il vento  la corrente ed il moto ondoso. 
-ormeggio;N#529;-0.33;0.00;No (1);ciascuno dei cavi  delle funi  delle ancore impiegati per ormeggiare una nave e/o che assicurano un'imbarcazione.
-orzata;N#848;-0.33;0.00;No (1);movimento angolare derivato dall'azione di orzare.
-ostro;N#997;-0.33;0.00;No (1);vento umido e caldo proveniente da Sud
-paese;N#2671;-0.33;0.00;No (1);territorio con un governo sovrano e una propria organizzazione politica e amministrativa
-pagliolo;N#858;-0.33;0.00;No (1);nelle navi indica qualunque tipo di pavimento  nelle imbarcazioni da diporto è lo strato di tavole di legno posto sul fondo con funzione di pavimento.
-paranco;N#910;-0.33;0.00;No (1);sistema funicolare formato da due bozzelli e da una cima o un cavo d'acciaio  passante per le carrucole dei bozzelli stessi. Serve per ridurre lo sforzo necessario per vincere una resistenza.
-parco_naturale;N#2622;-0.33;0.00;No (1);territorio protetto
-parrocchetto;N#355;-0.33;0.00;No (1);vela quadra
-percorrere;V#2143;-0.33;0.00;No (1);
-pesata;N#2024;-0.33;0.00;No (1);
-pesca;N#2026;-0.33;0.00;No (1);il pescare.
-rispetto;N#1551;-0.33;0.00;No (1);parte di motore o di altro sistema da utilizzare per sostituire l'equivalente una volta rotto o danneggiato.
-piede;N#1556;-0.33;0.00;No (1);"unità di misura inglese delle lunghezze  pari a 30.47 cm. E' internazionalmente usata per esprimere le dimensioni di navi ed imbarcazioni.
-"
-pireliometro;N#2553;-0.33;0.00;No (1);"strumento per la misura della radiazione solare diretta.
-"
-pistola;N#1341;-0.33;0.00;No (1);arma da fuoco corta  che si maneggia con una sola mano.
-pluviometro;N#2537;-0.33;0.00;No (1);strumento per la misurazione delle precipitazioni.
-poggiare;V#1655;-0.33;0.00;No (1);"dirigere l'imbarcazione allontanando la prua dalla direzione di provenienza del vento  in modo da navigare con un'andatura più ""larga""  cioè con le vele più ""lasche""."
-polena;N#2705;-0.33;0.00;No (1);"""Polena"" è il nome che designa  nell'area mediterranea  una figura scolpita  posta sulla prora delle imbarcazioni  elemento indispensabile della nave  specialmente nei secoli XVII e XVIII fino a tutto il XIX. v francese poulaine: rostro o scarpa a punta."
-pollice;N#1576;-0.33;0.00;No (1);unità di misura inglese delle lunghezze  pari a 25 4 mm.
-ponente;N#2501;-0.33;0.00;No (1);vento estivo  fresco e pomeridiano che spira da Ovest. la sua influenza è principalmente sentita sul Tirreno e sull'Adriatico centro-meridionale.
-posamine;N#562;-0.33;0.00;No (1);nave da guerra attrezzata per collocare mine in mare.
-posareti;N#563;-0.33;0.00;No (1);nave militare adibita al trasporto e alla posa di ostruzioni  spec. reti  a difesa di forze navali.
-postale;N#793;-0.33;0.00;No (1);nave mercantile adibita al servizio postale.
-premio;N#2100;-0.33;0.00;No (1);tipo di gara.
-prendere;V#2147;-0.33;0.00;No (1);
-prenotazione;N#650;-0.33;0.00;No (1);atto del prenotare o del prenotarsi.
-privilegio;N#614;-0.33;0.00;No (1);diritto  vantaggio speciale.
-provino;N#594;-0.33;0.00;No (1);una piccola parte di qualcosa intesa come rappresentativa del tutto
-psicrometro;N#2538;-0.33;0.00;No (1);strumento che misura l’umidità relativa dell’aria mediante la valutazione della differenza nelle letture di due termometri affiancati  uno a secco e l'altro avvolto da una garza imbevuta di acqua.
-puntale;N#1659;-0.33;0.00;No (1);indica la massima distanza tra il fondo e la coperta (spesso è in corrispondenza della sezione maestra)  nelle imbarcazioni da diporto corrisponde alla massima altezza interna.
-rappresentazione;N#2284;-0.33;0.00;No (1);
-recapito;N#692;-0.33;0.00;No (1);luogo in cui si può trovare la persona o l'ente a cui un oggetto viene consegnato.
-relitto;N#1768;-0.33;0.00;No (1);"qualsiasi oggetto che si trovi in mare alla deriva  sul fondo o sulla costa: ""un relitto si è incagliato tra gli scogli"".
-"
-remata;N#1769;-0.33;0.00;No (1);colpo di remo.
-ridurre;V#1774;-0.33;0.00;No (1);si usa comunemente con riferimento alla velatura  intendendo la presa di terzaroli o la sostituzione di una vela di prua con una di minor superficie.
-rimorchiatore oceanico;N#549;-0.33;0.00;No (1);rimorchiatore che fa la spola con la piattaforma petrolifera.
-rinvio;N#1787;-0.33;0.00;No (1);congegno meccanico che muta la natura o la direzione del moto ricevuto dalla potenza motrice  e cambia la direzione del percorso di un cavo.
-risacca;N#1788;-0.33;0.00;No (1);moto di ritorno impresso a un'onda da un ostacolo contro cui urta (scogli  moli  ecc.).
-ruota;N#1794;-0.33;0.00;No (1);nella sua accezione più comune indica la ruota di maneggio del timone.
-saccoleva;N#532;-0.33;0.00;No (1);piccolo veloce bastimento  da 30-60 ton.  con saccoleva  trinchetto quadro  e uno o due fiocchi. Usato nell'Arcipelago greco.
-salpare;V#118;-0.33;0.00;No (1);recuperare l'ancora a bordo dal fondo. Si usa anche col significato di lasciare l'ancoraggio e partire.
-salvamento;N#741;-0.33;0.00;No (1);complesso di operazioni per salvarechi è in pericolo
-scadere;V#1421;-0.33;0.00;No (1);perdere prua rispetto al vento.
-scafo;N#219;-0.33;0.00;No (1);tutto il corpo di un'imbarcazione inclusa ossatura e rivestimento.
-scalmo;N#1417;-0.33;0.00;No (1);parte dell'ossatura delle imbarcazioni in legno  è la continuazione verso l'alto del madiere.
-scalmo;N#1418;-0.33;0.00;No (1);supporto di legno o metallo a cui si appoggia il remo.
-scandagliare;V#904;-0.33;0.00;No (1);misurare la profondità delle acque per l'ancoraggio o in navigazione.
-scarrocciare;V#1419;-0.33;0.00;No (1);"Lo ""scadere"" sottovento alla rotta predefinta  causato dall'azione del vento."
-scazzottare;V#1842;-0.33;0.00;No (1);sciogliere una bandiera incazzottata.
-scirocco;N#995;-0.33;0.00;No (1);vento originariamente caldo e secco proveniente da Sud-Est dal continente africano. Durante il suo tragitto attraversa il Mediterraneo caricandosi di umidità  quindi raggiunge umido e violento l'Europa.
-scontrare;V#1429;-0.33;0.00;No (1);dicesi quando  durante un cambio di direzione di una imbarcazione  si mette rapidamente il timone dalla parte opposta in modo da frenare e contrastare lo spostamento della prua.
-sentina;N#899;-0.33;0.00;No (1);la parte più profonda del fondo dell'imbarcazione dove si raccolgono le acque e i residui liquidi.
-serrafila;N#565;-0.33;0.00;No (1);nave militare che viene per ultima in una formazione che va alla stessa velocità
-sestante;N#900;-0.33;0.00;No (1);strumento a riflessione  impiegato essenzialmente per determinare il punto-nave  mediante l'osservazione dell'altezza degli atri sull'orizzonte.
-skipper;N#1728;-0.33;0.00;No (1);capitano delle imbarcazioni da diporto. Nelle regate chi dirige le manovre.
-snodo;N#1765;-0.33;0.00;No (1);snodatura che permette a due pezzi di muoversi con coesione
-sottostare;V#2130;-0.33;0.00;No (1);essere soggetto.
-specialità;N#2187;-0.33;0.00;No (1);prodotto tipico ed esclusivo
-spedire;V#486;-0.33;0.00;No (1);fare che qlco. pervenga a qlcu. o in un determinato luogo.
-spedizione;N#231;-0.33;0.00;No (1);atto dello spedire.
-sperone;N#1876;-0.33;0.00;No (1);parte prominente della prua.
-spiegare;V#1709;-0.33;0.00;No (1);distendere le vele (o una bandiera) al vento.
-star;N#71;-0.33;0.00;No (1);imbarcazione a vela da regata
-stivaggio;N#423;-0.33;0.00;No (1);operazione dello stivare.
-strambare;V#587;-0.33;0.00;No (1);manovrare per cambiare di bordo da poppa.
-stuoia;N#1754;-0.33;0.00;No (1);"spesso materiale tessuto formato da fibre di vetro o altro (kevlar  carbonio  etc.) con cui si costruiscono gli scafi in fibra.
-"
-successione;N#2175;-0.33;0.00;No (1);serie ordinata di cose  elementi o persone.
-sventare;V#1708;-0.33;0.00;No (1);"allascare completamente una vela per sottrarla alla spinta del vento  facendola ""fileggiare"" in modo da poterla agevolmente ammainare o terzarolare  oppure per ridurre la velocità del veliero. 
-"
-tagliamare;N#1693;-0.33;0.00;No (1);estremità prodiera della chiglia  è la parte che fende le acque.
-terzarolare;V#1700;-0.33;0.00;No (1);prendere una mano di terzaroli  cioè ridurre la superficie esposta della randa.
-tesare;V#583;-0.33;0.00;No (1);tendere o recuperare una cima
-thalac;N#538;-0.33;0.00;No (1);piccolo bastimento indiano.
-tiunia;N#537;-0.33;0.00;No (1);battello piatto  senza chiglia  di origine cinese  usato in Malesia.
-topo;N#536;-0.33;0.00;No (1);barchetta chioggiotta con la quale i pescatori trasportano il pesce ai luoghi di destinazione  a fondo piatto  con murate quasi verticali nella parte centrale e con prua slanciata.
-torneo;N#2101;-0.33;0.00;No (1);
-trabaccolo;N#533;-0.33;0.00;No (1);piccolo bastimento mercantile da carico  a 2 alberi verticali con vele  è in uso nell'Adriatico.
-traghetto misto;N#548;-0.33;0.00;No (1);traghetto misto merci-passeggeri.
-trambai;N#535;-0.33;0.00;No (1);vaporetto in sevizio in Venezia e nei dintorni. Vocabolo introdotto sul finire del XIX secolo.
-tramoggia;N#534;-0.33;0.00;No (1);grossa barca in ferro con camere d'aria e con 2-4 porte nella carena.
-tramontana;N#931;-0.33;0.00;No (1);vento freddo che spira da Nord  in inverno  e può investire tutta la penisola italiana.
-trasbordare;V#653;-0.33;0.00;No (1);scaricare per poi reimbarcare.
-traversata;N#470;-0.33;0.00;No (1);
-traversino;N#932;-0.33;0.00;No (1);robusto cavetto di acciaio usato per ormeggio e tonneggio.
-trincarino;N#1761;-0.33;0.00;No (1);nelle imbarcazioni classiche in legno indica una trave di rinforzo che corre longitudinalmente a sostegno della coperta.
-tronco;N#2197;-0.33;0.00;No (1);fusto eretto e legnoso degli alberi e degli arbusti da cui si dipartono i rami.
-unità;N#520;-0.33;0.00;No (1);elemento distinto  autonomo  non scomponibile
-varea;N#1668;-0.33;0.00;No (1);"nome generico per indicare la parte terminale di qualsiasi asta orizzontale dell'alberatura.
-"
-varo;N#1669;-0.33;0.00;No (1);l'azione del varare una nave o altro tipo di imbarcazione.
-vedetta;N#570;-0.33;0.00;No (1);nave militare piccola velocissima per la caccia ai sommergibili e la vigilanza costiera
-vedetta;N#571;-0.33;0.00;No (1);marinaio o soldato che sta in un punto elevato o in una struttura appositamente costruita con scopi di sorveglianza e segnalazione.
-velaccino;N#133;-0.33;0.00;No (1);vela quadrata (prima era triangolare).
-veleggiatore;N#72;-0.33;0.00;No (1);imbarcazione a vela.
-visibilità;N#1688;-0.33;0.00;No (1);Grado di trasparenza dell'atmosfera a livello del mare. E' misurata con una scala internazionale che va da 0 (nebbia densissima) al 9 (visibilità eccellente).
-trave;N#1766;-0.60;0.00;No (1);elemento delle costruzioni costituito da un tronco d'albero squadrato o da analoghe strutture in acciaio o cemento armato.
-abbattere;V#1871;-0.66;0.00;No (1);far ruotare la nave alla fonda per mettere alla vela o riprendere il cammino.
-allarme;N#1882;-0.66;0.00;No (1);avviso di pericolo che può essere dato in diverse maniere: un grido  un segnale acustico (fischio  campana  etc..
-altocumulo;N#2541;-0.66;0.00;No (1);nube stratificata bianca o grigiastra costituita da estese file di nubi cumuliformi ravvicinate fra loro.
-alzare;V#1845;-0.66;0.00;No (1);far salire  issare vele  bandiere  oggetti  alando una cima o con un paranco.
-ammainare;V#584;-0.66;0.00;No (1);far discendere una vela sospesa ad un cavo facendola scorrere
-argano;N#865;-0.66;0.00;No (1);apparato girevole utilizzato per moltiplicare lo sforzo di rotazione quano si devono tirare e avvolgere le cime.
-avaria;N#237;-0.66;0.00;No (1);danno che riguarda la nave o il suo carico
-barchetta;N#2714;-0.66;0.00;No (1);legno appesantito  fissato a un'estremità della sagola e lasciato in mare come punto di riferimento  usato per calcolare la velocità di una imbarcazione.
-bozzello;N#879;-0.66;0.00;No (1);carrucola semplice o multipla di forma e materiale differente costituita da una cassa all'interno della quale girano girano una o più pulegge (scanalate per ospitare il cavo che vi deve scorrere) e da un gancio per fissare il bozzello.
-cantiere;N#717;-0.66;0.00;No (1);luogo  area in cui si trovano gli stabilimenti  impianti e macchine per la costruzione  l'allestimento e il raddobbo delle navi.
-carpenteria;N#1334;-0.66;0.00;No (1);nei cantieri edili e navali è l'insieme delle strutture delle costruzioni.
-catena;N#1181;-0.66;0.00;No (1);"nella marineria le catene si usano sostanzialmente per collegare l'ancora allo scafo o per ormeggiare ad una bitta. Quelle per l'ancora devono essere ""calibrate"" cioè con maglie perfettamente uguali per entrare nel barbutin dell'argano.
-
-"
-chiatta;N#381;-0.66;0.00;No (1);grosso galleggiante a fondo piatto
-chiglia;N#109;-0.66;0.00;No (1);trave in uno o più pezzi che corre dalla prua alla poppa e costituisce il fondo dello scafo. E' l'elemento più importante della struttura di una imbarcazione.
-cogliere;V#1351;-0.66;0.00;No (1);"raccogliere le cime ripiegandole con successive spire concentriche. Si usa soprattutto cogliere le manovre correnti (scotte  drizze  etc.) per tenerle in ordine sulla coperta.
-"
-collo;N#240;-0.66;0.00;No (1);bagaglio da trasportare
-collo;N#480;-0.66;0.00;No (1);balla  involto di merce di grosse dimensioni  per metonimia da 'collo' (oggetto che si appoggia sul collo).
-equatore;N#117;-0.66;0.00;No (1);"circolo massimo della Sfera Terreste perpendicolare all'asse di rotazione  coincide col parallelo 0°.
-"
-fianco;N#462;-0.66;0.00;No (1);
-fiocco;N#353;-0.66;0.00;No (1);vela triangolare che si alza a pruavia dell'albero verticale di prora.
-guscio;N#1539;-0.66;0.00;No (1);lo scafo nudo  cioè l'insieme dell'ossatura e della carena.
-incrociare;V#1630;-0.66;0.00;No (1);"navigare in una zona con scopi di sorveglianza o ricerca.
-"
-issare;V#585;-0.66;0.00;No (1);sollevare un peso o tirare una corda con sospeso un oggetto pesante
-lamiera;N#2072;-0.66;0.00;No (1);
-lancia;N#1339;-0.66;0.00;No (1);"battello a remi o a motore utilizzato per fare la spola tra una nave o un'imbarcazione e la costa. Nel linguaggio marinaro si chiama anche ""scialuppa"".
-"
-manutenzione;N#1710;-0.66;0.00;No (1);insieme delle operazioni che periodicamente vanno effettuate alle diverse componenti di un' imbarcazione per conservarne il buono stato  l'affidabilità e la sicurezza in navigazione.
-mollare;V#1263;-0.66;0.00;No (1);sciogliere e rilasciare una cima o una catena.
-moto;N#1789;-0.66;0.00;No (1);movimento delle acque.
-nautica;N#1525;-0.66;0.00;No (1);arte e tecnica della navigazione
-navigatore;N#41;-0.66;0.00;No (1);uomo di mare
-nembostrato;N#2542;-0.66;0.00;No (1);nube densa di colore grigio scuro  sfrangiata ai bordi e molto estesa orizzontalmente  alta circa mille metri dal suolo  che può dare origine a precipitazioni (pioggia o neve).
-nolo;N#7;-0.66;0.00;No (1);contratto per il noleggio.
-occhiello;N#855;-0.66;0.00;No (1);foro rinforzato posto su una vela.
-olimpiade;N#2082;-0.66;0.00;No (1);manifestazione sportiva che si svolge ogni quattro anni.
-ormeggio;N#201;-0.66;0.00;No (1);luogo in cui si ormeggia
-partenza;N#2286;-0.66;0.00;No (1);il momento in cui un veicolo  spec. un mezzo di trasporto collettivo  si mette in movimento: la partenza della navetta.
-percorso;N#2727;-0.66;0.00;No (1);tratto di strada che si compie  per mare o per terra.
-perturbazione;N#2504;-0.66;0.00;No (1);variazione (legata allo spostamento e all'evoluzione delle aree cicloniche) delle condizione meteorologiche in una determinata area geografica  spesso accompagnata da rilevanti fenomeni (annuvolamenti  piogge e temporali)
-pontone;N#378;-0.66;0.00;No (1);grosso e robusto galleggiante a fondo piatto usato un tempo per traghettare i passeggeri e oggi per trasporto di grossi pesi.
-premio;N#2128;-0.66;0.00;No (1);dono o riconoscimento elargito per una vittoria o un piazzamento in una competizione.
-rinforzare;V#1783;-0.66;0.00;No (1);aumentare il numero o la grossezza.
-scaricare;V#448;-0.66;0.00;No (1);
-schema;N#2283;-0.66;0.00;No (1);
-sponda;N#1996;-0.66;0.00;No (1);striscia di terra che costeggia le acque di un mare  lago o fiume.
-stabilità;N#1743;-0.66;0.00;No (1);requisito indispensabile  che deve possedere una nave o imbarcazione  di poter tornare immediatamente nella posizione di equilibrio dopo una inclinazione.
-stazione;N#270;-0.66;0.00;No (1);complesso di edifici e di impianti in cui si svolgono tutte le operazioni relative al movimento di merci e passeggeri.
-strato;N#1529;-0.66;0.00;No (1);tipo di nuvola.
-unire;V#2641;-0.66;0.00;No (1);mettere insieme  fare che due o più cose diventino o appaiano una sola  avvicinandole o collegandole.
-vernice;N#1686;-0.66;0.00;No (1);pittura protettiva normalmente sintetica.
-barcone;N#60;-0.85;0.00;No (1);grossa imbarcazione per il trasporto delle merci. 
-abbordaggio;N#574;-0.99;0.00;No (1);urto volontario o collisione accidentale tra imbarcazioni
-abbordare;V#338;-0.99;0.00;No (1);investire bordo contro bordo  di punta  per fianco.
-armare;V#704;-0.99;0.00;No (1);attrezzare un veliero in un determinato modo  per es. a cutter  a goletta  a sloop.
-attrezzare;V#925;-0.99;0.00;No (1);porre sulla coperta delle imbarcazioni cavi  cime accessorie e simili.
-bacino;N#714;-0.99;0.00;No (1);spazio portuale  specchio d'acqua marina delimitato da moli o banchine.
-brezza;N#105;-0.99;0.00;No (1);vento tipico delle coste che spira mattina e sera in direzioni opposte
-brigantino;N#886;-0.99;0.00;No (1);veliero con due alberi a vele quadre e bompresso.
-cassa;N#596;-0.99;0.00;No (1);recipiente  a forma di parallelepipedo  provvisto di coperchio.
-consegna;N#243;-0.99;0.00;No (1);atto del consegnare.
-gala;N#1825;-0.99;0.00;No (1);festone con bandiere nazionali e da segnali teso fra la prua la alberatura e la poppa in segno di festa o per onorare una nave straniera.
-galea;N#2697;-0.99;0.00;No (1);dal greco galeas  pesce spada  nave da guerra e da commercio usata nel Mediterraneo per oltre tremila anni  il suo uso declinò a partire dal XVII secolo  quando venne man mano soppiantata dai velieri  estinguendosi alla fine del XVIII secolo.
-faro;N#185;-0.99;0.00;No (1);"il faro del porto  il termine ""faro"" deriva dall'isola di Pharos  dove fu eretto nel 300 a.c. il primo e più celebre fanale dell'antichità  a segnalare l'entrata al porto di Alessandria d'Egitto."
-manovra;N#190;-0.99;0.00;No (1);designa in modo generico qualunque cima o cavo in acciaio sull'alberatura  destinato ad una precisa funzione  ma non le cime o i cavi stivati.
-muoversi;V#2573;-0.99;0.00;No (1);muoversi  cambiare la posizione in uno spazio.
-organizzazione;N#2353;-0.99;0.00;No (1);complesso  gruppo organizzato
-radio;N#1736;-0.99;0.00;No (1);termine generico per indicare le apparecchiature di ricezione o rice-trasmissione radiofonica.
-rilevamento;N#1779;-0.99;0.00;No (1);angolo orizzontale compreso fra una direzione fissa di riferimento e la visuale diretta a un oggetto  misurato secondo il senso orario.
-riviera;N#46;-0.99;0.00;No (1);la striscia di terra situata lungo il mare.
-scala;N#2081;-0.99;0.00;No (1);"nel linguaggio scientifico e tecnico  successione di valori convenzionali che misurano l'intensità di un fenomeno.
-"
-sciogliere;V#1264;-0.99;0.00;No (1);
-segnale;N#1434;-0.99;0.00;No (1);termine generico per indicare un tipo di comunicazione tra imbarcazioni o con la costa  tramite convenzioni e sistemi visivi  luminosi  acustici o radio.
-onda;N#1496;-1.16;0.00;No (1);"oscillazione dell'acqua nel mare  prodotta da una forza esterna (tipicamente il vento) che ne perturba l'equilibrio. A seconda della forza del vento la superficie del mare assume forme progressivamente più ripide e movimentate.
-"
-grandezza;N#501;-1.31;0.00;No (1);espressione quantitativa del rapporto fra grandezze omogenee.
-avvertimento;N#81;-1.32;0.00;No (1);l'annunciare  l'avvertire  l'avvertire  informare  l'annunciare.
-codice;N#110;-1.32;0.00;No (1);raccolta organica di leggi che regolano un dato settore del diritto
-deriva;N#114;-1.32;0.00;No (1);
-diritto;N#489;-1.32;0.00;No (1);tassa  onere fisso riscosso in corrispettivo di un atto o di un servizio.
-governale;N#222;-1.32;0.00;No (1);strumento delle imbarcazioni per mantenere la direzione durante il moto
-meteorologia;N#988;-1.32;0.00;No (1);scienza che studia l' atmosfera terrestre e i fenomeni che vi si manifestano.
-traghetto;N#445;-1.32;0.00;No (1);imbarcazione usata per traghettare.
-nebbia;N#1527;-1.32;0.00;No (1);fenomeno atmosferico consistente in massa di goccioline minutissime di acqua in sospensione nell'atmosfera.
-poppa;N#211;-1.32;0.00;No (1);parte posteriore di imbarcazione
-rada;N#916;-1.32;0.00;No (1);insenatura che offre un buon riparo  porto naturale.
-veleggiare;V#148;-1.32;0.00;No (1);navigare con un'imbarcazione a vela.
-acqua;N#75;-1.65;0.00;No (1);liquido trasparente  incolore  inodore ed insapore
-bacino;N#794;-1.65;0.00;No (1);spazio portuale delimitato da paratie stagne dove è possibile mettere in secca le navi.
-capitano;N#511;-1.65;0.00;No (1);grado di vari ufficiali della Marina militare.
-logistica;N#2002;-1.65;0.00;No (1);"settore che si occupa dell'approvvigionamento  della distribuzione dei materiali e dei prodotti finiti  per estensione  disposizione di persone o cose in modo funzionale al raggiungimento di un dato scopo.
-"
-nolo;N#8;-1.65;0.00;No (1);corrispettivo da pagarsi per il noleggio totale o parziale di una imbarcazione o nave  e per un trasporto marittimo di qualsiasi tipo.
-numero;N#1854;-1.65;0.00;No (1);insieme di cifre che possono identificare una barca  un coefficiente  ecc.
-prora;N#212;-1.65;0.00;No (1);parte anteriore di un'imbarcazione
-rotta;N#217;-1.65;0.00;No (1);tracciato che sulle carte indica il percorso seguito o da seguire
-tariffa;N#272;-1.65;0.00;No (1);prezzo stabilito per determinate merci o prestazioni
-trasporto;N#223;-1.65;0.00;No (1);
-battello;N#367;-1.84;0.00;No (1);piccola imbarcazione a remi o a motore adibita a vari usi specifici.
-area;N#1998;-1.88;0.00;No (1);superficie  spazio delimitato
-veliero;N#163;-1.89;0.00;No (1);bastimento a vela.
-elica;N#116;-1.98;0.00;No (1);organo meccanico che genera una spinta con la sua rotazione nell'aria o nell'acqua.
-motore;N#195;-1.98;0.00;No (1);macchina atta a trasformare una determinata forma di energia in energia meccanica
-movimento;N#1386;-1.98;0.00;No (1);movimento dell'imbarcazione .
-navigazione;N#45;-1.98;0.00;No (1);tecnica e pratica che consentono di mantanere una rotta.
-precipitazione;N#2495;-1.98;0.00;No (1);fenomeno atmosferico.
-luogo;N#205;-2.00;0.00;No (1);parte dello spazio occupata o occupabile materialmente o idealmente
-frequenza;N#2304;-2.31;0.00;No (1);periodicità con cui un fatto o un fenomeno accade o si ripete.
-linea;N#2285;-2.31;0.00;No (1);"servizio che garantisce il trasporto di passeggeri e merci fra due o più località: linee aeree  ferroviarie  marittime | l'itinerario effettuato da un mezzo di comunicazione  tratta compresa fra due località: la linea Livorno-Cagliari.
-"
-marea;N#192;-2.48;0.00;No (1);movimento periodico delle acque del mare il cui livello si alza e si abbassa a fasi alterne quattro volte al giorno. Il fenomeno è dato dalla combinazione delle forze di attrazione del Sole e della Luna combinate con il moto di rotazione della Terra. 
-angolo;N#622;-2.64;0.00;No (1);(geom.) lo spazio tra due linee o piani che si intersecano
-acque;N#119;-2.87;0.00;No (1);il complesso delle acque salate che coprono gran parte della superficie terrestre.
-camera;N#648;-2.97;0.00;No (1);ambiente interno  stanza  ripostiglio  deposito.
-albero;N#88;-3.63;0.00;No (1);palo che regge le vele in una imbarcazione
-andatura;N#76;-3.63;0.00;No (1);modo di navigare di una imbarcazione a vela
-manovra;N#638;-3.63;0.00;No (1);azione o insieme di azioni per dirigere o modificare il movimento di una nave o di una imbarcazione. Per effettuare una manovra si utilizzano il timone  le ancore ed il sistema di propulsione (motore ed eliche) oppure le vele nei velieri.
-barca;N#1;-4.29;0.00;No (1);imbarcazione di piccole dimensioni  a remi  a vela  o a motore aperta o parzialmente pontata.
-bandiera;N#98;-4.62;0.00;No (1);drappo di stoffa leggera attaccata all'asta o all'albero di una nave.
-aria;N#224;-4.85;0.00;No (1);spostamento di masse d'aria atmosferiche dovuto a differenza di temperatura o di pressione  spostamento di masse d'aria atmosferiche causato da differenze di temperatura o di pressione
-annodatura;N#389;-8.58;0.00;No (1);legamento di due estremità di funi  cavi e sim.
-parte;N#421;-10.99;0.00;No (1);ciascuno degli elementi o delle parti in cui è diviso un tutto.
+Literal Lemma;MariTerm ID;MariT sense;IWN sense;Gloss S. (WM);Total S.;T. Relation S.;Malus;Bonus;MariTerm Gloss
+nave militare;N#20;1;1;0.02;17.34;13.04;-1.65;5.94;nave impiegata per scopi militari eo di guerra
+imbarcazione;N#58;1;1;0.18;12.69;11.85;-5.61;6.27;"termine generico per indicare barche di piccole e medie dimensioni  utilizzate per diversi scopi lavoro  piacere  etc
+"
+oggetto;N#645;1;1;0.50;9.68;6.54;-0.66;3.30;qualunque oggetto concreto
+scrittura;N#251;4;4;1.00;7.64;5.32;-0.99;2.31;uno scritto che documenta qualcosa e che dà informazioni
+bussola;N#106;1;1;1.00;6.51;3.86;0.00;1.65;strumento che indica la direzione del punto cardinale nord e permette pertanto di conoscere la direzione di uno spostamento  rispetto a tale punto cardinale
+navigazione;N#45;2;3;1.00;6.12;3.80;-0.33;1.65;tecnica e pratica che consentono di mantanere una rotta
+porto;N#90;1;1;1.00;5.83;4.83;-2.31;2.31;luogo di scalo di navi
+attività;N#2136;1;1;1.00;5.79;3.80;-0.66;1.65;atto compiuto per uno scopo
+inerente;AG#127;1;1;-0.03;5.75;3.79;-0.33;2.31;
+unità_di_misura;N#1177;1;1;1.00;5.51;3.85;-1.32;1.98;grandezza di paragone il cui valore viene messo uguale a uno e rispetto alla quale vengono misurate le altre grandezze con essa omogenee
+cardine;N#994;3;3;1.00;5.51;4.18;-1.32;1.65;punto cardinale
+duello;N#2096;2;2;1.00;5.27;3.61;-0.33;0.99;atto  sforzo di due o più concorrenti per vincersi  superarsi a vicenda
+lavoratore;N#482;1;1;0.36;5.25;4.56;-1.32;1.65;chi lavora nel campo della navigazione e dei trasporti navali
+galleggiante;N#379;1;1;-0.10;5.21;3.99;-0.99;2.31;qualsiasi corpo che galleggia sia fissato al fondo come boe o gavitelli  sia mobile come vari tipi d imbarcazione
+cargo;N#16;1;1;1.00;5.02;4.68;-2.97;2.31;nave adibita al trasporto di merci
+attività_sportiva;N#1901;1;1;1.00;4.73;2.41;0.00;1.32;gioco o esercizio praticato per diletto o per esibizione
+mezzo;N#2073;2;2;1.00;4.70;2.71;-0.99;1.98;qualunque mezzo di trasporto
+prodotto;N#644;1;1;1.00;4.68;2.69;-0.33;1.32;tutto ciò che gli uomini producono
+organismo;N#2023;1;3;1.00;4.33;2.34;0.00;0.99;organo  istituzione  organo  ente
+roba;N#264;2;2;1.00;3.84;3.83;-2.97;1.98;qualunque bene mobile  economicamente utile  destinato alla vendita
+posizione;N#510;1;2;1.00;3.81;2.15;-0.33;0.99;posizione all interno della gerarchia sociale  posizione all interno di una gerarchia
+fenomeno_atmosferico;N#1009;1;1;-0.10;3.75;4.18;-2.97;2.64;fenomeno fisico che concerne l atmosfera
+pesce;N#2032;1;1;1.00;3.56;1.90;0.00;0.66;animale vertebrato acquatico
+strumento nautico;N#2172;1;1;0.06;3.43;3.04;-0.99;1.32;utile per calcolare la posizione della nave e per tecniche eo operazioni di navigazione
+bagaglio;N#682;1;1;1.00;3.24;1.58;0.00;0.66;insieme degli oggetti che un viaggiatore reca con sè
+insieme;N#635;1;1;1.00;3.21;5.18;-5.94;2.97;la totalità  persone o animali o cose radunate insieme
+stanga;N#893;1;1;1.00;3.14;3.13;-2.64;1.65;barra di materiale vario
+viaggio;N#2683;1;1;1.00;3.11;1.12;0.00;0.99;trasferimento da un luogo ad un altro
+nave;N#6;1;1;0.14;3.00;11.11;-12.21;3.96;"imbarcazione di una certa grandezza che  fornita di adeguati mezzi di propulsione  è adibita al trasporto di persone e merci o che  opportunamente attrezzata e armata  è impiegata in attività belliche
+"
+segnalare;V#1444;1;1;1.00;2.92;1.26;0.00;0.66;indicare per mezzo di segnali
+nulla_osta;N#516;1;1;1.00;2.91;1.58;-0.33;0.66;il documento che attesta il permesso accordato
+fardello;N#2019;1;1;1.00;2.91;1.58;-0.33;0.66;carico  involto  pacco voluminoso e pesante da portare
+organizzazione;N#2353;1;2;1.00;2.85;1.52;-0.33;0.66;complesso  gruppo organizzato
+ufficio;N#517;2;2;1.00;2.85;1.52;-0.33;0.66;insieme degli impiegati che in un determinato luogo svolgono una attività
+rivestitura;N#1180;2;2;1.00;2.70;1.04;-0.33;0.99;la cosa che si usa per ricoprire alcuni oggetti  in genere con funzione di protezione
+albero;N#88;1;4;1.00;2.68;2.67;-2.31;1.32;palo che regge le vele in una imbarcazione
+scrittura;N#530;1;3;1.00;2.58;1.58;-0.66;0.66;documento con rilevanza giuridica
+spedizione;N#231;1;2;1.00;2.48;0.82;0.00;0.66;atto dello spedire
+segnalazione;N#1442;1;1;1.00;2.48;0.82;0.00;0.66;ogni comunicazione di notizie  effettuata con qualsiasi mezzo
+viaggiare;V#2684;1;1;1.00;2.48;0.82;0.00;0.66;spostarsi da un luogo all altro per lavoro  turismo  o altro
+circumnavigazione;N#782;1;1;0.49;2.40;1.58;-0.33;0.66;viaggio marittimo intorno al globo terrestre o anche intorno ad un isola o ad un continente
+scalo;N#655;1;1;1.00;2.36;1.03;-0.33;0.66;luogo in cui arrivano o da cui partono mezzi e passeggeri di aerei  navi  treni
+sottufficiale;N#2139;1;1;1.00;2.26;0.93;-0.33;0.66;militare di grado intermedio tra gli ufficiali e la truppa
+dichiarazione;N#250;3;3;1.00;2.25;1.58;-0.99;0.66;documento con il quale si dichiara
+canapo;N#649;1;1;1.00;2.20;1.20;-0.33;0.33;grossa fune di canapa
+segnalazione;N#1443;2;2;1.00;2.16;0.50;0.00;0.66;messaggio  comunicazione
+bussola da rilevamento;N#293;1;1;1.00;2.15;0.82;0.00;0.33;particolare tipo di bussola magnetica  per rilevare cioè per stabilire la direzione di un qualsiasi oggetto rispetto al nord magnetico
+anfibio;N#531;1;4;1.00;2.15;0.82;0.00;0.33;veicolo in grado di muoversi sia in terra che su acqua
+marina;N#47;3;2;1.00;2.15;0.82;0.00;0.33;l insieme degli uomini  delle navi  dei mezzi della marina militare
+navigazione strumentale;N#476;1;1;1.00;2.15;0.82;0.00;0.33;la navigazione che si avvale dell ausilio di vari strumenti
+pesce_volante;N#2036;1;1;1.00;2.15;0.82;0.00;0.33;pesce che spicca salti fuori dell acqua
+porto industriale;N#94;1;1;1.00;2.15;0.82;0.00;0.33;porto al servizio di grandi complessi industriali
+subcontinente;N#2639;1;1;1.00;2.15;0.82;0.00;0.33;parte di un continente con caratteristiche peculiari
+visto;N#279;1;1;1.00;2.15;0.82;0.00;0.33;formula scritta con cui un amministrazione attesta di aver controllato un documento
+visto;N#514;2;2;1.00;2.15;0.82;0.00;0.33;autorizzazione con cui uno stato straniero rende effettiva la validità di un passaporto
+aereo;AG#2613;3;3;1.00;2.15;0.82;0.00;0.33;che concerne l areonautica
+alberatura;N#581;1;1;1.00;2.15;0.82;0.00;0.33;insieme degli alberi pennoni e cordame di una imbarcazione a vela
+albero dell'antenna;N#955;1;1;1.00;2.15;0.82;0.00;0.33;parte superiore e più fine degli alberi nei grandi velieri
+ammattare;V#1446;1;1;1.00;2.15;0.82;0.00;0.33;chiedere aiuto inalberando segnali sulla nave
+austro;N#998;2;2;1.00;2.15;0.82;0.00;0.33;punto cardinale a sud
+balla;N#591;1;1;1.00;2.15;0.82;0.00;0.33;grosso involto di merce
+bucaniere;N#1276;1;1;1.00;2.15;0.82;0.00;0.33;pirata che nel xvii secolo praticava la guerra corsara
+bussola di rotta;N#294;1;1;1.00;2.15;0.82;0.00;0.33;bussola principale dell imbarcazione  normalmente posta davanti al timone
+bussola giroscopica;N#291;1;1;1.00;2.15;0.82;0.00;0.33;bussola che funziona indipendentemente dall azione del magnetismo terrestre e che si basa sul principio del giroscopio
+bussola magnetica;N#292;1;1;1.00;2.15;0.82;0.00;0.33;bussola che sfrutta l effetto del magnetismo terrestre  composta da uno o più aghi magnetici  liberi di ruotare  che si orientano verso il nord magnetico disponendosi parallelamente ai meridiani magnetici
+calumare;V#679;1;1;1.00;2.15;0.82;0.00;0.33;calare le funi in mare
+camera;N#593;1;2;1.00;2.15;0.82;0.00;0.33;ente  associazione  assemblea
+carroponte;N#776;1;1;1.00;2.15;0.82;0.00;0.33;gru per sollevare e trasportare grandi carichi
+collettame;N#2184;1;1;1.00;2.15;0.82;0.00;0.33;merce varia trasportata da un unico mezzo  per conto di più clienti
+continentale;AG#2636;1;1;1.00;2.15;0.82;0.00;0.33;del continente clima
+cotto;N#2123;1;1;1.00;2.15;0.82;0.00;0.33;mattone di terracotta
+ente;N#1903;1;2;1.00;2.15;0.82;0.00;0.33;ogni organizzazione pubblica o privata
+export;N#254;1;1;1.00;2.15;0.82;0.00;0.33;l esportare
+fattura;N#255;3;3;1.00;2.15;0.82;0.00;0.33;documento che prova una vendita
+franchigia;N#256;1;1;1.00;2.15;0.82;0.00;0.33;documento che attesta una franchigia
+giacenza;N#2185;1;2;1.00;2.15;0.82;0.00;0.33;merce che giace in magazzino  in particolare non venduta
+grappino;N#680;1;2;1.00;2.15;0.82;0.00;0.33;ancorotto
+import;N#2182;1;1;1.00;2.15;0.82;0.00;0.33;l insieme delle merci importate
+informativa;N#2645;1;1;1.00;2.15;0.82;0.00;0.33;insieme di informazioni
+intercontinentale;AG#2637;1;1;1.00;2.15;0.82;0.00;0.33;che riguarda  che mette in comunicazione e sim più continenti
+navale;AG#10;1;1;1.00;2.15;0.82;0.00;0.33;relativo alle navi
+nave a carroponte;N#13;1;1;1.00;2.15;0.82;0.00;0.33;dispone di propri mezzi di sollevamento  scorrevoli su rotaie da poppa a prua per servire tutte le stive della nave ed in grado di operare sui due lati della nave
+nave autosbarcante;N#14;1;1;1.00;2.15;0.82;0.00;0.33;nave di modeste dimensioni destinata al trasporto di granaglie  carbone e minerali dotata di tramogge è in grado di scaricare il materiale su nastri convogliatori a terra
+nave frigo;N#18;1;1;1.00;2.15;0.82;0.00;0.33;nave con locali frigoriferi per la conservazione della merce
+nave per carico secco;N#22;1;1;1.00;2.15;0.82;0.00;0.33;nave da carico
+navetta_spaziale;N#33;1;1;1.00;2.15;0.82;0.00;0.33;navetta spaziale
+navigazione astronomica;N#473;1;1;1.00;2.15;0.82;0.00;0.33;insieme dei metodi e degli strumenti per determinare la posizione geografica mediante l osservazione degli astri e la misurazione delle loro coordinate
+navigazione d'altura;N#206;1;1;1.00;2.15;0.82;0.00;0.33;navigazione in altomare
+navigazione mista;N#207;1;1;1.00;2.15;0.82;0.00;0.33;navigazione praticata un tempo a vela e a vapore
+navigazione piana;N#474;1;1;1.00;2.15;0.82;0.00;0.33;insieme dei metodi e degli espedienti per risolvere i problemi della navigazione costiera e della navigazione stimata sulla carta nautica con l ausilio della geometria piana
+navigazione stimata;N#475;1;1;1.00;2.15;0.82;0.00;0.33;procedimento per calcolare e determinare la posizione geografica attuale in dipendenza dell ultima posizione certa
+nembo;N#1528;1;1;1.00;2.15;0.82;0.00;0.33;nube bassa  oscura  portatrice di pioggia
+occaso;N#1000;2;2;1.00;2.15;0.82;0.00;0.33;punto cardinale
+ora;N#2279;2;2;1.00;2.15;0.82;0.00;0.33;tempo misurabile dall orologio
+organico;N#1258;1;1;1.00;2.15;0.82;0.00;0.33;il complesso delle persone addette ad un servizio  in un ufficio  in un azienda  in una nave  ecc
+oriente;N#1001;1;1;1.00;2.15;0.82;0.00;0.33;punto cardinale
+pescatore;N#2031;2;2;1.00;2.15;0.82;0.00;0.33;utensile per il recupero degli attrezzi di sondaggio in caso di incidenti
+peso;N#2045;1;1;1.00;2.15;0.82;0.00;0.33;la forza che un corpo esercita per effetto della gravità terrestre
+petroliera;N#859;2;1;1.00;2.15;0.82;0.00;0.33;nave adibita al trasporto di petrolio
+porto commerciale;N#91;1;1;1.00;2.15;0.82;0.00;0.33;porto dedicato al traffico commerciale e mercantile
+porto di rifornimento;N#92;1;1;1.00;2.15;0.82;0.00;0.33;punto di sosta intermedio per navi
+porto di velocità;N#93;1;1;1.00;2.15;0.82;0.00;0.33;porto destinato al movimento dei passeggeri
+porto petrolifero;N#95;1;1;1.00;2.15;0.82;0.00;0.33;porto attrezzato per la ricezione di prodotti finiti da nave cisterna
+portuale;AG#128;1;1;1.00;2.15;0.82;0.00;0.33;del porto
+radionavigazione;N#472;1;1;1.00;2.15;0.82;0.00;0.33;navigazione assistita via radio sia aerea che marittima
+sborso;N#253;1;1;1.00;2.15;0.82;0.00;0.33;lo sborsare
+segnale;N#220;1;1;1.00;2.15;0.82;0.00;0.33;qualsiasi oggetto o figura che serva a contrassegnare o a indicare qualcosa
+serrafila;N#564;1;1;1.00;2.15;0.82;0.00;0.33;sottufficiale o graduato che marcia in coda ad un reparto  persona che chiude una fila
+buffo;N#2583;2;2;1.00;2.15;0.82;0.00;0.33;vento leggero che soffia a tratti
+sottufficiale;N#2140;2;2;1.00;2.15;0.82;0.00;0.33;grado intermedio della gerarchia militare
+specialità;N#2187;1;2;1.00;2.15;0.82;0.00;0.33;prodotto tipico ed esclusivo
+tir;N#2603;1;1;1.00;2.15;0.82;0.00;0.33;convenzione che regola il trasporto di merci su strada
+tramontana;N#1003;2;2;1.00;2.15;0.82;0.00;0.33;punto cardinale indicato dalla stella polare
+trasporto;N#2237;2;2;1.00;2.15;0.82;0.00;0.33;ogni attività che ha per scopo il trasferimento di persone o cose da un luogo all altro
+ufficiale;N#2141;3;3;1.00;2.15;0.82;0.00;0.33;grado di certi ordini della cavalleria
+venduto;N#2188;1;1;1.00;2.15;0.82;0.00;0.33;la merce venduta
+nodo;N#390;2;3;1.00;2.15;0.82;0.00;0.33;unità di misura della velocità di una nave
+pescecane;N#2037;1;1;1.00;2.15;0.82;0.00;0.33;nome di vari pesci di alcuni ordini dei selaci  dal comportamento aggrssivo e pericoloso
+roulotte;N#2617;1;1;1.00;2.15;0.82;0.00;0.33;veicolo attrezzato ad abitazione
+vela;N#130;2;2;1.00;2.15;0.82;0.00;0.33;sport
+grado_centesimale;N#1893;1;1;1.00;2.15;0.82;0.00;0.33;unità di misura degli angoli corrispondente alla centesima parte di un angolo retto
+formula;N#515;1;1;1.00;2.09;0.76;0.00;0.33;insieme di parole stabilite dall uso o dalla norma ecc
+pirata;N#1309;1;1;1.00;2.09;0.76;0.00;0.33;chi corre il mare per depredare navi
+simbolo;N#1441;2;2;1.00;2.09;0.76;0.00;0.33;segno che acquisisce un valore all interno di un sistema convenzionale
+calare;V#678;1;2;1.00;2.09;0.76;0.00;0.33;far scendere lentamente
+convenzione;N#2602;2;2;1.00;2.09;0.76;0.00;0.33;patto  trattato tra stati
+potenza;N#2051;4;4;1.00;2.09;0.76;0.00;0.33;capacità di un sistema di sviluppare lavoro  grandezza fisica
+cadenza;N#2281;2;2;1.00;2.05;0.72;0.00;0.33;il tempo musicale  successione regolare di unità metriche uniformii
+boma;N#103;1;1;0.88;2.03;0.82;0.00;0.33;asta imperniata sull albero di poppa  usata per mantenere tesa la vela di randa
+proprietà;N#2138;2;2;0.88;2.02;1.14;-0.33;0.33;qualità particolare  virtù propria di alcune cose
+precipitazione;N#2495;1;2;1.00;2.02;1.02;-0.99;0.99;fenomeno atmosferico
+andatura in poppa;N#784;1;1;0.87;2.02;0.82;0.00;0.33;andatura con il vento che proviene da poppa o con un approssimazione fino a 20 30 dalla poppa stessa
+poppavia;N#1583;1;1;0.87;2.02;0.82;0.00;0.33;direzione relativa verso la parte di poppa
+altezza;N#1648;1;1;0.00;2.01;2.34;-1.32;0.99;misura riferita alle stelle oppure a parti dell imbarcazione ha anche altri significati differenti a seconda del contesto
+silurante;N#27;1;1;1.00;2.01;1.01;-0.33;0.33;
+torpediniera;N#568;1;1;1.00;2.01;1.01;-0.33;0.33;nave militare
+camera;N#648;2;1;0.10;2.00;2.23;-1.65;1.32;ambiente interno  stanza  ripostiglio  deposito
+ufficiale;N#1874;1;2;1.00;1.99;0.99;-0.99;0.99;militare che ricopre un grado  da sottotenente  o da guardiamarina  in su
+albero di maestra;N#456;1;1;0.83;1.98;0.82;0.00;0.33;albero di maggiore dimensione che in genere sostiene una vela chiamata randa di maestra
+motoscafo;N#539;1;1;1.00;1.95;0.29;0.00;0.66;imbarcazione spinta da motore a scoppio
+dazio;N#246;2;2;0.80;1.95;0.82;0.00;0.33;
+dazio;N#245;1;1;0.80;1.95;0.82;0.00;0.33;
+dogana;N#252;1;1;0.80;1.95;0.82;0.00;0.33;
+oceano;N#2014;1;1;0.80;1.95;0.82;0.00;0.33;
+traversata;N#470;1;3;0.80;1.95;0.82;0.00;0.33;
+pesistica;N#2044;1;1;0.80;1.95;0.82;0.00;0.33;
+remo;N#705;1;1;0.30;1.91;0.96;0.00;0.66;asta  specialmente di legno sagomato resistente e leggero  dotata di un estremo in forma di pala che viene immerso nell acqua affinché il rematore  facendo leva sull estremo opposto  possa dare spinta propulsiva al natante
+fenomeno_naturale;N#2505;1;1;-0.03;1.90;2.26;-1.65;1.32;
+bovo;N#1938;1;1;0.71;1.86;0.82;0.00;0.33;piccolo veliero mercantile 
+evento;N#2133;1;1;-0.05;1.85;1.90;-0.66;0.66;
+andatura di bolina;N#791;1;1;0.68;1.83;0.82;0.00;0.33;andatura con il vento che proviene da una direzione che forma con la prua il minor angolo possibile  in genere 4060 gradi  
+fermare;V#651;5;5;1.00;1.83;0.50;0.00;0.33;fissare in anticipo una camera in albergo  un posto a teatro  ecc
+navigabile;AG#36;1;1;1.00;1.83;0.50;0.00;0.33;che può essere percorso da navi
+nave Roll on-Roll off;N#25;1;1;1.00;1.82;0.82;-0.33;0.33;nave per la movimentazione di materiale rotabile  con una apertura a poppa e munita di più rampe di accesso al ponte superiore
+regata;N#729;1;1;1.00;1.82;0.82;-0.33;0.33;gara di velocità tra imbarcazioni di vario tipo
+contenitore;N#603;1;1;1.00;1.82;0.82;-0.33;0.33;oggetto che serve a contenerne altri  spec per agevolarne il trasporto
+società;N#2644;3;3;1.00;1.82;0.82;-0.33;0.33;azienda  una ditta  complesso industriale o commerciale  la ditta come insieme delle persone che la costituiscono
+collo;N#240;1;5;1.00;1.82;0.82;-0.33;0.33;bagaglio da trasportare
+contratto;N#244;1;1;1.00;1.82;0.82;-0.33;0.33;documento frutto di un accordo tra parti
+navigatore;N#42;2;2;1.00;1.82;0.82;-0.33;0.33;l ufficiale che indica la rotta da seguire sulle navi e sugli aerei
+poppiero;AG#1586;1;1;0.66;1.81;0.82;0.00;0.33;relativo alla poppa
+nube;N#963;1;1;1.00;1.81;2.13;-2.97;1.65;ammasso di vapori che si raccolgono nell atmosfera
+andatura al lasco;N#785;1;1;0.64;1.79;0.82;0.00;0.33;andatura con il vento che proviene tra i 90 e i 150 gradi di angolatura rispetto alla prua
+tempo;N#2273;1;1;1.00;1.76;0.76;-0.33;0.33;successione illimitata di istanti in cui si svolgono gli eventi e le variazioni delle cose
+gru;N#775;2;2;1.00;1.76;0.76;-0.33;0.33;macchina per sollevare e spostare carichi
+liquidazione;N#527;1;1;1.00;1.76;0.76;-0.33;0.33;il pagamento di somme dovute  atto del pagare
+nord-est;N#999;1;1;0.61;1.76;0.82;0.00;0.33;punto cardinale intermedio
+scirocco;N#996;2;2;0.61;1.76;0.82;0.00;0.33;punto cardinale intermedio
+sud-ovest;N#1002;1;1;0.61;1.76;0.82;0.00;0.33;punto cardinale intermedio
+albero di fortuna;N#954;1;1;0.61;1.76;0.82;0.00;0.33;albero improvvisato con un fusto o palo in coperta per sostituire un albero spezzato dal vento o da una avaria
+millibar;N#1259;1;1;0.60;1.75;0.82;0.00;0.33;unità di misura della pressione atmosferica un millibar equivale a 0 76 mm della colonna di mercurio 
+versamento;N#247;3;3;1.00;1.74;0.41;0.00;0.33;l oggetto o i valori depositati
+navigazione;N#9;1;1;1.00;1.74;3.05;-3.96;1.65;il navigare
+periplo;N#2685;1;1;1.00;1.74;0.41;0.00;0.33;circumnavigazione
+stivare;V#229;1;1;0.08;1.69;0.95;0.00;0.66;sistemare il carico a bordo di una nave o di una imbarcazione
+binocolo;N#984;1;1;0.51;1.66;0.82;0.00;0.33;"visore a doppio oculare e dotato di un potere elevato di ingrandimento i più comunemente utilizzati sono i binocoli prismatici
+"
+insenatura;N#1616;1;1;-0.10;1.65;1.09;-0.33;0.99;rientranza di varia profondità lungo la sponda di un corso d acqua  di un lago o del mare 
+ricorso;N#2238;4;4;0.89;1.65;0.43;0.00;0.33;luogo dove si cerca protezione  rifugio  riparo
+vettore;N#278;1;1;1.00;1.62;0.29;0.00;0.33;chi esegue il trasporto di merci o persone per conto di terzi
+esportatore;N#493;1;1;1.00;1.62;0.29;0.00;0.33;chi esporta merci all estero
+diramazione;N#259;3;3;0.85;1.61;0.76;-0.33;0.33;
+mattone;N#2119;1;1;0.85;1.61;0.76;-0.33;0.33;
+situare;V#422;1;1;1.00;1.58;0.91;-0.99;0.66;porre  collocare una persona o una cosa in un determinato luogo
+neve;N#2496;1;1;0.42;1.57;0.82;0.00;0.33;precipitazione atmosferica costituita da piccole particelle di ghiaccio originate dal forte raffreddamento del vapore acqueo delle nubi  che scendono lentamente al suolo spec aggregate in fiocchi bianchi
+prueggiare;V#663;1;1;1.00;1.55;0.22;0.00;0.33;navigare di prua
+piede;N#1556;1;4;0.39;1.54;0.82;0.00;0.33;"unità di misura inglese delle lunghezze  pari a 3047 cm e  internazionalmente usata per esprimere le dimensioni di navi ed imbarcazioni
+"
+vascello;N#569;1;1;1.00;1.53;0.53;-0.33;0.33;grande nave da guerra a tre ponti  tre alberi altissimi  pezzi di artiglieria e moltissime vele  in uso fino alla metà del xix secolo
+prenotazione;N#650;1;1;1.00;1.50;0.50;-0.33;0.33;atto del prenotare o del prenotarsi
+anemoscopio;N#2549;1;1;0.67;1.49;0.82;-0.33;0.33;strumento per misurare la direzione del vento
+struttura;N#2022;1;2;1.00;1.49;0.49;-0.99;0.99;cosa costruita
+manovra;N#190;2;6;1.00;1.49;0.82;-0.66;0.33;designa in modo generico qualunque cima o cavo in acciaio sull alberatura  destinato ad una precisa funzione  ma non le cime o i cavi stivati
+codice;N#239;2;2;1.00;1.49;0.82;-0.66;0.33;gruppo di numeri o di numeri e lettere che serve a identificare ogni singola entità d un dato sistema
+manifesto;N#696;1;3;1.00;1.49;0.82;-0.66;0.33;documento commerciale  relativo soprattutto ad operazioni portuali e aeroportuali
+assicurazione;N#235;2;2;1.00;1.49;0.82;-0.66;0.33;documento assicurativo
+miglio;N#1176;3;3;1.00;1.49;0.82;-0.66;0.33;unità di misura di lunghezza
+sampang;N#543;1;1;1.00;1.47;0.14;0.00;0.33;imbarcazione a remi  usata su fiumi e acque costiere nell estremo oriente
+iole;N#174;1;1;1.00;1.47;0.14;0.00;0.33;piccola imbarcazione a remi o a vela per uso costiero
+baleniera;N#67;2;2;1.00;1.47;0.14;0.00;0.33;imbarcazione a remi usata un tempo da comandanti e ammiragli
+fasello;N#169;1;1;1.00;1.47;0.14;0.00;0.33;antica imbarcazione veloce
+idroplano;N#172;1;1;1.00;1.47;0.14;0.00;0.33;natante a sostentazione idroplana
+idroscivolante;N#173;1;1;1.00;1.47;0.14;0.00;0.33;imbarcazione propulsa con elica aerea
+patino;N#540;1;1;1.00;1.47;0.14;0.00;0.33;imbarcazione da diporto  a remi o pedali
+tender;N#545;1;1;1.00;1.47;0.14;0.00;0.33;imbarcazione di servizio utilizzato per scendere a terra da imbarcazioni più grandi
+crociera;N#1862;2;2;0.32;1.47;0.82;0.00;0.33;viaggio di piacere compiuto su una nave  seguendo un tragitto e un programma fissato in precedenza
+stazza;N#271;1;1;0.32;1.47;0.82;0.00;0.33;volume interno della nave indicativo della sua capacità di carico
+scalandrone;N#1543;1;1;1.00;1.45;0.12;0.00;0.33;passerella mobile tra nave e banchina
+rompighiaccio;N#26;1;1;1.00;1.45;0.12;0.00;0.33;nave attrezzata per aprirsi la strada nei mari polari  rompendo la crosta di ghiaccio che li copre
+baleniera;N#66;1;1;1.00;1.45;0.12;0.00;0.33;nave attrezzata per la caccia alla balena
+nave bacino;N#15;1;1;1.00;1.45;0.12;0.00;0.33;nave bacino semisommergibile
+nave da crociera;N#17;1;1;1.00;1.45;0.12;0.00;0.33;bastimento che naviga a scopo turistico o escursionistico 
+navicella;N#34;1;1;1.00;1.45;0.12;0.00;0.33;piccola nave
+rimorchiatore;N#1781;1;1;-0.10;1.44;0.88;0.00;0.66;nave addetta al rimorchio di altri natanti anche di dimensioni molto maggiori
+continente;N#2624;1;1;1.00;1.43;0.76;-0.66;0.33;ciascuna delle grandi superfici emerse della crosta terrestre
+maretta;N#748;1;1;0.28;1.43;0.82;0.00;0.33;stato del mare caratterizzato da onde corte e confuse
+cirrostrato;N#2540;1;1;0.28;1.43;0.82;0.00;0.33;nube biancastra sottile e trasparente  costituita da cristalli di ghiaccio la presenza di queste nubi possono annunciare l arrivo di un periodo caldo o di una tempesta
+coperta;N#385;1;3;1.00;1.42;0.09;0.00;0.33;ponte scoperto della nave
+cala;N#197;1;1;1.00;1.41;0.08;0.00;0.33;locale di una nave  nella parte più bassa della stiva
+magazzino;N#262;1;1;1.00;1.41;0.08;0.00;0.33;locale per il deposito e la conservazione di merce
+cilindro;N#1375;2;2;1.00;1.41;0.41;-0.33;0.33;oggetto a forma di cilndro  tubo
+omaggio;N#2129;3;3;1.00;1.41;0.41;-0.33;0.33;la cosa donata
+colonna;N#641;3;3;1.00;1.41;0.41;-0.33;0.33;si dice di varie cose verticali di forma allungata
+affondamento;N#2580;1;1;1.00;1.41;0.41;0.00;0.00;l affondare e il suo risultato
+appontare;V#329;1;1;1.00;1.40;0.07;0.00;0.33;compiere la manovra di appontaggio
+cirrocumulo;N#2539;1;1;0.25;1.40;0.82;0.00;0.33;nube stratificata e densa composta di piccoli fiocchi biancastri disposti in file o in gruppi che formano il cosiddetto cielo a pecorelle 
+furgone;N#2616;1;1;0.24;1.39;0.82;0.00;0.33;veicolo
+gabbia;N#666;2;2;1.00;1.39;0.06;0.00;0.33;tipo di vela
+parrocchetto;N#667;2;2;1.00;1.39;0.06;0.00;0.33;vela dell albero di trinchetto
+velaccio;N#134;1;1;1.00;1.39;0.06;0.00;0.33;vela quadra
+muro;N#2126;1;1;1.00;1.38;0.38;0.00;0.00;costruzione in muratura  in sassi  mattoni o altro  commesso con calcina o cemento
+circolo Amici-Magnaghi;N#966;1;1;1.00;1.38;0.05;0.00;0.33;strumento a riflessione  impiegato ancora oggi per misurare gli angoli azimutali sottocosta
+sestante;N#900;1;2;1.00;1.38;0.05;0.00;0.33;strumento a riflessione  impiegato essenzialmente per determinare il puntonave  mediante l osservazione dell altezza degli atri sull orizzonte
+sferoscopio;N#967;1;1;1.00;1.38;0.05;0.00;0.33;consente la lettura delle coordinate altazimutali corrispondenti a quelle locali orarie o equatoriali e  viceversa  di un astro assegnato
+ottante;N#2174;1;1;1.00;1.38;0.05;0.00;0.33;costruito e firmato da joseph william duff sec xviii precursore del sestante  anche l ottante serviva per determinare l altezza degli astri sull orizzonte
+nostromo;N#810;1;1;0.22;1.37;0.82;0.00;0.33;"sottufficiale addetto ai servizi marinareschi e di bordo  sottufficiale della categoria dei nocchieri
+"
+ABS;N#1905;1;1;1.00;1.37;0.04;0.00;0.33;materiale termoplastico utilizzato nella costruzione di scafi inferiori ai 5 metri
+sartia;N#740;1;1;0.22;1.37;0.82;0.00;0.33;ciascuno dei cavi d acciaio che sostengono lateralmente gli alberi
+trasportare;V#450;1;1;0.00;1.34;1.01;0.00;0.33;
+cirro;N#1087;1;1;0.19;1.34;0.82;0.00;0.33;"nuvola d alta quota che si presenta a forma di filamento  bianca e senza ombre può essere isolato o presentarsi in grandi insiemi compatti  in tal caso portano maltempo 
+"
+fondale;N#186;1;2;1.00;1.33;0.00;0.00;0.33;altezza dal livello dell acqua
+incidente;N#2131;1;1;0.24;1.33;0.76;0.00;0.33;fatto inatteso  spec negativo che viene a turbare lo svolgimento di un attività o il normale corso degli eventi  disgrazia  sciagura
+premio;N#2100;1;5;0.17;1.32;0.82;0.00;0.33;tipo di gara
+bireme;N#1934;1;1;0.87;1.31;0.12;0.00;0.33;nave antica a due ordini di remi
+imbuto;N#1601;1;1;0.15;1.30;0.82;0.00;0.33;"attrezzo a forma troncoconica  di plastica o tela  talvolta utilizzato nelle imbarcazioni a vela per raccogliere lo spinnaker
+"
+cappa;N#1179;1;4;0.15;1.30;0.82;0.00;0.33;"copertura di tela utilizzata per proteggere i boccaporti  strumenti  o l intera imbarcazione
+"
+pioggia;N#2506;1;1;0.15;1.30;0.82;0.00;0.33;precipitazione atmosferica di gocce d’acqua  che ha origine dalla condensazione del vapore acqueo contenuto nell’atmosfera
+ormeggio;N#201;2;3;0.85;1.27;0.43;-0.33;0.33;luogo in cui si ormeggia
+picco;N#1552;1;1;0.11;1.26;0.82;0.00;0.33;asta simile ad un mezzo pennone al quale si fissa il lato superiore di una randa aurica
+sartiame;N#1711;1;1;0.10;1.25;0.82;0.00;0.33;"l insieme di tutte le manovre dormienti che sostengono gli alberi sartie  stralli  paterazzi  stralletti  etc 
+"
+ormeggio;N#529;3;2;0.09;1.24;0.82;0.00;0.33;ciascuno dei cavi  delle funi  delle ancore impiegati per ormeggiare una nave eo che assicurano un imbarcazione
+canottaggio;N#1971;1;1;0.09;1.24;0.82;0.00;0.33;sport nautico su imbarcazioni a remi lo sport moderno del c ebbe origine in inghilterra nel 1715
+antenna;N#969;1;1;0.07;1.22;0.82;0.00;0.33;strumento di foggia diversa  asta  parabola o sistema composto  usato per ricevere o per diffondere onde radio
+penna;N#1548;1;1;0.06;1.21;0.82;0.00;0.33;angolo superiore delle vele latine  dei fiocchi e delle vele di strallo  al quale si collega la drizza per issare e tesare la vela
+campionato;N#2097;1;1;0.06;1.21;0.82;0.00;0.33;
+fischio;N#1480;1;1;0.05;1.20;0.82;0.00;0.33;congegno sonoro di segnalazione usato sulle navi per indicare variazioni di andatura o di rotta
+utensile;N#2173;1;1;1.00;1.20;4.16;-7.92;3.96;arnese atto all esecuzione di determinate operazioni proprie di un arte  di un mestiere o di una tecnica
+tangone;N#1697;1;1;0.04;1.19;0.82;0.00;0.33;lunga asta  in lega leggera o in fibre composite  che serve per mantenere esterno dalla coperta il punto di mura dello spinnaker e di altre vele di prua non inferite
+rotaia;N#1793;1;1;0.04;1.19;0.82;0.00;0.33;profilo metallico che serve come guida di scorrimento per un bozzello  un carrello  una manovra  ecc
+semifinale;N#2102;1;1;0.04;1.19;0.82;0.00;0.33;
+caravella;N#364;1;1;0.03;1.18;0.82;0.00;0.33;veliero leggero e veloce  usato soprattutto da portoghesi e spagnoli nei secoli xv e xvi  per la guerra e per il traffico
+certificazione;N#238;1;2;1.00;1.16;0.82;-0.99;0.33;dichiarazione scritta rilasciata da autorità pubbliche in cui si attesta la realtà o la verità di un fatto
+tecnologia;N#2137;2;2;1.00;1.16;0.82;-0.99;0.33;attività volta a creare congegni e macchinari
+cabotaggio;N#208;1;1;0.33;1.15;0.82;-0.33;0.33;navigazione lungo le coste di porto in porto generalmente a scopo commerciale
+traguardo;N#249;3;3;1.00;1.15;0.15;-0.33;0.33;punto che si vuole raggiungere
+esportazione;N#2186;2;2;0.00;1.15;0.82;0.00;0.33;l insieme delle cose esportate
+tuono;N#2525;1;1;0.00;1.15;0.82;0.00;0.33;fenomeno acustico causato dall onda d urto prodotta dalla violenta espansione dell aria in prossimità dei fulmini
+velico;AG#730;3;1;0.00;1.15;0.82;0.00;0.33;che avviene per mezzo delle vele
+coppa;N#2098;1;3;-0.01;1.14;0.82;0.00;0.33;
+barografo;N#978;1;1;0.29;1.12;0.50;0.00;0.33;strumento che  collegato a un barometro  riporta su un rotolo di carta i valori della pressione atmosferica nel tempo  sotto forma di diagramma anch esso può essere sia meccanico che elettronico
+bordeggio;N#878;1;1;-0.03;1.12;0.82;0.00;0.33;traiettoria a zigzag che un veliero deve seguire per risalire il vento un buon bordeggio permette di fare un cammino più breve o di coprire una distanza con maggior velocità
+bastimento;N#2347;1;1;1.00;1.12;0.12;-0.33;0.33;nave per passeggeri o da carico di grandi dimensioni
+naufragio;N#1523;1;1;1.00;1.11;0.44;-0.66;0.33;incidente marittimo per cui una nave affonda o va distrutta
+noleggiare;V#315;2;2;1.00;1.11;0.11;-0.33;0.33;prendere in noleggio
+imposizione;N#273;3;3;1.00;1.10;0.76;-0.99;0.33;le tasse  versamento di denaro dovuto dai cittadini allo stato
+carenare;V#765;1;1;0.03;1.10;1.07;-0.33;0.33;mettere in secco la carena di una nave per operazioni di manutenzione eo riparazione
+torneo;N#2101;1;3;-0.05;1.10;0.82;0.00;0.33;
+azimut;N#926;1;1;-0.06;1.09;0.82;0.00;0.33;nella navigazione astronomica indica l arco di cerchio compreso tra il nord e la verticale dell astro stesso
+messaggio;N#1445;1;1;0.00;1.09;0.76;0.00;0.33;la cosa comunicata
+bolina;N#102;1;1;-0.07;1.08;0.82;0.00;0.33;"negli antichi velieri  venivano chiamate così le cime che servivano a tirare il più possibile verso prua il lato della vela dalla parte di entrata del vento  per navigare il più possibile vicino alla direzione del vento
+"
+fregata;N#554;3;3;1.00;1.08;0.41;-0.33;0.00;nave militare con compiti di scorta  con dislocamento fra 1650 e 7800 tonnellate
+cala;N#196;2;2;1.00;1.08;0.41;-0.33;0.00;insenatura poco profonda adatta per l approdo e l ormeggio delle piccole imbarcazioni
+ammiraglia;N#97;1;1;1.00;1.08;0.41;-0.33;0.00;nave dell ammiraglio
+atollo;N#380;2;2;1.00;1.08;0.41;-0.33;0.00;grosso galleggiante
+cacciatorpediniere;N#553;1;2;1.00;1.08;0.41;-0.33;0.00;nave militare
+fine;N#2619;4;4;1.00;1.08;0.41;-0.33;0.00;l esito  la fine di qualcosa  condizione derivante da un fatto precedente
+incrociatore;N#552;1;1;1.00;1.08;0.41;-0.33;0.00;nave militare
+lanciamissili;N#560;1;1;1.00;1.08;0.41;-0.33;0.00;nave militare
+posamine;N#562;1;1;1.00;1.08;0.41;-0.33;0.00;nave da guerra attrezzata per collocare mine in mare
+sommergibile;N#566;1;1;1.00;1.08;0.41;-0.33;0.00;nave militare  destinata a navigare sott acqua
+traghetto misto;N#548;1;1;1.00;1.08;0.41;-0.33;0.00;traghetto misto mercipasseggeri
+bettolina;N#382;1;1;1.00;1.08;0.41;-0.33;0.00;galleggiante di ampie dimensioni
+corazzata;N#557;1;1;1.00;1.08;0.41;-0.33;0.00;grande nave da battaglia
+corvetta;N#558;1;1;1.00;1.08;0.41;-0.33;0.00;nave militare  attualmente non superiore alle 1000 tonnellate  per scorta ai convogli e caccia ai sommergibili
+posareti;N#563;1;1;1.00;1.08;0.41;-0.33;0.00;nave militare adibita al trasporto e alla posa di ostruzioni  spec reti  a difesa di forze navali
+rimorchiatore oceanico;N#549;1;1;1.00;1.08;0.41;-0.33;0.00;rimorchiatore che fa la spola con la piattaforma petrolifera
+serrafila;N#565;2;2;1.00;1.08;0.41;-0.33;0.00;nave militare che viene per ultima in una formazione che va alla stessa velocità
+vedetta;N#570;1;1;1.00;1.08;0.41;-0.33;0.00;nave militare piccola velocissima per la caccia ai sommergibili e la vigilanza costiera
+temperatura;N#2508;1;1;0.03;1.08;0.72;0.00;0.33;
+straorzare;V#330;1;1;1.00;1.07;0.07;-0.33;0.33;condurre la prua della nave oltre l orza
+rugiada;N#2545;1;1;0.24;1.06;0.82;-0.33;0.33;precipitazione atmosferica formata da minuscole gocce d acqua in seguito alla condensazione del vapore acqueo dell aria a contatto con superfici che presentano temperature superiori a 0° c
+girare;V#1976;3;2;0.16;1.05;0.23;0.00;0.66;far girare
+eliminatoria;N#2099;1;1;-0.10;1.05;0.82;0.00;0.33;
+passascotte;N#1542;1;1;-0.10;1.05;0.82;0.00;0.33;
+pesce_angelo;N#2035;1;1;-0.10;1.05;0.82;0.00;0.33;
+rinfuse;N#1974;1;1;-0.10;1.05;0.82;0.00;0.33;
+racer;N#915;1;1;0.20;1.02;0.82;-0.33;0.33;termine inglese che designa una imbarcazione da competizione  sia a vela che a motore
+andatura;N#76;1;2;1.00;1.01;1.66;-2.64;0.99;modo di navigare di una imbarcazione a vela
+comandante;N#107;1;1;0.18;1.00;0.82;-0.33;0.33;ufficiale di qualsiasi grado che ha il comando di una nave  nella marina civile  è colui che ha la responsabilità giuridica della nave 
+longitudine;N#1360;1;1;1.00;1.00;0.00;0.00;0.00;distanza di un luogo dal meridiano fondamentale  misurata in gradi
+Morse;NP#290;1;1;1.00;1.00;0.00;0.00;0.00;inventore statunitense 17911872  dalle scoperte di ampère trasse spunto per l invenzione del telegrafo elettrico
+rotta;N#216;1;1;1.00;1.00;0.00;0.00;0.00;percorso di una nave o di un mezzo aereo
+urbe;N#2672;1;1;1.00;1.00;0.00;0.00;0.00;un centro abitato di dimensioni variabili dal medio al grande
+vendere;V#939;1;1;1.00;1.00;0.00;0.00;0.00;cedere ad altri qc ricevendone il prezzo  commerciare anche assol
+anemometro;N#77;1;1;1.00;1.00;0.00;0.00;0.00;strumento per misurare la velocità del vento
+bruciato;AG#2122;1;1;1.00;1.00;0.00;0.00;0.00;detto della pelle troppo esposta al sole
+meteoropatia;N#2577;1;1;1.00;1.00;0.00;0.00;0.00;complesso di disturbi legati a particolari condizioni atmosferiche
+scia;N#1424;2;1;1.00;1.00;0.00;0.00;0.00;solco lasciato da un galleggiante in moto
+Sebastiano_Caboto;NP#1252;1;1;1.00;1.00;0.00;0.00;0.00;navigatore venezia 1476londra 1557 figlio di giovanni
+Argo;NP#96;5;3;1.00;1.00;0.00;0.00;0.00;nome della nave di giasone
+armatore;N#79;1;1;1.00;1.00;0.00;0.00;0.00;la persona o la compagnia che arma una nave per usarla per viaggi o traffici mercantili  non necessariamente è il proprietario della nave
+coltellaccio;N#665;2;2;1.00;1.00;0.00;0.00;0.00;tipo di vela a forma di trapezio
+consegnatario;N#242;1;1;1.00;1.00;0.00;0.00;0.00;chi ha in consegna qualcosa
+consumatore;N#602;2;2;1.00;1.00;0.00;0.00;0.00;chi acquista e consuma i prodotti dell industria per i propri fabbisogni
+cotto;AG#2121;1;1;1.00;1.00;0.00;0.00;0.00;sottoposto a cottura
+decreto;N#2057;2;2;1.00;1.00;0.00;0.00;0.00;atto del governo che stabilisce nuove norme amministrative
+deriva;N#115;1;1;1.00;1.00;0.00;0.00;0.00;spostamento operato da una massa liquida in movimento
+gas;N#2076;1;1;1.00;1.00;0.00;0.00;0.00;sostanza aeriforme
+germogliare;V#2117;2;2;1.00;1.00;0.00;0.00;0.00;emettere getti o germogli
+gettare;V#2115;3;3;1.00;1.00;0.00;0.00;0.00;allontanare  mandare al macero  roba rotta  vecchia  inservibile
+gettare;V#2116;4;4;1.00;1.00;0.00;0.00;0.00;versare  far colare in uno stampo materiale fuso
+gettare;V#2118;6;6;1.00;1.00;0.00;0.00;0.00;causare un cambiamento negativo  mettere in una condizione peggiore 
+Giovanni_Caboto;NP#1250;1;1;1.00;1.00;0.00;0.00;0.00;navigatore 14201498 nato forse a genova
+Giovanni_da_Verrazzano;NP#1251;1;1;1.00;1.00;0.00;0.00;0.00;navigatore firenze 14851528
+impedimento;N#2125;1;1;1.00;1.00;0.00;0.00;0.00;impedimento non fisico 
+intermediatore;N#263;1;1;1.00;1.00;0.00;0.00;0.00;chi fa da tramite tra due o più persone
+lago;N#2620;1;1;1.00;1.00;0.00;0.00;0.00;massa d acqua circondata dalla terra
+listino;N#261;1;1;1.00;1.00;0.00;0.00;0.00;elenco dei prezzi
+mal_di_mare;N#1408;1;1;1.00;1.00;0.00;0.00;0.00;mal di mare
+marina;N#2243;4;4;1.00;1.00;0.00;0.00;0.00;quadro raffigurante un paesaggio di mare
+meteorologicamente;AV#2574;1;1;1.00;1.00;0.00;0.00;0.00;per quanto riguarda la meteorologia
+meteorologico;AG#2575;1;1;1.00;1.00;0.00;0.00;0.00;relativo alla meteorologia
+militare;AG#1977;1;1;1.00;1.00;0.00;0.00;0.00;attinente all arma o ai soldati
+missiva;N#260;1;1;1.00;1.00;0.00;0.00;0.00;testo epistolare
+movimento;N#2280;4;4;1.00;1.00;0.00;0.00;0.00;ciascuna parte  caratterizzata da un ritmo diverso  di una composizione musicale
+Nave_Argo;NP#28;1;1;1.00;1.00;0.00;0.00;0.00;costellazione australe
+percorrere;V#2687;2;2;1.00;1.00;0.00;0.00;0.00;percorrere una distanza
+periplo;N#2686;2;2;1.00;1.00;0.00;0.00;0.00;nella letteratura grecolatina  descrizione di un viaggio marittimo
+pesca;N#2027;4;4;1.00;1.00;0.00;0.00;0.00;tipo di lotteria
+pescaia;N#2028;1;1;1.00;1.00;0.00;0.00;0.00;sbarramento collocato lungo il corso di un fiume
+pesce;N#2034;3;3;1.00;1.00;0.00;0.00;0.00;il pesce commestibile usato come alimento
+pesista;N#2043;1;1;1.00;1.00;0.00;0.00;0.00;atleta che pratica il sollevamento pesi
+prendere;V#485;1;3;1.00;1.00;0.00;0.00;0.00;giungere in possesso di qualcosa
+radio;N#213;2;2;1.00;1.00;0.00;0.00;0.00;apparecchio radiofonico
+radio;N#214;3;4;1.00;1.00;0.00;0.00;0.00;sistema di trasmissione
+ricevuta;N#266;1;1;1.00;1.00;0.00;0.00;0.00;tagliando che attesta un pagamento
+riserva_marina;N#2585;1;1;1.00;1.00;0.00;0.00;0.00;area marina protetta spec per le sue caratteristiche ecologiche
+ritardo;N#523;1;1;1.00;1.00;0.00;0.00;0.00;il tempo di cui si ritarda
+ruotare;V#1770;1;1;1.00;1.00;0.00;0.00;0.00;muoversi in giro  ruotare intorno ad un asse o ad un punto
+sagoma;N#524;1;1;1.00;1.00;0.00;0.00;0.00;linea di contorno di una cosa
+sbarco;N#267;1;2;1.00;1.00;0.00;0.00;0.00;operazione di togliere il carico
+scassa;N#1423;1;1;1.00;1.00;0.00;0.00;0.00;l alloggiamento del piede dell albero  nelle imbarcazioni a vela
+scia;N#1425;1;2;1.00;1.00;0.00;0.00;0.00;traccia lasciata da qualcosa nell aria  sulla terra o nell acqua
+soffiare;V#2582;3;3;1.00;1.00;0.00;0.00;0.00;detto del vento
+statuizione;N#2058;1;1;1.00;1.00;0.00;0.00;0.00;deliberazione  ordine  decisione di un autorità
+Stella Polare;NP#547;1;1;1.00;1.00;0.00;0.00;0.00;nave militare
+tempo;N#2274;4;4;1.00;1.00;0.00;0.00;0.00;età  soprattutto quando riferita a bambini molto piccoli  gli anni
+tempo;N#2278;10;10;1.00;1.00;0.00;0.00;0.00;caratteristica grammaticale dei verbi atta ad esprimere distinzioni temporali nell azione
+transito;N#276;1;1;1.00;1.00;0.00;0.00;0.00;passaggio  il passare
+velista;N#165;1;1;1.00;1.00;0.00;0.00;0.00;atleta degli sport della vela
+Vittorio Veneto;NP#551;1;1;1.00;1.00;0.00;0.00;0.00;nave militare
+Amerigo_Vespucci;NP#1254;1;1;1.00;1.00;0.00;0.00;0.00;navigatore firenze 1454siviglia 1512
+committente;N#599;1;1;1.00;1.00;0.00;0.00;0.00;chi attraverso un commissionario fa acquisti o vendite di merci o di titoli
+cotto;N#2124;2;2;1.00;1.00;0.00;0.00;0.00;mosto concentrato tramite bollitura
+Cristoforo_Colombo;NP#1249;1;1;1.00;1.00;0.00;0.00;0.00;navigatore genova 1451valladolid 1506
+gasolio;N#2077;1;1;1.00;1.00;0.00;0.00;0.00;liquido
+imballo;N#258;2;2;1.00;1.00;0.00;0.00;0.00;l involucro usato per imballare
+import;N#2183;2;2;1.00;1.00;0.00;0.00;0.00;l importare
+marinaio;N#53;3;3;1.00;1.00;0.00;0.00;0.00;uomo di mare  esperto di mare
+marinaio;N#54;4;4;1.00;1.00;0.00;0.00;0.00;nella marina mercantile  qualifica del personale di coperta maggiorenne e con almeno due anni di servizio
+meteoropatico;AG#2578;1;1;1.00;1.00;0.00;0.00;0.00;che soffre di meteoropatia
+minerale;N#2074;1;1;1.00;1.00;0.00;0.00;0.00;sostanza solida inorganica omogenea
+mittente;N#487;1;1;1.00;1.00;0.00;0.00;0.00;chi invia una lettera  un pacco ecc  per posta  posta elettronica  corriere ecc
+pescato;N#2029;1;1;1.00;1.00;0.00;0.00;0.00;quantità di pesce pescato
+pescatore;N#2030;1;1;1.00;1.00;0.00;0.00;0.00;chi si dedica alla pesca per mestiere o per sport
+pesce;N#2033;2;2;1.00;1.00;0.00;0.00;0.00;errore di stampa che consiste nel saltare una parola o una frase dell originale
+provento;N#2189;1;1;1.00;1.00;0.00;0.00;0.00;denaro che risulta dalla differenza tra incassi e spese  ciò che si ottiene economicamente  profitto
+reclamo;N#265;1;1;1.00;1.00;0.00;0.00;0.00;lamentanza
+scartamento;N#525;1;1;1.00;1.00;0.00;0.00;0.00;distanza tra le rotaie
+sommergibile;AG#567;1;1;1.00;1.00;0.00;0.00;0.00;che si può sommergere
+Vancouver;NP#1253;1;1;1.00;1.00;0.00;0.00;0.00;navigatore inglese 17571798  sbarcò in nuova zelanda  australia e hawaii  giungendo fino alle coste del canada
+inclinazione;N#633;2;2;1.00;1.00;0.00;0.00;0.00;posizione di un corpo quando forma un angolo rispetto a un piano di riferimento
+direzione;N#1892;1;1;1.00;1.00;0.66;-0.99;0.33;luogo verso il quale ci si dirige
+TIR;N#1879;2;2;0.91;0.99;0.41;-0.33;0.00;grande autotreno o autoarticolato abilitato e adibito al trasporto internazionale di merci
+fasciame;N#1346;1;1;0.14;0.96;0.82;-0.33;0.33;tavole in legno o lamiere metalliche che ricoprono l ossatura e formano la superficie esterna dello scafo
+unire;V#2641;1;1;0.86;0.96;0.76;-0.66;0.00;mettere insieme  fare che due o più cose diventino o appaiano una sola  avvicinandole o collegandole
+cucire;V#753;1;1;-0.10;0.93;0.70;0.00;0.33;
+condizione;N#2148;2;2;0.77;0.91;0.14;-0.66;0.66;modo di essere
+cutter;N#370;1;1;0.09;0.91;0.82;-0.33;0.33;piccolo veliero originario dell inghilterra
+passerella;N#1545;1;1;0.15;0.91;0.76;-0.33;0.33;tavola di legno o metallica utilizzata per collegare un natante ad una banchina o ad un secondo galleggiante
+gomena;N#1519;1;1;0.08;0.90;0.82;-0.33;0.33;grossa cima di tessile ritorto  utilizzata nelle navi per gli ormeggi 
+baglio;N#927;1;1;0.08;0.90;0.82;-0.33;0.33;trave che collega orizzontalmente le fiancate dell imbarcazione  per tutta la sua lunghezza e sostenendo il peso della coperta o ponte
+istmo;N#1604;1;1;0.87;0.87;0.00;0.00;0.00;striscia di terra che unisce due continenti o una penisola a un continente e separa due mari
+stagno;AG#797;1;1;0.87;0.87;0.00;0.00;0.00;che è a perfetta tenuta d acqua o d altro liquido  ermetico
+salvagente;N#218;1;1;0.10;0.84;0.41;0.00;0.33;giubbotto contenente materiale galleggiante da indossare in navigazione
+alaggio;N#798;2;1;0.35;0.83;0.16;0.00;0.33;manovra di traino di un imbarcazione lungo fiumi  canali  bacini  ecc  mediante un cavo
+barometro;N#977;1;1;0.62;0.83;0.22;-0.33;0.33;strumento meccanico o elettronico per la misura della pressione atmosferica
+fuso;N#1388;1;1;0.00;0.82;0.82;-0.33;0.33;parte centrale e rettilinea dell ancora  alle cui estremità si trovano da una parte la cicala e dall altra le marre
+marra;N#669;1;1;0.00;0.82;0.82;-0.33;0.33;uno dei di solito due bracci curvi dell ancora 
+nave_da_pesca;N#29;1;1;1.00;0.81;0.14;-0.66;0.33;imbarcazione o nave attrezzata per la pesca
+consegna;N#243;1;1;1.00;0.79;0.45;-0.99;0.33;atto del consegnare
+drizza;N#1405;1;1;-0.04;0.78;0.82;-0.33;0.33;"cima o cavo d acciaio utilizzato per alzare drizzare al loro posto vele  bandiere
+o altri sistemi di coperta 
+"
+traghetto;N#445;1;2;-0.10;0.78;0.88;-0.66;0.66;imbarcazione usata per traghettare
+portuale;N#129;1;1;0.16;0.78;0.29;0.00;0.33;
+radiotelegrafista;N#809;1;1;0.16;0.78;0.29;0.00;0.33;
+sbarcare;V#617;1;1;0.78;0.78;0.00;0.00;0.00;scendere a terra da una imbarcazione 
+bilancella;N#1922;1;1;0.10;0.77;0.34;0.00;0.33;piccola imbarcazione da pesca  usata soprattutto in sicilia e attrezzata con un albero a vela latina e un fiocco 
+trasferire;V#447;1;2;-0.05;0.76;1.14;-0.66;0.33;
+pagaia;N#1538;1;1;0.18;0.75;0.24;0.00;0.33;remo con le due estremità a pala  che si maneggia tenendolo al centro con entrambe le mani si usa sulle canoe e su altri natanti di tipo fluviale o balneare
+chiatta;N#381;1;1;1.00;0.75;0.41;-0.66;0.00;grosso galleggiante a fondo piatto
+spinnaker;N#1733;1;1;0.36;0.75;0.06;0.00;0.33;vela di prua di grande superficie e di tessuto leggero  viene usata con venti portanti  dal traverso fino al fil di ruota  la progenitrice di questa vela fu alzata per la prima volta su uno yacht britannico nel 1865
+bulbo;N#1010;1;2;0.00;0.74;0.41;0.00;0.33;"pesante siluro  normalmente in piombo  collocato il più in basso possibile solidarmente alla chiglia  per aumentare il momento raddrizzante dell imbarcazione sotto vela
+"
+alta marea;N#744;1;1;-0.10;0.74;0.51;0.00;0.33;punto massimo della marea crescente 
+bassa marea;N#745;1;1;-0.10;0.74;0.51;0.00;0.33;punto minimo della marea calante
+squero;N#2706;1;1;-0.06;0.74;0.47;0.00;0.33;piccolo cantiere in cui un tempo la gondola veniva costruita e ricoverata in rimessaggio
+galleggiamento;N#1501;1;2;-0.10;0.73;0.50;0.00;0.33;lo stare a galla
+speronare;V#1875;1;1;0.72;0.72;0.00;0.00;0.00;colpire un altra nave con lo sperone o con la prora  incidentalmente o durante un azione di guerra
+nolo;N#820;3;1;0.22;0.72;0.50;-0.33;0.33;il noleggiare
+buttafuori;N#892;1;2;-0.10;0.72;0.82;-0.33;0.33;genericamente qualunque asta che tenga spinto verso l esterno dello scafo un qualsiasi oggetto  tipicamente una vela o una scotta
+umidità;N#2530;1;1;-0.10;0.68;0.45;0.00;0.33;presenza di acqua o di vapore acqueo nell atmosfera
+bagala;N#65;1;1;1.00;0.67;0.00;-0.33;0.00;barcone a vela  con la poppa rotonda e la pruna rasa slanciata  in uso nel mar rosso e sul nilo
+accone;N#59;1;1;1.00;0.67;0.00;-0.33;0.00;solido barcone lungo e quadrato  già usato per trasportare a bordo  rimorchiandolo  il carico e l’armamento
+acido;N#2176;1;1;1.00;0.67;0.00;-0.33;0.00;sostanza solida  liquida o gassosa che in soluzione libera cationi idrogeno
+aliseo;N#840;1;1;1.00;0.67;0.00;-0.33;0.00;vento costante che spira tutto l anno tra i due tropici e l equatore
+darsena;N#112;1;1;1.00;0.67;0.00;-0.33;0.00;parte interna del porto  dove le navi vengono riparate o custodite
+deserto;N#2625;1;1;1.00;0.67;0.00;-0.33;0.00;luogo sabbioso e caldissimo tipico di alcune regiorni africane  asiatiche e americane
+mano;N#1377;1;3;1.00;0.67;0.00;-0.33;0.00;quantità di materiale steso in modo uniforme su una superficie
+marmo;N#2049;1;1;1.00;0.67;0.00;-0.33;0.00;calcare di vario colore che deve la sua struttura a fenomeni di metamorfismo
+navetta;N#32;1;2;1.00;0.67;0.00;-0.33;0.00;veicolo che percorre continuamente nei due sensi lo stesso percorso
+paese;N#2671;1;1;1.00;0.67;0.00;-0.33;0.00;territorio con un governo sovrano e una propria organizzazione politica e amministrativa
+provino;N#594;1;2;1.00;0.67;0.00;-0.33;0.00;una piccola parte di qualcosa intesa come rappresentativa del tutto
+tempo;N#2277;7;7;1.00;0.67;0.00;-0.33;0.00;parte di uno spettacolo o di una manifestazione sportiva
+tiunia;N#537;1;1;1.00;0.67;0.00;-0.33;0.00;battello piatto  senza chiglia  di origine cinese  usato in malesia
+trabaccolo;N#533;1;1;1.00;0.67;0.00;-0.33;0.00;piccolo bastimento mercantile da carico  a 2 alberi verticali con vele  è in uso nell adriatico
+tramoggia;N#534;1;2;1.00;0.67;0.00;-0.33;0.00;grossa barca in ferro con camere d aria e con 24 porte nella carena
+annegare;V#2584;1;1;1.00;0.67;0.00;-0.33;0.00;morire per soffocamento in acqua o altro liquido
+benzina;N#2177;1;1;1.00;0.67;0.00;-0.33;0.00;liquido trasparente  volatile  infiammabile ottenuto dal petrolio
+carboniere;N#168;1;1;1.00;0.67;0.00;-0.33;0.00;piccolo bastimento per il trasporto del carbone
+cemento;N#2108;1;1;1.00;0.67;0.00;-0.33;0.00;materiale per costruzione  ottimamente resistente alla compressione
+commissione;N#241;1;3;1.00;0.67;0.00;-0.33;0.00;compenso richiesto dalle banche per alcune operazioni
+fare;V#1469;1;9;1.00;0.67;0.00;-0.33;0.00;lasciare uscire o entrare  detto specialmente di liquidi
+abbrivio;N#179;1;3;1.00;0.67;0.00;-0.33;0.00;impulso iniziale dato ad un veicolo
+sigla;N#2206;1;3;1.00;0.67;0.00;-0.33;0.00;parola formata dalle lettere iniziali di altre parole
+aereo;N#2610;1;1;1.00;0.67;0.00;-0.33;0.00;velivolo a motore impiegato per il trasporto di passeggeri e di merci
+affondamento;N#2581;2;2;1.00;0.67;0.00;-0.33;0.00;il mandare a fondo  lo spingere qc sotto l acqua
+albatrosso;N#62;1;1;1.00;0.67;0.00;-0.33;0.00;tipo di nave inventata  verso la fine del ‘400  da mastro giovanni dell’arsenale di pisa
+appoggio;N#64;1;7;1.00;0.67;0.00;-0.33;0.00;veliero usato per la pesca con lo scafandro
+avvisatore;N#80;1;1;1.00;0.67;0.00;-0.33;0.00;chi avvisa
+bordo;N#82;1;1;1.00;0.67;0.00;-0.33;0.00;fianco della nave o di qualsiasi imbarcazione
+buttare;V#2114;1;1;1.00;0.67;0.00;-0.33;0.00;far cadere verso il basso
+caicco;N#167;1;1;1.00;0.67;0.00;-0.33;0.00;battello a remi  leggero e sottile  usato sul bosforo per il trasporto delle persone e  la gondola del bosforo
+calcestruzzo;N#2112;1;1;1.00;0.67;0.00;-0.33;0.00;materiale da costruzione
+cessione;N#597;1;1;1.00;0.67;0.00;-0.33;0.00;atto del cedere qualcosa a qualcuno  trasferendone la proprietà
+clausola;N#598;1;1;1.00;0.67;0.00;-0.33;0.00;disposizione di contenuto autonomo inserita in un atto giuridico
+commodoro;N#2242;1;1;1.00;0.67;0.00;-0.33;0.00;nelle marine anglosassoni  ufficiale che assume il comando di una divisione navale
+continente;N#2623;2;2;1.00;0.67;0.00;-0.33;0.00;terraferma  parte emersa di un continente
+detrazione;N#2646;4;4;1.00;0.67;0.00;-0.33;0.00;riduzione di una somma da pagare
+dirigere;V#763;1;2;1.00;0.67;0.00;-0.33;0.00;esercitare un potere
+fare;V#1473;2;15;1.00;0.67;0.00;-0.33;0.00;procacciarsi  ottenere
+gettare;V#2113;1;1;1.00;0.67;0.00;-0.33;0.00;far cadere qualcosa  con impeto e con forza  lontano da sé
+granito;N#2078;1;1;1.00;0.67;0.00;-0.33;0.00;roccia cristallina
+latitudine;N#1361;1;2;1.00;0.67;0.00;-0.33;0.00;linea immaginaria che percorre il globo parallelamente all equatore
+naufrago;N#1524;1;1;1.00;0.67;0.00;-0.33;0.00;persona caduta in mare o superstite da un naufragio
+noleggiare;V#314;1;1;1.00;0.67;0.00;-0.33;0.00;dare in noleggio
+olio;N#2178;1;1;1.00;0.67;0.00;-0.33;0.00;prodotto liquido di varia natura
+ostro;N#997;1;1;1.00;0.67;0.00;-0.33;0.00;vento umido e caldo proveniente da sud
+parco_naturale;N#2622;1;1;1.00;0.67;0.00;-0.33;0.00;territorio protetto
+pesca;N#2026;1;2;1.00;0.67;0.00;-0.33;0.00;il pescare
+pistola;N#1341;1;1;1.00;0.67;0.00;-0.33;0.00;arma da fuoco corta  che si maneggia con una sola mano
+privilegio;N#614;1;2;1.00;0.67;0.00;-0.33;0.00;diritto  vantaggio speciale
+salvare;V#742;1;1;1.00;0.67;0.00;-0.33;0.00;mettere in salvo
+snodo;N#1765;1;1;1.00;0.67;0.00;-0.33;0.00;snodatura che permette a due pezzi di muoversi con coesione
+sottostare;V#2130;1;1;1.00;0.67;0.00;-0.33;0.00;essere soggetto
+studio;N#518;5;5;1.00;0.67;0.00;-0.33;0.00;locali in cui si lavora
+tempo;N#2275;5;5;1.00;0.67;0.00;-0.33;0.00;intervallo di una certa durata che occorre per fare un azione
+thalac;N#538;1;1;1.00;0.67;0.00;-0.33;0.00;piccolo bastimento indiano
+unità;N#520;1;6;1.00;0.67;0.00;-0.33;0.00;elemento distinto  autonomo  non scomponibile
+valersi;V#2021;1;1;1.00;0.67;0.00;-0.33;0.00;servirsi  avvalersi di qualcosa per un certo scopo
+veleggiatore;N#72;1;1;1.00;0.67;0.00;-0.33;0.00;imbarcazione a vela
+annegare;V#2579;2;2;1.00;0.67;0.00;-0.33;0.00;far morire per annegamento
+bolletta;N#592;1;1;1.00;0.67;0.00;-0.33;0.00;ricevuta di un pagamento
+carabottino;N#1333;1;1;1.00;0.67;0.00;-0.33;0.00;graticolato usato come pavimento per le zone in cui si vuole che l acqua passi e scorra via
+condizione;N#601;1;3;1.00;0.67;0.00;-0.33;0.00;circostanza richiesta all interno di un patto  condizioni previste da un accordo
+deserto;N#2626;2;2;1.00;0.67;0.00;-0.33;0.00;luogo poco abitato o desolato
+dragone;N#70;1;2;1.00;0.67;0.00;-0.33;0.00;imbarcazione a vela da regata
+fare scalo;V#1475;1;1;1.00;0.67;0.00;-0.33;0.00;sostare in un porto  o in un ancoraggio
+imballo;N#257;1;1;1.00;0.67;0.00;-0.33;0.00;l imballare
+mappa;N#1134;1;2;1.00;0.67;0.00;-0.33;0.00;rappresentazione grafica di zone della superficie della terra  rappresentazione grafica in scala di zone della superficie della terra
+contrarre;V#1773;2;2;1.00;0.67;0.00;-0.33;0.00;rendere di minori dimensioni
+saccoleva;N#532;1;1;1.00;0.67;0.00;-0.33;0.00;piccolo veloce bastimento  da 3060 ton  con saccoleva  trinchetto quadro  e uno o due fiocchi usato nell arcipelago greco
+star;N#71;1;1;1.00;0.67;0.00;-0.33;0.00;imbarcazione a vela da regata
+trambai;N#535;1;1;1.00;0.67;0.00;-0.33;0.00;vaporetto in sevizio in venezia e nei dintorni vocabolo introdotto sul finire del xix secolo
+velame;N#135;1;2;1.00;0.67;0.00;-0.33;0.00;l insieme delle vele di una imbarcazione  complesso delle vele di un imbarcazione
+topo;N#536;1;2;1.00;0.67;0.00;-0.33;0.00;barchetta chioggiotta con la quale i pescatori trasportano il pesce ai luoghi di destinazione  a fondo piatto  con murate quasi verticali nella parte centrale e con prua slanciata
+tribordo;N#712;1;1;0.67;0.67;0.00;0.00;0.00;lato destro di un imbarcazione
+impiombare;V#2640;1;1;-0.04;0.66;0.70;-0.33;0.33;"unire due cavi intrecciandoli alle estremità per i legnoli
+"
+burchiello;N#1923;1;1;-0.02;0.65;0.34;0.00;0.33;piccola barca a fondo piatto pwer trasporti fluviali  lagunari o lacustri
+cucina;N#1370;1;1;0.23;0.64;0.08;0.00;0.33;locale dell imbarcazione dove si conservano e si cucinano gli alimenti 
+baricentro;N#979;1;1;0.31;0.64;0.00;0.00;0.33;in un corpo o sistema di corpi  punto di applicazione della forza di gravitazione 
+scotta;N#894;1;1;0.14;0.63;0.82;-0.66;0.33;cima utilizzata per bordare e regolare le vele cazzare e lascare questa cima è fissata all angolo di scotta che è libero di orientarsi secondo il vento
+aliscafo;N#63;1;1;0.16;0.63;0.14;0.00;0.33;imbarcazione a motore che naviga planando su alip oste ai lati dello scafo raggiungendo altissime velocità
+muovere;V#1430;1;2;0.91;0.63;0.38;-0.99;0.33;togliere una cosa dal posto in cui si trova
+accostata;N#575;1;1;0.46;0.61;0.16;-0.33;0.33;spostamento della prua per effetto del timone
+ancora;N#73;1;1;1.00;0.60;1.58;-2.64;0.66;pesante arnese di ferro o acciaio che  facendo presa sul fondo  serve all ormeggio di un imbarcazione
+albero di trasmissione;N#844;1;2;0.60;0.60;0.00;0.00;0.00;albero che trasmette il moto generato dal motore all elica
+disciplina;N#2711;1;1;0.92;0.59;0.00;-0.33;0.00;complesso organico e sistematico delle conoscenze che si posseggono intorno a un certo argomento
+tonneggio;N#1908;1;1;0.42;0.58;0.16;-0.33;0.33;manovra con cui si sposta una nave da un punto d ormeggio ad un altro
+gozzo;N#374;1;1;-0.10;0.57;0.34;0.00;0.33;barca con la quale i pescatori di tonni fanno la guardia sopra il bordonaro  per osservare quando vengono i tonni
+allineamento;N#845;1;3;0.53;0.53;0.00;0.00;0.00;linea che congiunge due punti fissi in mare o sulla costa  utilizzati per dare alle imbarcazioni percorsi sicuri  ad esempio per entrare in un ancoraggio o in un canale
+atollo;N#2665;1;1;0.12;0.53;0.41;0.00;0.00;isola composta da una particolare formazione di terra emersa e lagune
+varare;V#228;1;1;0.12;0.52;0.07;0.00;0.33;far discendere una nave in mare da un apposito bacino  oppure mettere in mare un imbarcazione con l ausilio di una slitta o di una gru
+costeggiare;V#662;1;1;0.29;0.51;0.22;-0.33;0.33;navigare senza allontanarsi dalla costa
+gavitello;N#101;1;1;0.39;0.47;0.41;-0.33;0.00;galleggiante di segnalazione di varia forma solidamente ancorato al fondale utilizzato specie per l ormeggio delle imbarcazioni  o nelle gare nautiche 
+naufragare;V#1522;1;1;-0.04;0.46;0.50;-0.33;0.33;"detto di imbarcazione  affondare in mare  detto di persone imbarcate  fare naufragio  a causa di danni prodotti dal mare in tempesta o da altri tipi di sinistro urti  incendi  etc 
+"
+pilotina;N#541;1;1;-0.02;0.45;0.14;0.00;0.33;
+piroga;N#542;1;1;-0.02;0.45;0.14;0.00;0.33;
+sandolino;N#544;1;1;-0.02;0.45;0.14;0.00;0.33;
+spedizioniere;N#234;1;1;0.16;0.45;0.29;-0.33;0.33;
+murata;N#459;1;1;0.44;0.44;0.00;0.00;0.00;parete laterale di nave o imbarcazione  dalla linea di galleggiamento alla battagliola e  la parte emersa della fiancata
+carico;N#232;1;1;1.00;0.44;0.76;-1.65;0.33;quanto si carica su qualcosa
+andare_via;V#2269;1;1;0.76;0.43;0.00;-0.33;0.00;allontanarsi da un luogo per recarsi altrove
+trave;N#1766;1;1;1.00;0.40;0.06;-0.99;0.33;elemento delle costruzioni costituito da un tronco d albero squadrato o da analoghe strutture in acciaio o cemento armato
+solcometro;N#1729;1;1;0.39;0.39;0.00;0.00;0.00;strumento per misurare la velocità delle imbarcazioni
+fiume;N#1481;1;1;0.38;0.38;0.00;0.00;0.00;corso d acqua dolce di consistente dimensione spesso navigabile
+bagnasciuga;N#1995;2;2;0.71;0.38;0.00;-0.33;0.00; striscia di spiaggia su cui si infrangono le onde
+fiocco;N#353;1;4;0.32;0.37;0.06;-0.33;0.33;vela triangolare che si alza a pruavia dell albero verticale di prora
+scandagliare;V#904;1;2;-0.04;0.37;0.08;0.00;0.33;misurare la profondità delle acque per l ancoraggio o in navigazione
+abbisciare;V#176;1;1;0.30;0.37;0.06;-0.33;0.33;"avvolgere un cavo od una catena  ad ampie spire  in modo che possano svolgersi liberamente e scorrere senza impedimenti 
+"
+navigabilità;N#37;1;1;-0.14;0.36;0.50;-0.33;0.33;
+affiorare;V#1820;1;1;0.36;0.36;0.00;0.00;0.00;l apparire in superficie di un qualsiasi oggetto immerso nell acqua
+navigare;V#2688;2;3;0.68;0.35;0.00;-0.33;0.00;"muoversi all interno di un ipertesto scegliendo un itinerario navigare in internet
+"
+stazione;N#270;1;1;1.00;0.34;0.00;-0.66;0.00;complesso di edifici e di impianti in cui si svolgono tutte le operazioni relative al movimento di merci e passeggeri
+sponda;N#1996;1;1;1.00;0.34;0.00;-0.66;0.00;striscia di terra che costeggia le acque di un mare  lago o fiume
+salvamento;N#741;1;1;1.00;0.34;0.00;-0.66;0.00;complesso di operazioni per salvarechi è in pericolo
+avaria;N#237;1;1;1.00;0.34;0.00;-0.66;0.00;danno che riguarda la nave o il suo carico
+comando;N#762;1;1;1.00;0.34;0.00;-0.66;0.00;l atto del comandare
+fase;N#2571;1;2;1.00;0.34;0.00;-0.66;0.00;in astron ognuno degli aspetti che assume un astro a seconda della sua posizione rispetto al sole e alla terra
+marinaro;N#52;2;2;1.00;0.34;0.00;-0.66;0.00;chi presta servizio militare in marina senza alcun grado
+navigatore;N#41;1;1;1.00;0.34;0.00;-0.66;0.00;uomo di mare
+olimpiade;N#2082;1;1;1.00;0.34;0.00;-0.66;0.00;manifestazione sportiva che si svolge ogni quattro anni
+nautica;N#1525;1;1;1.00;0.34;0.00;-0.66;0.00;arte e tecnica della navigazione
+ammanco;N#589;1;1;0.33;0.33;0.00;0.00;0.00;somma di denaro mancante per un errore contabile o per appropriazione indebita
+Amerigo Vespucci;NP#550;2;1;0.33;0.33;0.00;0.00;0.00;veliero e nave scuola militare  fu varata il 22 febbraio 1931  a castellammare di stabia con essa la marina militare italiana effettua le campagne addestrative degli allievi ufficiali
+portolano;N#1666;1;1;0.33;0.33;0.00;0.00;0.00;libro che elenca i porti di una regione e ne descrive le coste i fondali i venti e le correnti  indispensabile per la navigazione
+abbonacciare;V#1818;1;2;0.32;0.32;0.00;0.00;0.00;il calmarsi del mare e del vento
+informazione;N#2398;1;1;0.00;0.32;0.32;-0.33;0.33;elemento o dato che permette di venire a conoscenza di qcs  notizia chiedere un informazione a qcn  dare  fornire informazioni riservate  scambio di informazioni  trovare una buona fonte di informazioni  informazioni per l utente  per i passeggeri
+avvistare;V#621;1;1;0.32;0.32;0.00;0.00;0.00;scorgere qualcosa da lontano in mare
+abbattere;V#1871;1;8;0.18;0.32;0.13;-0.33;0.33;far ruotare la nave alla fonda per mettere alla vela o riprendere il cammino
+stiva;N#221;1;1;-0.10;0.31;0.08;0.00;0.33;nelle navi è lo spazio destinato al carico delle merci
+isobara;N#1607;1;1;0.31;0.31;0.00;0.00;0.00;curva che  sulle carte metero  unisce i punti di uguale pressione atmosferica 
+infrastruttura;N#2011;1;1;0.31;0.31;0.00;0.00;0.00;insieme degli impianti e delle installazioni che permettono l espletamento di un servizio
+avvolgere;V#975;1;3;0.08;0.31;0.23;-0.33;0.33;arrotolare le vele  sia per stivarle che per disporle attorno a un sistema di coperta
+cantiere;N#717;1;1;0.57;0.29;0.38;-0.66;0.00;luogo  area in cui si trovano gli stabilimenti  impianti e macchine per la costruzione  l allestimento e il raddobbo delle navi
+trireme;N#1955;1;1;0.17;0.29;0.12;-0.33;0.33;antica nave da guerra greca e fenicia
+cabina;N#1059;1;3;0.20;0.29;0.08;-0.33;0.33;"piccola camera di un imbarcazione  dotata di letti o cuccette
+"
+carteggio;N#779;1;3;0.62;0.29;0.00;-0.33;0.00;procedimento per tracciare e seguire una rotta sulle carte nautiche 
+abbrumare;V#2694;1;1;0.28;0.28;0.00;0.00;0.00;detto della carena lignea delle navi  corrodersi a causa di piante e molluschi marini che vi atteschiscono
+astrolabio;N#2150;1;1;0.60;0.27;0.00;-0.33;0.00;antico strumento usato dai naviganti per determinare l altezza di un astro ull orizzonte  oggi sostituito dal sestante
+scala;N#2081;1;5;0.52;0.26;0.08;-0.66;0.33;"nel linguaggio scientifico e tecnico  successione di valori convenzionali che misurano l intensità di un fenomeno
+"
+aereo;AG#2612;2;1;0.26;0.26;0.00;0.00;0.00;pieno d aria
+sicuro;AG#2681;2;4;0.26;0.26;0.00;0.00;0.00;che non comporta pericoli
+radiogoniometro;N#1739;1;1;0.25;0.25;0.00;0.00;0.00;strumento in grado di rilevare le onde radio emesse da un radiofaro  per rilevare da bordo la direzione di un radiofaro e quindi ottenere informazioni utili per la navigazione costiera
+diamante;N#1385;1;2;0.58;0.25;0.00;-0.33;0.00;parte terminale del fuso dell ancora dal quale si dipartono le marre 
+abbittare;V#577;1;1;0.56;0.23;0.00;-0.33;0.00;legare un cavo o una catena a una bitta
+lino;N#724;1;2;0.56;0.23;0.00;-0.33;0.00;fibra tessile ricavata dalla pianta del lino
+idrostatica;N#1569;1;1;0.23;0.23;0.00;0.00;0.00;"branca della fisica che studia il comportamento dei corpi immersi e le relative caratteristiche di galleggiabilità
+"
+trimarano;N#946;1;1;0.08;0.23;0.14;-0.33;0.33;imbarcazione a vela formata da uno scafo centrale e due laterali più piccoli  paralleli e simmetrici  uniti con traverse metalliche o in vetroresina  allo scafo centrale
+fortunale;N#2094;2;2;0.15;0.23;0.41;-0.33;0.00;raro  gravissime devastazioni  onde enormi ed alte  che possono nascondere navi di media stazza  ridotta visibilità velocità del vento 103117 km orari grado 11 della scala beaufort
+canapa;N#723;1;2;0.55;0.22;0.00;-0.33;0.00;fibra tessile che si ricava dalla pianta usata per fabbricare cavi e  in passato  anche vele
+vela;N#131;1;1;0.07;0.22;2.80;-4.62;1.98;ciascuno dei teli disposti verticalmente a bordo dei velieri in modo da ricevere la pressione del vento per utilizzarla come forza motrice
+idrodinamica;N#1564;1;1;0.22;0.22;0.00;0.00;0.00;branca della fisica che studia il moto dell acqua e l effetto prodotto dal movimento dei corpi immersi
+importuoso;AG#1860;1;1;0.22;0.22;0.00;0.00;0.00;che manca di porti o non offre buoni approdi
+ponte;N#384;1;4;0.12;0.22;0.76;-0.99;0.33;ognuno di piani orizzontali che dividono l interno delle navi nel senso dell altezza  nelle imbarcazioni da diporto spesso il termine ponte coincide con coperta
+idrovolante;N#1571;1;1;0.21;0.21;0.00;0.00;0.00;"velivolo a fondo piatto  spesso dotato di scarponi galleggianti laterali  adatto all atterraggio e decollo in mare 
+"
+idrografia;N#1565;1;2;0.20;0.20;0.00;0.00;0.00;"scienza del rilevamento e della rappresentazione grafica  su carte ad uso dei naviganti  delle coste  dei mari e delle acque interne
+"
+golfo;N#1518;1;1;0.12;0.20;0.41;-0.33;0.00;"insenatura di grandi dimensioni  che talvolta contiene insenature minori cale  baie 
+etc 
+"
+stecca;N#1746;1;3;0.20;0.20;0.00;0.00;0.00;"lama o profilato plastico di diversa forma e sezione che  inserito nel lato di balumina della randa  contribuisce a mantenerla distesa
+"
+commettere;V#2181;3;3;0.52;0.19;0.00;-0.33;0.00;ordinare una merce
+governare;V#2721;2;1;0.19;0.19;0.00;0.00;0.00;reggere  guidare esercitando il potere politico e amministrativo di uno stato
+Sahara;NP#2627;1;1;0.19;0.19;0.00;0.00;0.00;deserto sabbioso
+timoniere;N#947;1;1;-0.10;0.19;0.29;-0.33;0.33;persona addetta alla manovra della barra o della ruota del timone
+estintore;N#1466;1;1;0.18;0.18;0.00;0.00;0.00;"recipiente metallico che contiene gas  polvere o schiuma sotto pressione atta a spegnere il fuoco 
+"
+base;N#877;1;13;0.51;0.18;0.00;-0.33;0.00;lato inferiore della vela
+madiere;N#1342;1;1;0.18;0.18;0.00;0.00;0.00;"zona inferiore della costola parte del quinto o ordinata dello scafo  che si incastra nella chiglia
+"
+bugliolo;N#891;1;1;0.17;0.17;0.00;0.00;0.00;nome marinaro per recipienti a forma di secchio
+ridosso;N#1772;1;1;0.16;0.16;0.00;0.00;0.00;terra emersa abbastanza alta da costituire un riparo dalla forza del mare e del vento un isola  una montagna  etc
+abbuono;N#731;1;1;0.16;0.16;0.00;0.00;0.00;compenso di tempo concesso a barche a vela di caratteristiche  e dimensioni diverse che corrono in una stessa regata per permettere loro di correre in una condizione di parità
+isoterma;N#1605;1;1;0.16;0.16;0.00;0.00;0.00;"curva che  su particolari carte  unisce i punti di uguale temperatura rilevata o prevista 
+"
+arare;V#864;1;2;0.16;0.16;0.00;0.00;0.00;si dice dell ancora quando non sta ben aggrappata al fondo
+piroscafo;N#2348;1;1;0.04;0.15;0.12;-0.33;0.33;nave mercantile a vapore  usata spec in passato per il trasporto di merci e passeggeri
+igrometro;N#1572;1;1;0.15;0.15;0.00;0.00;0.00;"strumento misuratore dell umidità relativa dell aria  tarato da 0 a 100 
+"
+quadrante;N#1664;1;2;0.14;0.14;0.00;0.00;0.00;ciascuno dei quattro settori di 90° compresi tra i quattro punti cardinali nella rosa della bussola  e di conseguenza nell orizzonte marino
+scaricare;V#448;1;1;0.80;0.14;0.00;-0.66;0.00;
+comperare;V#940;1;2;0.14;0.14;0.00;0.00;0.00;ottenere in proprietà dando del denaro
+virata;N#1685;1;1;-0.02;0.14;0.16;-0.33;0.33;azione del virare
+abbandonare;V#722;1;3;0.13;0.13;0.00;0.00;0.00;l atto di lasciare la nave in pericolo da parte del capitano e dell equipaggio
+armamento;N#78;1;4;0.79;0.13;0.00;-0.66;0.00;il complesso dei materiali e degli uomini occorrenti a mettere una nave in condizioni di navigare
+foschia;N#1493;1;1;0.05;0.13;0.41;-0.33;0.00;"stato opaco dell atmosfera  diverso dalla nebbia  e frequente anche con bel tempo e  spesso dovuto a differenze di temperatura tra zone contigue
+"
+bugna;N#890;1;1;0.45;0.12;0.00;-0.33;0.00;angolo di una vela nelle moderne vele triangolari  le bugne sono tre b di penna  b di mura  b di scotta
+tronco;N#2197;1;1;0.45;0.12;0.00;-0.33;0.00;fusto eretto e legnoso degli alberi e degli arbusti da cui si dipartono i rami
+ormeggiare;V#202;1;1;0.78;0.12;0.00;-0.66;0.00;legare l imbarcazione a terra o ad uno o più punti di presa con ancore  cavi o catene  allo scopo di trattenerla e di sottrarla ai movimenti che gli imprimerebbe il vento  la corrente ed il moto ondoso 
+cellulosa;N#2196;1;1;0.44;0.11;0.00;-0.33;0.00;composto organico solido e fibroso  presente in natura come componente delle pareti cellulari delle piante od ottenuto industrialmente  usato come materia prima spec nell industria cartaria e tessile
+nebbia;N#1527;1;1;1.00;0.09;0.41;-1.32;0.00;fenomeno atmosferico consistente in massa di goccioline minutissime di acqua in sospensione nell atmosfera
+goletta;N#1517;1;1;-0.03;0.08;0.12;-0.33;0.33;veliero a due alberi di trinchetta e di maestra con vele auriche e bompresso
+numero;N#2724;2;5;0.41;0.08;0.00;-0.33;0.00;numero  massa  grandezza di qcs quantità di denaro  di merci  di energia
+manifestazione;N#2134;1;2;0.00;0.08;0.41;-0.33;0.00;
+amperometro;N#1652;1;1;0.41;0.08;0.00;-0.33;0.00;strumento per misurare l intensità della corrente elettrica
+imbarcare;V#616;1;1;0.16;0.08;0.25;-0.33;0.00;caricare o prendere a bordo di una nave o di un imbarcazione in genere cose persone animali
+pontone;N#378;1;1;0.32;0.07;0.41;-0.66;0.00;grosso e robusto galleggiante a fondo piatto usato un tempo per traghettare i passeggeri e oggi per trasporto di grossi pesi
+pireliometro;N#2553;1;1;0.39;0.06;0.00;-0.33;0.00;"strumento per la misura della radiazione solare diretta
+"
+abbrivare;V#1870;1;1;0.71;0.05;0.00;-0.66;0.00;mettere in moto  far acquistare velocità
+barbariccio;N#1925;1;1;0.37;0.04;0.00;-0.33;0.00;piccola barca a remi usata in sardegna per la pesca dei tonni
+psicrometro;N#2538;1;1;0.37;0.04;0.00;-0.33;0.00;strumento che misura l’umidità relativa dell’aria mediante la valutazione della differenza nelle letture di due termometri affiancati  uno a secco e l altro avvolto da una garza imbevuta di acqua
+abbrivio;N#177;2;1;0.69;0.03;0.00;-0.66;0.00;moto progressivo iniziale di una imbarcazione dovuta alla sua propulsione o ad altri fattori esterni  quali il vento o la corrente
+risacca;N#1788;1;1;0.35;0.02;0.00;-0.33;0.00;moto di ritorno impresso a un onda da un ostacolo contro cui urta scogli  moli  ecc
+betta;N#1933;1;1;-0.10;0.02;0.12;-0.33;0.33;piccola nave sussidiaria della marina militare
+vaporetto;N#573;1;1;-0.10;0.02;0.12;-0.33;0.33;piccola nave a vapore o a motore 
+brezza;N#105;1;2;1.00;0.01;0.00;-0.99;0.00;vento tipico delle coste che spira mattina e sera in direzioni opposte
+cassa;N#596;1;1;1.00;0.01;0.00;-0.99;0.00;recipiente  a forma di parallelepipedo  provvisto di coperchio
+nadir;N#1344;1;1;0.34;0.01;0.00;-0.33;0.00;è il punto della sfera celeste diametralmente opposto allo zenit
+movimento;N#2149;2;6;0.32;-0.01;0.00;-0.33;0.00;
+mareografo;N#2551;1;1;0.32;-0.01;0.00;-0.33;0.00;strumento per il rilevamento del livello medio marino
+cacciasommergibili;N#555;1;1;-0.10;-0.02;0.41;-0.33;0.00;
+campana;N#1065;1;2;0.31;-0.02;0.00;-0.33;0.00;"strumento che si usa a bordo per segnalazioni es in caso di nebbia o per segnalare allarmi 
+"
+guidone;N#1537;1;2;0.30;-0.03;0.00;-0.33;0.00;"bandiera di forma triangolare o di striscia  che rappresenta il club di appartenenza o la compagnia di navigazione nella navi della marina mercantile
+"
+indice;N#1615;1;1;0.29;-0.04;0.00;-0.33;0.00;ago o altro tipo si sistema di segnalazione di uno strumento di misura o di un indicatore
+remata;N#1769;1;1;-0.10;-0.06;0.04;-0.33;0.33;colpo di remo
+dare;V#2146;1;9;0.27;-0.06;0.00;-0.33;0.00;
+altocumulo;N#2541;1;1;0.18;-0.07;0.41;-0.66;0.00;nube stratificata bianca o grigiastra costituita da estese file di nubi cumuliformi ravvicinate fra loro
+successione;N#2175;1;4;0.26;-0.07;0.00;-0.33;0.00;serie ordinata di cose  elementi o persone
+affondare;V#1867;3;2;0.26;-0.07;0.00;-0.33;0.00;mandare a a fondo
+ponente;N#2501;2;2;0.25;-0.08;0.00;-0.33;0.00;vento estivo  fresco e pomeridiano che spira da ovest la sua influenza è principalmente sentita sul tirreno e sull adriatico centromeridionale
+canoa;N#361;2;2;0.25;-0.08;0.00;-0.33;0.00;la marina da diporto dà questo nome a un battello lungo circa 5 metri  con fasciame sovrapposto  prua e poppa pontate  un albero con vela di taglio e un fiocco
+cambusiere;N#1056;1;1;0.24;-0.09;0.00;-0.33;0.00;addetto alla custodia e distribuzione dei viveri  cuoco di bordo
+anticiclone;N#958;1;1;0.24;-0.09;0.00;-0.33;0.00;area circoscritta dove la pressione atmosferica è massima
+andana;N#783;1;2;0.24;-0.09;0.00;-0.33;0.00;"modalità di ormeggio  per cui una imbarcazione si ormeggia affiancandosi ad un altra ormeggiata alla banchina o a sua volta affiancata
+"
+misurare;V#1007;1;4;0.24;-0.09;0.00;-0.33;0.00;stabilire un rapporto fra una grandezza e un altra omogenea usata come unità di misura
+lossodromia;N#1643;1;1;0.23;-0.10;0.00;-0.33;0.00;linea retta che incrocia i meridiani con un angolo costante e  il percorso normalmente seguito navigando con la bussola
+imbarco;N#615;1;1;-0.10;-0.10;0.33;-0.66;0.33;azione dell imbarcare
+varea;N#1668;1;1;0.22;-0.11;0.00;-0.33;0.00;"nome generico per indicare la parte terminale di qualsiasi asta orizzontale dell alberatura
+"
+altura;N#860;1;2;0.22;-0.11;0.00;-0.33;0.00;mare lontano dalle coste
+barcone;N#60;1;1;0.74;-0.11;0.14;-1.32;0.33;grossa imbarcazione per il trasporto delle merci 
+bucintoro;N#1940;1;1;0.21;-0.12;0.00;-0.33;0.00;barca da parata con una ventina di remi per lato  usata a venezia per la cerimonia dello sposalizio col mare
+grecale;N#1004;1;1;0.21;-0.12;0.00;-0.33;0.00;vento che spira da nordest a sudovest sul mediterraneo centrale e meridionale nelle stagioni fredde
+sbandare;V#907;1;1;0.20;-0.13;0.00;-0.33;0.00;inclinarsi lateralmente a causa del vento  del moto ondoso o di uno spostamento dei pesi a bordo
+marina;N#48;2;3;0.86;-0.13;0.00;-0.99;0.00;complesso delle persone e delle imbarcazioni addette alla navigazione
+oblò;N#852;1;1;0.20;-0.13;0.00;-0.33;0.00;finestra circolare delle navi  dotata di vetro molto spesso che può essere apribile o fisso
+scirocco;N#995;1;1;0.20;-0.13;0.00;-0.33;0.00;vento originariamente caldo e secco proveniente da sudest dal continente africano durante il suo tragitto attraversa il mediterraneo caricandosi di umidità  quindi raggiunge umido e violento l europa
+lunghezza;N#1644;1;4;0.19;-0.14;0.00;-0.33;0.00;"distanza tra la prua e la poppa dello scafo  misurata sull asse longitudinale escludendo eventuali estremità
+"
+governare;V#2722;3;7;0.18;-0.15;0.00;-0.33;0.00;detto di una nave  rispondere ai comandi
+manovra;N#638;1;2;0.19;-0.15;1.31;-2.97;1.32;azione o insieme di azioni per dirigere o modificare il movimento di una nave o di una imbarcazione per effettuare una manovra si utilizzano il timone  le ancore ed il sistema di propulsione motore ed eliche oppure le vele nei velieri
+arruolare;V#813;1;3;0.18;-0.15;0.00;-0.33;0.00;assumere chi è iscritto nelle matricole della gente di mare  perché faccia parte dell equipaggio
+stivaggio;N#423;1;1;0.26;-0.15;0.25;-0.66;0.00;operazione dello stivare
+ridurre;V#1774;2;1;0.18;-0.15;0.00;-0.33;0.00;si usa comunemente con riferimento alla velatura  intendendo la presa di terzaroli o la sostituzione di una vela di prua con una di minor superficie
+assicurare;V#1829;1;5;0.18;-0.15;0.00;-0.33;0.00;legare saldamente  fermare  fissare
+trasbordo;N#654;1;1;-0.07;-0.15;0.25;-0.33;0.00;scarico delle merci in un porto  hub  per poi reimbarcarle
+grandine;N#2535;1;2;0.17;-0.16;0.00;-0.33;0.00;precipitazione atmosferica di acqua gelata in piccole masse di dimensioni variabili causata dall improvviso raffreddamento del vapore acqueo
+alluminio;N#2012;1;2;0.17;-0.16;0.00;-0.33;0.00;metallo leggero e di elevate caratteristiche meccaniche che lo rendono molto adatto alla costruzione di imbarcazioni
+associazione;N#2650;1;1;0.16;-0.17;0.00;-0.33;0.00;unione organizzata di più persone con finalità comuni
+tramontana;N#931;1;1;0.16;-0.17;0.00;-0.33;0.00;vento freddo che spira da nord  in inverno  e può investire tutta la penisola italiana
+catamarano;N#1560;1;1;0.15;-0.18;0.00;-0.33;0.00;imbarcazione a vela con due scafi
+orario;N#2271;1;1;0.15;-0.18;0.00;-0.33;0.00;" l ora o le ore in cui si svolge un certo fatto o una determinata attività orario di lavoro  d ufficio  orario di partenza di un aereo  orario di apertura  di chiusura  ora in cui negozi  uffici  banche e sim aprono o chiudono
+"
+prendere;V#2147;2;5;0.15;-0.18;0.00;-0.33;0.00;
+maestrale;N#990;1;1;0.15;-0.18;0.00;-0.33;0.00;vento che spira da nord ovest  è uno dei venti predominanti del mediterraneo
+orientare;V#857;1;2;0.15;-0.18;0.00;-0.33;0.00;posizionare le vele  per un determinato vento e una determinata andatura  in modo che l azione del vento sulle vele sia massima
+carenaggio;N#718;1;1;-0.10;-0.18;0.25;-0.33;0.00;operazione con cui si mette in secco la carena per ripulire la carena o eseguire riparazioni
+recapitare;V#686;1;1;-0.10;-0.18;0.25;-0.33;0.00;
+tenersi_a_galla;V#1500;1;1;-0.10;-0.18;0.25;-0.33;0.00;
+scalmo;N#1418;2;2;0.14;-0.19;0.00;-0.33;0.00;supporto di legno o metallo a cui si appoggia il remo
+bordo;N#84;3;2;0.14;-0.19;0.00;-0.33;0.00;la nave stessa
+nembostrato;N#2542;1;1;0.05;-0.20;0.41;-0.66;0.00;nube densa di colore grigio scuro  sfrangiata ai bordi e molto estesa orizzontalmente  alta circa mille metri dal suolo  che può dare origine a precipitazioni pioggia o neve
+carico;N#2020;2;4;0.45;-0.21;0.00;-0.66;0.00;l atto del caricare
+calma piatta;N#876;1;1;0.43;-0.23;0.00;-0.66;0.00;stato di calma del mare e del vento che rende impossibile la navigazione a vela
+arcobaleno;N#2552;1;1;0.00;-0.25;0.41;-0.66;0.00;fenomeno ottico visibile in cielo  specialmente dopo un temporale  consistente in una serie di archi concentrici nella gamma di colori dello spettro solare
+caricare;V#446;1;7;0.00;-0.25;0.41;-0.66;0.00;
+virare;V#2618;1;1;0.00;-0.26;0.07;-0.66;0.33;eseguire un mutamento di rotta
+varo;N#1669;1;1;0.14;-0.27;0.25;-0.66;0.00;l azione del varare una nave o altro tipo di imbarcazione
+grandezza;N#501;3;3;1.00;-0.31;1.00;-3.63;1.32;espressione quantitativa del rapporto fra grandezze omogenee
+governale;N#222;1;1;1.00;-0.32;0.00;-1.32;0.00;strumento delle imbarcazioni per mantenere la direzione durante il moto
+codice;N#110;1;4;1.00;-0.32;0.00;-1.32;0.00;raccolta organica di leggi che regolano un dato settore del diritto
+poppa;N#211;1;1;1.00;-0.32;0.00;-1.32;0.00;parte posteriore di imbarcazione
+uscita;N#269;1;6;1.00;-0.32;0.00;-1.32;0.00;somma spesa  denaro speso
+bozzello;N#879;1;1;0.31;-0.35;0.00;-0.66;0.00;carrucola semplice o multipla di forma e materiale differente costituita da una cassa all interno della quale girano girano una o più pulegge scanalate per ospitare il cavo che vi deve scorrere e da un gancio per fissare il bozzello
+piano;N#1562;1;8;0.29;-0.37;0.00;-0.66;0.00;disegno di una pianta o di una sezione dell imbarcazione
+strambare;V#587;1;1;0.29;-0.37;0.00;-0.66;0.00;manovrare per cambiare di bordo da poppa
+consegnare;V#684;1;2;0.26;-0.40;0.00;-0.66;0.00;dare a un destinatario
+orza;N#847;1;2;0.25;-0.41;0.00;-0.66;0.00;lato dell imbarcazione dal quale viene il vento  lato sopravvento
+abbordaggio;N#574;1;2;0.24;-0.42;0.00;-0.99;0.33;urto volontario o collisione accidentale tra imbarcazioni
+riviera;N#46;1;1;0.57;-0.42;0.00;-0.99;0.00;la striscia di terra situata lungo il mare
+schema;N#2283;1;4;0.24;-0.42;0.00;-0.66;0.00;
+ammainare;V#584;1;1;0.24;-0.42;0.00;-0.66;0.00;far discendere una vela sospesa ad un cavo facendola scorrere
+occhiello;N#855;1;3;0.20;-0.46;0.00;-0.66;0.00;foro rinforzato posto su una vela
+meteorologia;N#988;1;1;0.85;-0.47;0.00;-1.32;0.00;scienza che studia l  atmosfera terrestre e i fenomeni che vi si manifestano
+ancoraggio;N#200;1;2;0.00;-0.50;0.16;-0.99;0.33;atto dell ormeggiare
+spedire;V#486;1;2;0.16;-0.50;0.00;-0.66;0.00;fare che qlco pervenga a qlcu o in un determinato luogo
+andare;V#2144;1;3;0.16;-0.50;0.00;-0.66;0.00;
+moto;N#1789;1;7;0.15;-0.51;0.00;-0.66;0.00;movimento delle acque
+trasbordare;V#653;1;1;-0.10;-0.51;0.25;-0.66;0.00;scaricare per poi reimbarcare
+rada;N#916;1;1;0.32;-0.59;0.41;-1.32;0.00;insenatura che offre un buon riparo  porto naturale
+rotta;N#217;2;3;1.00;-0.65;0.00;-1.65;0.00;tracciato che sulle carte indica il percorso seguito o da seguire
+prora;N#212;1;1;1.00;-0.65;0.00;-1.65;0.00;parte anteriore di un imbarcazione
+tariffa;N#272;1;2;1.00;-0.65;0.00;-1.65;0.00;prezzo stabilito per determinate merci o prestazioni
+avvertimento;N#81;1;1;1.00;-0.65;0.00;-1.65;0.00;l annunciare  l avvertire  l avvertire  informare  l annunciare
+remare;V#707;1;1;0.09;-0.65;0.25;-0.99;0.00;manovrare i remi o il remo di un imbarcazione immergendoli ritmicamente nell acqua in modo da far procedere l imbarcazione stessa
+acqua;N#75;1;1;0.55;-0.72;0.38;-1.65;0.00;liquido trasparente  incolore  inodore ed insapore
+capitano;N#507;1;5;0.23;-0.76;0.00;-0.99;0.00;comandante di una nave della marina mercantile
+incrociare;V#1630;1;1;0.21;-0.78;0.00;-0.99;0.00;"navigare in una zona con scopi di sorveglianza o ricerca
+"
+veleggiare;V#148;1;1;0.50;-0.82;0.00;-1.32;0.00;navigare con un imbarcazione a vela
+galea;N#2697;1;1;0.16;-0.83;0.00;-0.99;0.00;dal greco galeas  pesce spada  nave da guerra e da commercio usata nel mediterraneo per oltre tremila anni  il suo uso declinò a partire dal xvii secolo  quando venne man mano soppiantata dai velieri  estinguendosi alla fine del xviii secolo
+segnale;N#1434;2;3;0.16;-0.83;0.00;-0.99;0.00;termine generico per indicare un tipo di comunicazione tra imbarcazioni o con la costa  tramite convenzioni e sistemi visivi  luminosi  acustici o radio
+armare;V#704;3;3;0.14;-0.85;0.00;-0.99;0.00;attrezzare un veliero in un determinato modo  per es a cutter  a goletta  a sloop
+veliero;N#163;1;1;1.00;-0.89;0.75;-3.96;1.32;bastimento a vela
+impianto;N#1619;1;3;1.00;-0.98;0.00;-1.98;0.00;una apparecchiatura  dispositivo  insieme di congegni
+motore;N#195;1;1;1.00;-0.98;0.00;-1.98;0.00;macchina atta a trasformare una determinata forma di energia in energia meccanica
+diritto;N#489;1;5;0.25;-1.07;0.00;-1.32;0.00;tassa  onere fisso riscosso in corrispettivo di un atto o di un servizio
+marea;N#192;1;1;0.62;-1.10;1.58;-3.63;0.33;movimento periodico delle acque del mare il cui livello si alza e si abbassa a fasi alterne quattro volte al giorno il fenomeno è dato dalla combinazione delle forze di attrazione del sole e della luna combinate con il moto di rotazione della terra 
+armare;V#703;2;4;0.18;-1.14;0.00;-1.32;0.00;mettere una qualunque attrezzatura  della nave eo imbarcazione in condizione di svolgere la propria funzione
+elica;N#116;1;1;0.83;-1.15;0.00;-1.98;0.00;organo meccanico che genera una spinta con la sua rotazione nell aria o nell acqua
+classe;N#299;1;5;0.14;-1.18;0.00;-1.32;0.00;gruppo di imbarcazioni che possiedono le stesse caratteristiche
+angolo;N#622;1;1;1.00;-1.26;0.38;-2.64;0.00;geom lo spazio tra due linee o piani che si intersecano
+nolo;N#8;1;2;0.37;-1.28;0.00;-1.65;0.00;corrispettivo da pagarsi per il noleggio totale o parziale di una imbarcazione o nave  e per un trasporto marittimo di qualsiasi tipo
+partecipazione;N#1447;4;1;0.58;-1.40;0.00;-1.98;0.00;l atto di comunicare  partecipare  l atto del comunicare
+luogo;N#205;1;1;0.52;-1.48;2.95;-6.60;1.65;parte dello spazio occupata o occupabile materialmente o idealmente
+numero;N#1854;1;4;0.16;-1.49;0.00;-1.65;0.00;insieme di cifre che possono identificare una barca  un coefficiente  ecc
+bacino;N#794;2;4;0.13;-1.52;0.00;-1.65;0.00;spazio portuale delimitato da paratie stagne dove è possibile mettere in secca le navi
+battello;N#367;1;1;0.13;-1.71;0.14;-2.31;0.33;piccola imbarcazione a remi o a motore adibita a vari usi specifici
+navigare;V#38;1;2;0.42;-1.73;0.82;-3.30;0.33;effettuare un percorso  un viaggio per mare  su un corso o uno specchio d acqua  es una nave che naviga per il mediterraneo  navigare sul nilo 
+area;N#1998;1;1;0.15;-1.73;0.43;-2.64;0.33;superficie  spazio delimitato
+corrente;N#111;1;2;0.91;-1.73;0.00;-2.64;0.00;massa d acqua che si muove in una certa direzione
+corda;N#108;1;1;1.00;-1.78;3.82;-8.58;1.98;prodotto flessibile per legare e assicurare
+acque;N#119;1;1;1.00;-1.87;0.76;-3.96;0.33;il complesso delle acque salate che coprono gran parte della superficie terrestre
+linea;N#2285;1;9;0.41;-1.90;0.00;-2.31;0.00;"servizio che garantisce il trasporto di passeggeri e merci fra due o più località linee aeree  ferroviarie  marittime  l itinerario effettuato da un mezzo di comunicazione  tratta compresa fra due località la linea livornocagliari
+"
+fondale;N#187;2;3;1.00;-1.97;0.00;-2.97;0.00;il fondo del mare
+materiale;N#1645;2;1;0.05;-2.16;0.76;-3.30;0.33;materia  sostanza necessaria per un certo lavoro o per certe attrezzature
+manovrare;V#331;1;1;0.09;-2.68;1.52;-5.28;0.99;fare manovra  dirigere o modificare il movimento di una nave o di una imbarcazione
+barca;N#1;1;1;0.41;-2.74;1.47;-5.28;0.66;imbarcazione di piccole dimensioni  a remi  a vela  o a motore aperta o parzialmente pontata
+aria;N#224;5;5;1.00;-3.44;1.17;-5.94;0.33;spostamento di masse d aria atmosferiche dovuto a differenza di temperatura o di pressione  spostamento di masse d aria atmosferiche causato da differenze di temperatura o di pressione
+bandiera;N#98;1;2;0.22;-4.40;0.00;-4.62;0.00;drappo di stoffa leggera attaccata all asta o all albero di una nave
+annodatura;N#389;1;1;0.82;-7.76;0.00;-8.58;0.00;legamento di due estremità di funi  cavi e sim
