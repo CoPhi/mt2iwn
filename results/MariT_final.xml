@@ -511,7 +511,7 @@
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="involved_patient" ID="29" INV_ID="29">
-                <TARGET_WM ID="1181" PART_OF_SPEECH="N" LEMMA="catena" SENSE="1" GLOSS="nella marineria le catene si usano sostanzialmente per collegare l'ancora allo scafo o per ormeggiare ad una bitta. Quelle per l'ancora devono essere &quot;calibrate&quot; cioè con maglie perfettamente uguali per entrare nel barbutin dell'argano.  "/>
+                <TARGET_WM ID="1181" PART_OF_SPEECH="N" LEMMA="catena" SENSE="1" GLOSS="nella marineria le catene si usano sostanzialmente per collegare l'ancora allo scafo o per ormeggiare ad una bitta. Quelle per l'ancora devono essere "calibrate" cioè con maglie perfettamente uguali per entrare nel barbutin dell'argano.  "/>
             </RELATION>
             <RELATION TYPE="involved_patient" ID="29" INV_ID="29">
                 <TARGET_WM ID="1519" PART_OF_SPEECH="N" LEMMA="gomena" SENSE="1" GLOSS="Grossa cima di tessile ritorto  utilizzata nelle navi per gli ormeggi. "/>
@@ -1308,7 +1308,7 @@
         <VARIANTS>
             <LITERAL LEMMA="sigla" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="acronimo" SENSE="1">
-                <EXAMPLES>&quot;CNR: Consiglio Nazionale delle Ricerche&quot;</EXAMPLES>
+                <EXAMPLES>"CNR: Consiglio Nazionale delle Ricerche"</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -1664,7 +1664,7 @@
         <GLOSS>pieno d'aria.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="aereo" SENSE="2" STATUS="CT">
-                <EXAMPLES>&quot;spazio aereo, corridoio aereo&quot;</EXAMPLES>
+                <EXAMPLES>"spazio aereo, corridoio aereo"</EXAMPLES>
             </LITERAL>
             <LITERAL LEMMA="arioso" SENSE="2"/>
         </VARIANTS>
@@ -3445,7 +3445,7 @@
                 <TARGET_WM ID="708" PART_OF_SPEECH="V" LEMMA="manovrare" SENSE="2" GLOSS="far funzionare attrezzature o strumenti per la navigazione mediante le operazioni o i movimenti necessari. "/>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1708" PART_OF_SPEECH="V" LEMMA="sventare" SENSE="1" GLOSS="allascare completamente una vela per sottrarla alla spinta del vento  facendola &quot;fileggiare&quot; in modo da poterla agevolmente ammainare o terzarolare  oppure per ridurre la velocità del veliero.  ">
+                <TARGET_WM ID="1708" PART_OF_SPEECH="V" LEMMA="sventare" SENSE="1" GLOSS="allascare completamente una vela per sottrarla alla spinta del vento  facendola "fileggiare" in modo da poterla agevolmente ammainare o terzarolare  oppure per ridurre la velocità del veliero.  ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -3650,7 +3650,7 @@
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1651" PART_OF_SPEECH="N" LEMMA="altezza metacentrica" SENSE="1" GLOSS="distanza tra il &quot;Metacentro&quot; ed il centro di gravità di una imbarcazione.">
+                <TARGET_WM ID="1651" PART_OF_SPEECH="N" LEMMA="altezza metacentrica" SENSE="1" GLOSS="distanza tra il "Metacentro" ed il centro di gravità di una imbarcazione.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -3739,7 +3739,7 @@
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1651" PART_OF_SPEECH="N">
-        <GLOSS>distanza tra il &quot;Metacentro&quot; ed il centro di gravità di una imbarcazione.</GLOSS>
+        <GLOSS>distanza tra il "Metacentro" ed il centro di gravità di una imbarcazione.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="altezza metacentrica" SENSE="1"/>
         </VARIANTS>
@@ -4773,7 +4773,7 @@
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1486" PART_OF_SPEECH="N">
-        <GLOSS>descrizione del fondo marino per mezzo delle &quot;isobate&quot; cioè le linee che  sulle carte nautiche  uniscono punti di ugual profondità e danno la misura in vari punti.
+        <GLOSS>descrizione del fondo marino per mezzo delle "isobate" cioè le linee che  sulle carte nautiche  uniscono punti di ugual profondità e danno la misura in vari punti.
 </GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="andamento del fondale" SENSE="1"/>
@@ -5209,7 +5209,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_means" ID="74" INV_ID="74">
-                <TARGET_WM ID="1670" PART_OF_SPEECH="N" LEMMA="vela a farfalla" SENSE="1" GLOSS="particolare orientamento delle vele per l'andatura in &quot;fil di ruota&quot;  cioè col vento da poppa.  "/>
+                <TARGET_WM ID="1670" PART_OF_SPEECH="N" LEMMA="vela a farfalla" SENSE="1" GLOSS="particolare orientamento delle vele per l'andatura in "fil di ruota"  cioè col vento da poppa.  "/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS>
@@ -6254,7 +6254,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
             <LITERAL LEMMA="area" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="zona" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="striscia" SENSE="1">
-                <EXAMPLES>&quot;coltiva una striscia di terra lungo l'argine dell' Arno&quot;</EXAMPLES>
+                <EXAMPLES>"coltiva una striscia di terra lungo l'argine dell' Arno"</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -6508,7 +6508,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="antonym" ID="5" INV_ID="5">
-                <TARGET_WM ID="773" PART_OF_SPEECH="V" LEMMA="disarmare" SENSE="1" GLOSS="opposto di &quot;armare&quot;  significa sbarcare tutte le attrezzature e porre l'imbarcazione in disarmo  cioè in demolizione."/>
+                <TARGET_WM ID="773" PART_OF_SPEECH="V" LEMMA="disarmare" SENSE="1" GLOSS="opposto di "armare"  significa sbarcare tutte le attrezzature e porre l'imbarcazione in disarmo  cioè in demolizione."/>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
                 <TARGET_WM ID="703" PART_OF_SPEECH="V" LEMMA="armare" SENSE="2" GLOSS="mettere una qualunque attrezzatura  della nave e/o imbarcazione in condizione di svolgere la propria funzione.">
@@ -7286,7 +7286,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#778" PART_OF_SPEECH="N">
-        <GLOSS>disciplina che comprende le regole e i procedimenti per determinare la posizione o &quot;punto nave stimato&quot; in alto mare mediante l'osservazione di alcuni astri.</GLOSS>
+        <GLOSS>disciplina che comprende le regole e i procedimenti per determinare la posizione o "punto nave stimato" in alto mare mediante l'osservazione di alcuni astri.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="astronomia nautica" SENSE="1"/>
         </VARIANTS>
@@ -7826,7 +7826,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
             <LITERAL LEMMA="dotazione" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="equipaggiamento" SENSE="1"/>
             <LITERAL LEMMA="materiale" SENSE="1">
-                <EXAMPLES>&quot;materiale scolastico, chirurgico&quot;</EXAMPLES>
+                <EXAMPLES>"materiale scolastico, chirurgico"</EXAMPLES>
             </LITERAL>
             <LITERAL LEMMA="attrezzatura" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="strumentazione" SENSE="1"/>
@@ -8362,7 +8362,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         <GLOSS>scorgere qualcosa da lontano in mare.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="avvistare" SENSE="1">
-                <EXAMPLES>&quot;Avvistare la costa, un naufrago, una nave...&quot;</EXAMPLES>
+                <EXAMPLES>"Avvistare la costa, un naufrago, una nave..."</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -9334,7 +9334,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1590" PART_OF_SPEECH="N" LEMMA="intelligenza" SENSE="1" GLOSS="bandiera di segnalazione per richiamare l'attenzione ed esporre successivamente una ulteriore segnalazione. Si utilizza anche per rispondere &quot;ho capito&quot;.">
+                <TARGET_WM ID="1590" PART_OF_SPEECH="N" LEMMA="intelligenza" SENSE="1" GLOSS="bandiera di segnalazione per richiamare l'attenzione ed esporre successivamente una ulteriore segnalazione. Si utilizza anche per rispondere "ho capito".">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -10058,7 +10058,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1559" PART_OF_SPEECH="N" LEMMA="pluriscafo" SENSE="1" GLOSS="imbarcazione  normalmente a vela  con due o tre scafi. Viene chiamato anche &quot;multiscafo&quot;. ">
+                <TARGET_WM ID="1559" PART_OF_SPEECH="N" LEMMA="pluriscafo" SENSE="1" GLOSS="imbarcazione  normalmente a vela  con due o tre scafi. Viene chiamato anche "multiscafo". ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -10225,7 +10225,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
                 <TARGET_WM ID="58" PART_OF_SPEECH="N" LEMMA="imbarcazione" SENSE="1" GLOSS="termine generico per indicare barche di piccole e medie dimensioni  utilizzate per diversi scopi (lavoro  piacere  etc.). "/>
             </RELATION>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
-                <TARGET_WM ID="1339" PART_OF_SPEECH="N" LEMMA="lancia" SENSE="1" GLOSS="battello a remi o a motore utilizzato per fare la spola tra una nave o un'imbarcazione e la costa. Nel linguaggio marinaro si chiama anche &quot;scialuppa&quot;. "/>
+                <TARGET_WM ID="1339" PART_OF_SPEECH="N" LEMMA="lancia" SENSE="1" GLOSS="battello a remi o a motore utilizzato per fare la spola tra una nave o un'imbarcazione e la costa. Nel linguaggio marinaro si chiama anche "scialuppa". "/>
             </RELATION>
             <RELATION TYPE="role_instrument" ID="30" INV_ID="30">
                 <TARGET_WM ID="741" PART_OF_SPEECH="N" LEMMA="salvamento" SENSE="1" GLOSS="complesso di operazioni per salvarechi è in pericolo"/>
@@ -11015,7 +11015,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1339" PART_OF_SPEECH="N" LEMMA="lancia" SENSE="1" GLOSS="battello a remi o a motore utilizzato per fare la spola tra una nave o un'imbarcazione e la costa. Nel linguaggio marinaro si chiama anche &quot;scialuppa&quot;. ">
+                <TARGET_WM ID="1339" PART_OF_SPEECH="N" LEMMA="lancia" SENSE="1" GLOSS="battello a remi o a motore utilizzato per fare la spola tra una nave o un'imbarcazione e la costa. Nel linguaggio marinaro si chiama anche "scialuppa". ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -12600,7 +12600,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="V#989" PART_OF_SPEECH="V">
-        <GLOSS>far ruotare orizzontalmente i pennoni attorno ai rispettivi punti di unione con l'albero per cambiare l'orientazione delle vele quadre nei velieri antichi. Nei moderni indica la manovra di recuperare il braccio dello spinnaker per &quot;quadrare&quot; il tangone.
+        <GLOSS>far ruotare orizzontalmente i pennoni attorno ai rispettivi punti di unione con l'albero per cambiare l'orientazione delle vele quadre nei velieri antichi. Nei moderni indica la manovra di recuperare il braccio dello spinnaker per "quadrare" il tangone.
 </GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="bracciare" SENSE="1"/>
@@ -12649,7 +12649,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
-                <TARGET_WM ID="989" PART_OF_SPEECH="V" LEMMA="bracciare" SENSE="1" GLOSS="far ruotare orizzontalmente i pennoni attorno ai rispettivi punti di unione con l'albero per cambiare l'orientazione delle vele quadre nei velieri antichi. Nei moderni indica la manovra di recuperare il braccio dello spinnaker per &quot;quadrare&quot; il tangone. "/>
+                <TARGET_WM ID="989" PART_OF_SPEECH="V" LEMMA="bracciare" SENSE="1" GLOSS="far ruotare orizzontalmente i pennoni attorno ai rispettivi punti di unione con l'albero per cambiare l'orientazione delle vele quadre nei velieri antichi. Nei moderni indica la manovra di recuperare il braccio dello spinnaker per "quadrare" il tangone. "/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS/>
@@ -12672,7 +12672,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
-                <TARGET_WM ID="989" PART_OF_SPEECH="V" LEMMA="bracciare" SENSE="1" GLOSS="far ruotare orizzontalmente i pennoni attorno ai rispettivi punti di unione con l'albero per cambiare l'orientazione delle vele quadre nei velieri antichi. Nei moderni indica la manovra di recuperare il braccio dello spinnaker per &quot;quadrare&quot; il tangone. "/>
+                <TARGET_WM ID="989" PART_OF_SPEECH="V" LEMMA="bracciare" SENSE="1" GLOSS="far ruotare orizzontalmente i pennoni attorno ai rispettivi punti di unione con l'albero per cambiare l'orientazione delle vele quadre nei velieri antichi. Nei moderni indica la manovra di recuperare il braccio dello spinnaker per "quadrare" il tangone. "/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS/>
@@ -12695,7 +12695,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
-                <TARGET_WM ID="989" PART_OF_SPEECH="V" LEMMA="bracciare" SENSE="1" GLOSS="far ruotare orizzontalmente i pennoni attorno ai rispettivi punti di unione con l'albero per cambiare l'orientazione delle vele quadre nei velieri antichi. Nei moderni indica la manovra di recuperare il braccio dello spinnaker per &quot;quadrare&quot; il tangone. "/>
+                <TARGET_WM ID="989" PART_OF_SPEECH="V" LEMMA="bracciare" SENSE="1" GLOSS="far ruotare orizzontalmente i pennoni attorno ai rispettivi punti di unione con l'albero per cambiare l'orientazione delle vele quadre nei velieri antichi. Nei moderni indica la manovra di recuperare il braccio dello spinnaker per "quadrare" il tangone. "/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS/>
@@ -13477,7 +13477,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="293" PART_OF_SPEECH="N" LEMMA="bussola da rilevamento" SENSE="1" GLOSS="Particolare tipo di bussola magnetica  per &quot;rilevare&quot; cioè per stabilire la direzione di un qualsiasi oggetto rispetto al nord magnetico."/>
+                <TARGET_WM ID="293" PART_OF_SPEECH="N" LEMMA="bussola da rilevamento" SENSE="1" GLOSS="Particolare tipo di bussola magnetica  per "rilevare" cioè per stabilire la direzione di un qualsiasi oggetto rispetto al nord magnetico."/>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
                 <TARGET_WM ID="294" PART_OF_SPEECH="N" LEMMA="bussola di rotta" SENSE="1" GLOSS="Bussola principale dell'imbarcazione  normalmente posta davanti al timone."/>
@@ -13542,7 +13542,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#293" PART_OF_SPEECH="N">
-        <GLOSS>Particolare tipo di bussola magnetica  per &quot;rilevare&quot; cioè per stabilire la direzione di un qualsiasi oggetto rispetto al nord magnetico.</GLOSS>
+        <GLOSS>Particolare tipo di bussola magnetica  per "rilevare" cioè per stabilire la direzione di un qualsiasi oggetto rispetto al nord magnetico.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="bussola da rilevamento" SENSE="1">
                 <LFEATURES SUBLANGUAGE="mar"/>
@@ -16533,7 +16533,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="fuzzynym" ID="3" INV_ID="3">
-                <TARGET_WM ID="1486" PART_OF_SPEECH="N" LEMMA="andamento del fondale" SENSE="1" GLOSS="descrizione del fondo marino per mezzo delle &quot;isobate&quot; cioè le linee che  sulle carte nautiche  uniscono punti di ugual profondità e danno la misura in vari punti. ">
+                <TARGET_WM ID="1486" PART_OF_SPEECH="N" LEMMA="andamento del fondale" SENSE="1" GLOSS="descrizione del fondo marino per mezzo delle "isobate" cioè le linee che  sulle carte nautiche  uniscono punti di ugual profondità e danno la misura in vari punti. ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -16551,7 +16551,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="fuzzynym" ID="3" INV_ID="3">
-                <TARGET_WM ID="1357" PART_OF_SPEECH="N" LEMMA="conversione della rotta" SENSE="1" GLOSS="operazione che il navigatore deve compiere per fornire al timoniere la prua magnetica (cioè i gradi bussola) a partire da una rotta tracciata sulla carta e chiamata &quot;rotta vera&quot;. ">
+                <TARGET_WM ID="1357" PART_OF_SPEECH="N" LEMMA="conversione della rotta" SENSE="1" GLOSS="operazione che il navigatore deve compiere per fornire al timoniere la prua magnetica (cioè i gradi bussola) a partire da una rotta tracciata sulla carta e chiamata "rotta vera". ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -16566,7 +16566,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="fuzzynym" ID="3" INV_ID="3">
-                <TARGET_WM ID="1358" PART_OF_SPEECH="N" LEMMA="correzione della rotta" SENSE="1" GLOSS="operazione che il navigatore deve compiere per riportare sulla carta la &quot;rotta vera&quot; partendo dall'informazione fornita dal timoniere relativamente alla prua magnetica (cioè i gradi bussola) tenuta per un determinato tempo. ">
+                <TARGET_WM ID="1358" PART_OF_SPEECH="N" LEMMA="correzione della rotta" SENSE="1" GLOSS="operazione che il navigatore deve compiere per riportare sulla carta la "rotta vera" partendo dall'informazione fornita dal timoniere relativamente alla prua magnetica (cioè i gradi bussola) tenuta per un determinato tempo. ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -16619,7 +16619,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
                 <TARGET_WM ID="1175" PART_OF_SPEECH="N" LEMMA="miglio marino" SENSE="1" GLOSS="unità di misura delle distanze in mare. Equivale alla lunghezza di un sessantesino di grado (cioè un primo) di meridiano terrestre ed è pari a 1852 metri."/>
             </RELATION>
             <RELATION TYPE="fuzzynym" ID="3" INV_ID="3">
-                <TARGET_WM ID="474" PART_OF_SPEECH="N" LEMMA="navigazione piana" SENSE="1" GLOSS="insieme dei metodi e degli espedienti per risolvere i problemi della &quot;navigazione costiera&quot; e della &quot;navigazione stimata&quot; sulla carta nautica con l'ausilio della Geometria Piana.">
+                <TARGET_WM ID="474" PART_OF_SPEECH="N" LEMMA="navigazione piana" SENSE="1" GLOSS="insieme dei metodi e degli espedienti per risolvere i problemi della "navigazione costiera" e della "navigazione stimata" sulla carta nautica con l'ausilio della Geometria Piana.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -16639,7 +16639,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="fuzzynym" ID="3" INV_ID="3">
-                <TARGET_WM ID="1598" PART_OF_SPEECH="N" LEMMA="prua magnetica" SENSE="1" GLOSS="direzione che si deduce dalla &quot;prua bussola&quot; correggendola della &quot;devizione magnetica&quot; causata dall'influenza del ferro di bordo.">
+                <TARGET_WM ID="1598" PART_OF_SPEECH="N" LEMMA="prua magnetica" SENSE="1" GLOSS="direzione che si deduce dalla "prua bussola" correggendola della "devizione magnetica" causata dall'influenza del ferro di bordo.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -16647,7 +16647,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
                 <TARGET_WM ID="818" PART_OF_SPEECH="N" LEMMA="punto nave" SENSE="1" GLOSS="posizione geografica della nave o dell'imbarcazione in mare."/>
             </RELATION>
             <RELATION TYPE="fuzzynym" ID="3" INV_ID="3">
-                <TARGET_WM ID="819" PART_OF_SPEECH="N" LEMMA="punto stimato" SENSE="1" GLOSS="posizione geografica (punto nave) calcolata con la &quot;navigazione stimata&quot; considerando sia lo spostamento dell'imbarcazione che le cause che possono influenzare esternamente il suo moto (corrente e scarroccio)."/>
+                <TARGET_WM ID="819" PART_OF_SPEECH="N" LEMMA="punto stimato" SENSE="1" GLOSS="posizione geografica (punto nave) calcolata con la "navigazione stimata" considerando sia lo spostamento dell'imbarcazione che le cause che possono influenzare esternamente il suo moto (corrente e scarroccio)."/>
             </RELATION>
             <RELATION TYPE="fuzzynym" ID="3" INV_ID="3">
                 <TARGET_WM ID="1779" PART_OF_SPEECH="N" LEMMA="rilevamento" SENSE="1" GLOSS="angolo orizzontale compreso fra una direzione fissa di riferimento e la visuale diretta a un oggetto  misurato secondo il senso orario."/>
@@ -16889,7 +16889,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
-                <TARGET_WM ID="384" PART_OF_SPEECH="N" LEMMA="ponte" SENSE="1" GLOSS="ognuno di piani orizzontali che dividono l'interno delle navi nel senso dell'altezza  nelle imbarcazioni da diporto spesso il termine ponte coincide con &quot;coperta&quot;."/>
+                <TARGET_WM ID="384" PART_OF_SPEECH="N" LEMMA="ponte" SENSE="1" GLOSS="ognuno di piani orizzontali che dividono l'interno delle navi nel senso dell'altezza  nelle imbarcazioni da diporto spesso il termine ponte coincide con "coperta"."/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS/>
@@ -16935,7 +16935,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
-                <TARGET_WM ID="1559" PART_OF_SPEECH="N" LEMMA="pluriscafo" SENSE="1" GLOSS="imbarcazione  normalmente a vela  con due o tre scafi. Viene chiamato anche &quot;multiscafo&quot;. "/>
+                <TARGET_WM ID="1559" PART_OF_SPEECH="N" LEMMA="pluriscafo" SENSE="1" GLOSS="imbarcazione  normalmente a vela  con due o tre scafi. Viene chiamato anche "multiscafo". "/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS>
@@ -17005,7 +17005,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1181" PART_OF_SPEECH="N">
-        <GLOSS>nella marineria le catene si usano sostanzialmente per collegare l'ancora allo scafo o per ormeggiare ad una bitta. Quelle per l'ancora devono essere &quot;calibrate&quot; cioè con maglie perfettamente uguali per entrare nel barbutin dell'argano.
+        <GLOSS>nella marineria le catene si usano sostanzialmente per collegare l'ancora allo scafo o per ormeggiare ad una bitta. Quelle per l'ancora devono essere "calibrate" cioè con maglie perfettamente uguali per entrare nel barbutin dell'argano.
 </GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="catena" SENSE="1"/>
@@ -17799,7 +17799,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="near_synonym" ID="1" INV_ID="1">
-                <TARGET_WM ID="1241" PART_OF_SPEECH="N" LEMMA="tifone" SENSE="1" GLOSS="Prendono questo nome i &quot;cicloni&quot; dell'Oceano Indiano e dell'Oceano Pacifico orientale."/>
+                <TARGET_WM ID="1241" PART_OF_SPEECH="N" LEMMA="tifone" SENSE="1" GLOSS="Prendono questo nome i "cicloni" dell'Oceano Indiano e dell'Oceano Pacifico orientale."/>
             </RELATION>
             <RELATION TYPE="near_synonym" ID="1" INV_ID="1">
                 <TARGET_WM ID="1690" PART_OF_SPEECH="N" LEMMA="uragano" SENSE="1" GLOSS="generico nome che si da alle tempeste e ai cicloni. In particolare designa le tempeste tropicali nel Mar dei Caraibi."/>
@@ -17943,7 +17943,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1406" PART_OF_SPEECH="N" LEMMA="draglia" SENSE="1" GLOSS="nelle imbarcazioni da diporto identifica un cavo d'acciaio che viene sostenuto dai &quot;candelieri&quot; a formare la &quot;battagliola&quot;. ">
+                <TARGET_WM ID="1406" PART_OF_SPEECH="N" LEMMA="draglia" SENSE="1" GLOSS="nelle imbarcazioni da diporto identifica un cavo d'acciaio che viene sostenuto dai "candelieri" a formare la "battagliola". ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -18044,7 +18044,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_meronym" ID="13" INV_ID="13">
-                <TARGET_WM ID="1638" PART_OF_SPEECH="N" LEMMA="legnuolo" SENSE="1" GLOSS="Componente delle cime tessili e dei cavi d'acciaio  formato da una serie di fibre (o fili d'acciaio) ritorte chiamate &quot;trefoli&quot;. Unendo e torcendo più legnuoli  normalmente 3 o 4  si ottiene la cima tessile o il cavo d'acciaio.">
+                <TARGET_WM ID="1638" PART_OF_SPEECH="N" LEMMA="legnuolo" SENSE="1" GLOSS="Componente delle cime tessili e dei cavi d'acciaio  formato da una serie di fibre (o fili d'acciaio) ritorte chiamate "trefoli". Unendo e torcendo più legnuoli  normalmente 3 o 4  si ottiene la cima tessile o il cavo d'acciaio.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -19083,7 +19083,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="xpos_fuzzynym" ID="4" INV_ID="4">
-                <TARGET_WM ID="1780" PART_OF_SPEECH="N" LEMMA="rilevamento di incrocio" SENSE="1" GLOSS="quando una imbarcazione ne rileva una seconda con un angolo costante nel tempo. In tal caso le due rotte seguite si incrociano e quindi sono dette &quot;di collisione&quot;."/>
+                <TARGET_WM ID="1780" PART_OF_SPEECH="N" LEMMA="rilevamento di incrocio" SENSE="1" GLOSS="quando una imbarcazione ne rileva una seconda con un angolo costante nel tempo. In tal caso le due rotte seguite si incrociano e quindi sono dette "di collisione"."/>
             </RELATION>
             <RELATION TYPE="involved" ID="26" INV_ID="26">
                 <TARGET_WM ID="58" PART_OF_SPEECH="N" LEMMA="imbarcazione" SENSE="1" GLOSS="termine generico per indicare barche di piccole e medie dimensioni  utilizzate per diversi scopi (lavoro  piacere  etc.). "/>
@@ -19710,7 +19710,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="AV#348" PART_OF_SPEECH="AV">
-        <GLOSS>con un particolare orientamento delle vele per l'andatura in &quot;fil di ruota&quot;  cioè col vento da poppa.</GLOSS>
+        <GLOSS>con un particolare orientamento delle vele per l'andatura in "fil di ruota"  cioè col vento da poppa.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="con le vele a farfalla" SENSE="1"/>
         </VARIANTS>
@@ -19728,7 +19728,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         <GLOSS>l'esito  la fine di qualcosa  condizione derivante da un fatto precedente</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="fine" SENSE="4" STATUS="CT">
-                <EXAMPLES>&quot;che fine hai fatto?&quot;</EXAMPLES>
+                <EXAMPLES>"che fine hai fatto?"</EXAMPLES>
             </LITERAL>
             <LITERAL LEMMA="conclusione" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="riuscita" SENSE="1"/>
@@ -19766,7 +19766,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="607" PART_OF_SPEECH="N" LEMMA="condizione della &quot;Conference&quot;" SENSE="1">
+                <TARGET_WM ID="607" PART_OF_SPEECH="N" LEMMA="condizione della "Conference"" SENSE="1">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -19831,7 +19831,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
     <WORD_MEANING ID="N#607" PART_OF_SPEECH="N">
         <GLOSS/>
         <VARIANTS>
-            <LITERAL LEMMA="condizione della &quot;Conference&quot;" SENSE="1"/>
+            <LITERAL LEMMA="condizione della "Conference"" SENSE="1"/>
             <LITERAL LEMMA="conference terms" SENSE="1"/>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -19965,7 +19965,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         <GLOSS>dare a un destinatario.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="consegnare" SENSE="1" STATUS="CT">
-                <EXAMPLES>&quot;Consegnare una lettera.&quot; &quot;Consegnare un documento al notaio.&quot; &quot;Consegnare ai carabinieri il colpevole.&quot;</EXAMPLES>
+                <EXAMPLES>"Consegnare una lettera." "Consegnare un documento al notaio." "Consegnare ai carabinieri il colpevole."</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -20183,7 +20183,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         <GLOSS>terraferma  parte emersa di un continente</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="continente" SENSE="2" STATUS="CT">
-                <EXAMPLES>&quot;si trasferì sul continente per lavoro perché in Sicilia non era riuscito a trovarlo&quot;</EXAMPLES>
+                <EXAMPLES>"si trasferì sul continente per lavoro perché in Sicilia non era riuscito a trovarlo"</EXAMPLES>
             </LITERAL>
             <LITERAL LEMMA="terraferma" SENSE="1"/>
         </VARIANTS>
@@ -20428,7 +20428,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
-                <TARGET_WM ID="341" PART_OF_SPEECH="N" LEMMA="vela aurica" SENSE="1" GLOSS="vela di taglio di forma trapezoidale. Il nome deriva dal latino &quot;auris&quot; = orecchio che ricorda la forma di tale vela."/>
+                <TARGET_WM ID="341" PART_OF_SPEECH="N" LEMMA="vela aurica" SENSE="1" GLOSS="vela di taglio di forma trapezoidale. Il nome deriva dal latino "auris" = orecchio che ricorda la forma di tale vela."/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS/>
@@ -20478,7 +20478,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         <GLOSS>patto  trattato tra stati</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="convenzione" SENSE="2" STATUS="CT">
-                <EXAMPLES>&quot;la convenzione di Ginevra&quot;</EXAMPLES>
+                <EXAMPLES>"la convenzione di Ginevra"</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -20501,7 +20501,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1357" PART_OF_SPEECH="N">
-        <GLOSS>operazione che il navigatore deve compiere per fornire al timoniere la prua magnetica (cioè i gradi bussola) a partire da una rotta tracciata sulla carta e chiamata &quot;rotta vera&quot;.
+        <GLOSS>operazione che il navigatore deve compiere per fornire al timoniere la prua magnetica (cioè i gradi bussola) a partire da una rotta tracciata sulla carta e chiamata "rotta vera".
 </GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="conversione della rotta" SENSE="1"/>
@@ -20511,7 +20511,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
                 <TARGET_WM ID="779" PART_OF_SPEECH="N" LEMMA="carteggio" SENSE="1" GLOSS="procedimento per tracciare e seguire una rotta sulle carte nautiche ."/>
             </RELATION>
             <RELATION TYPE="antonym" ID="5" INV_ID="5">
-                <TARGET_WM ID="1358" PART_OF_SPEECH="N" LEMMA="correzione della rotta" SENSE="1" GLOSS="operazione che il navigatore deve compiere per riportare sulla carta la &quot;rotta vera&quot; partendo dall'informazione fornita dal timoniere relativamente alla prua magnetica (cioè i gradi bussola) tenuta per un determinato tempo. ">
+                <TARGET_WM ID="1358" PART_OF_SPEECH="N" LEMMA="correzione della rotta" SENSE="1" GLOSS="operazione che il navigatore deve compiere per riportare sulla carta la "rotta vera" partendo dall'informazione fornita dal timoniere relativamente alla prua magnetica (cioè i gradi bussola) tenuta per un determinato tempo. ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -20626,7 +20626,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
-                <TARGET_WM ID="384" PART_OF_SPEECH="N" LEMMA="ponte" SENSE="1" GLOSS="ognuno di piani orizzontali che dividono l'interno delle navi nel senso dell'altezza  nelle imbarcazioni da diporto spesso il termine ponte coincide con &quot;coperta&quot;.">
+                <TARGET_WM ID="384" PART_OF_SPEECH="N" LEMMA="ponte" SENSE="1" GLOSS="ognuno di piani orizzontali che dividono l'interno delle navi nel senso dell'altezza  nelle imbarcazioni da diporto spesso il termine ponte coincide con "coperta".">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -21180,7 +21180,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1358" PART_OF_SPEECH="N">
-        <GLOSS>operazione che il navigatore deve compiere per riportare sulla carta la &quot;rotta vera&quot; partendo dall'informazione fornita dal timoniere relativamente alla prua magnetica (cioè i gradi bussola) tenuta per un determinato tempo.
+        <GLOSS>operazione che il navigatore deve compiere per riportare sulla carta la "rotta vera" partendo dall'informazione fornita dal timoniere relativamente alla prua magnetica (cioè i gradi bussola) tenuta per un determinato tempo.
 </GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="correzione della rotta" SENSE="1"/>
@@ -21190,7 +21190,7 @@ E' la navigazione più sicura con mare grosso o tempesta.
                 <TARGET_WM ID="779" PART_OF_SPEECH="N" LEMMA="carteggio" SENSE="1" GLOSS="procedimento per tracciare e seguire una rotta sulle carte nautiche ."/>
             </RELATION>
             <RELATION TYPE="antonym" ID="5" INV_ID="5">
-                <TARGET_WM ID="1357" PART_OF_SPEECH="N" LEMMA="conversione della rotta" SENSE="1" GLOSS="operazione che il navigatore deve compiere per fornire al timoniere la prua magnetica (cioè i gradi bussola) a partire da una rotta tracciata sulla carta e chiamata &quot;rotta vera&quot;. "/>
+                <TARGET_WM ID="1357" PART_OF_SPEECH="N" LEMMA="conversione della rotta" SENSE="1" GLOSS="operazione che il navigatore deve compiere per fornire al timoniere la prua magnetica (cioè i gradi bussola) a partire da una rotta tracciata sulla carta e chiamata "rotta vera". "/>
             </RELATION>
             <RELATION TYPE="involved" ID="26" INV_ID="26">
                 <TARGET_WM ID="217" PART_OF_SPEECH="N" LEMMA="rotta" SENSE="2" GLOSS="tracciato che sulle carte indica il percorso seguito o da seguire"/>
@@ -23148,12 +23148,12 @@ un pesante bulbo a forma di siluro  che consente di accrescere la spinta di addr
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1598" PART_OF_SPEECH="N" LEMMA="prua magnetica" SENSE="1" GLOSS="direzione che si deduce dalla &quot;prua bussola&quot; correggendola della &quot;devizione magnetica&quot; causata dall'influenza del ferro di bordo.">
+                <TARGET_WM ID="1598" PART_OF_SPEECH="N" LEMMA="prua magnetica" SENSE="1" GLOSS="direzione che si deduce dalla "prua bussola" correggendola della "devizione magnetica" causata dall'influenza del ferro di bordo.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1599" PART_OF_SPEECH="N" LEMMA="prua vera" SENSE="1" GLOSS="è la direzione che si ottiene dalla &quot;prua magnetica&quot; correggendola della declinazione magnetica presente nel luogo. E' la reale direzione geografica della prua dell'imbarcazione.">
+                <TARGET_WM ID="1599" PART_OF_SPEECH="N" LEMMA="prua vera" SENSE="1" GLOSS="è la direzione che si ottiene dalla "prua magnetica" correggendola della declinazione magnetica presente nel luogo. E' la reale direzione geografica della prua dell'imbarcazione.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -23367,7 +23367,7 @@ un pesante bulbo a forma di siluro  che consente di accrescere la spinta di addr
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="V#773" PART_OF_SPEECH="V">
-        <GLOSS>opposto di &quot;armare&quot;  significa sbarcare tutte le attrezzature e porre l'imbarcazione in disarmo  cioè in demolizione.</GLOSS>
+        <GLOSS>opposto di "armare"  significa sbarcare tutte le attrezzature e porre l'imbarcazione in disarmo  cioè in demolizione.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="disarmare" SENSE="1"/>
         </VARIANTS>
@@ -23438,7 +23438,7 @@ un pesante bulbo a forma di siluro  che consente di accrescere la spinta di addr
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="role_result" ID="64" INV_ID="64">
-                <TARGET_WM ID="773" PART_OF_SPEECH="V" LEMMA="disarmare" SENSE="1" GLOSS="opposto di &quot;armare&quot;  significa sbarcare tutte le attrezzature e porre l'imbarcazione in disarmo  cioè in demolizione."/>
+                <TARGET_WM ID="773" PART_OF_SPEECH="V" LEMMA="disarmare" SENSE="1" GLOSS="opposto di "armare"  significa sbarcare tutte le attrezzature e porre l'imbarcazione in disarmo  cioè in demolizione."/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS/>
@@ -23458,7 +23458,7 @@ un pesante bulbo a forma di siluro  che consente di accrescere la spinta di addr
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="778" PART_OF_SPEECH="N" LEMMA="astronomia nautica" SENSE="1" GLOSS="disciplina che comprende le regole e i procedimenti per determinare la posizione o &quot;punto nave stimato&quot; in alto mare mediante l'osservazione di alcuni astri."/>
+                <TARGET_WM ID="778" PART_OF_SPEECH="N" LEMMA="astronomia nautica" SENSE="1" GLOSS="disciplina che comprende le regole e i procedimenti per determinare la posizione o "punto nave stimato" in alto mare mediante l'osservazione di alcuni astri."/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS>
@@ -24168,7 +24168,7 @@ un pesante bulbo a forma di siluro  che consente di accrescere la spinta di addr
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1406" PART_OF_SPEECH="N">
-        <GLOSS>nelle imbarcazioni da diporto identifica un cavo d'acciaio che viene sostenuto dai &quot;candelieri&quot; a formare la &quot;battagliola&quot;.
+        <GLOSS>nelle imbarcazioni da diporto identifica un cavo d'acciaio che viene sostenuto dai "candelieri" a formare la "battagliola".
 </GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="draglia" SENSE="1"/>
@@ -24315,7 +24315,7 @@ un pesante bulbo a forma di siluro  che consente di accrescere la spinta di addr
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1402" PART_OF_SPEECH="N">
-        <GLOSS>elemento costruttivo di una imbarcazione posto in verticale all'estrema poppa e collegato inferiormente alla chiglia. Sostiene l'asse del timone e lo &quot;specchio di poppa&quot; .</GLOSS>
+        <GLOSS>elemento costruttivo di una imbarcazione posto in verticale all'estrema poppa e collegato inferiormente alla chiglia. Sostiene l'asse del timone e lo "specchio di poppa" .</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="ruota di poppa" SENSE="1"/>
             <LITERAL LEMMA="dritto di poppa" SENSE="1"/>
@@ -24441,7 +24441,7 @@ o altri sistemi di coperta.
                 <TARGET_WM ID="1405" PART_OF_SPEECH="N" LEMMA="drizza" SENSE="1" GLOSS="Cima o cavo d'acciaio utilizzato per alzare (drizzare) al loro posto vele  bandiere o altri sistemi di coperta.  "/>
             </RELATION>
             <RELATION TYPE="role_location" ID="32" INV_ID="32">
-                <TARGET_WM ID="1733" PART_OF_SPEECH="N" LEMMA="spinnaker" SENSE="1" GLOSS="vela di prua di grande superficie e di tessuto leggero  viene usata con venti &quot;portanti&quot;  dal &quot;traverso&quot; fino al &quot;fil di ruota&quot;  la progenitrice di questa vela fu alzata per la prima volta su uno yacht britannico nel 1865.">
+                <TARGET_WM ID="1733" PART_OF_SPEECH="N" LEMMA="spinnaker" SENSE="1" GLOSS="vela di prua di grande superficie e di tessuto leggero  viene usata con venti "portanti"  dal "traverso" fino al "fil di ruota"  la progenitrice di questa vela fu alzata per la prima volta su uno yacht britannico nel 1865.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -24986,7 +24986,7 @@ o altri sistemi di coperta.
                 <TARGET_WM ID="2173" PART_OF_SPEECH="N" LEMMA="utensile" SENSE="1" GLOSS="arnese atto all'esecuzione di determinate operazioni proprie di un'arte  di un mestiere o di una tecnica."/>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1462" PART_OF_SPEECH="N" LEMMA="elica a pale articolate" SENSE="1" GLOSS="elica con le pale che si richiudono (abbattibili o a &quot;becco d'oca&quot;) o che si orientano parallelamente al flusso dell'acqua (girevoli). Sono utilizzate nei velieri da regata. ">
+                <TARGET_WM ID="1462" PART_OF_SPEECH="N" LEMMA="elica a pale articolate" SENSE="1" GLOSS="elica con le pale che si richiudono (abbattibili o a "becco d'oca") o che si orientano parallelamente al flusso dell'acqua (girevoli). Sono utilizzate nei velieri da regata. ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -25054,7 +25054,7 @@ o altri sistemi di coperta.
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1462" PART_OF_SPEECH="N">
-        <GLOSS>elica con le pale che si richiudono (abbattibili o a &quot;becco d'oca&quot;) o che si orientano parallelamente al flusso dell'acqua (girevoli). Sono utilizzate nei velieri da regata.
+        <GLOSS>elica con le pale che si richiudono (abbattibili o a "becco d'oca") o che si orientano parallelamente al flusso dell'acqua (girevoli). Sono utilizzate nei velieri da regata.
 </GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="elica a pale articolate" SENSE="1"/>
@@ -25870,7 +25870,7 @@ superficie ideale col prolungamento del piano dell'equatore.
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="283" PART_OF_SPEECH="N" LEMMA="fanale di fonda" SENSE="1" GLOSS="luce bianca  all'estrema prua o sul punto più alto dell'alberatura  che deve essere tenuta accesa quando si staziona di notte all'ancora (o alla &quot;fonda&quot;).">
+                <TARGET_WM ID="283" PART_OF_SPEECH="N" LEMMA="fanale di fonda" SENSE="1" GLOSS="luce bianca  all'estrema prua o sul punto più alto dell'alberatura  che deve essere tenuta accesa quando si staziona di notte all'ancora (o alla "fonda").">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -25957,7 +25957,7 @@ superficie ideale col prolungamento del piano dell'equatore.
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#283" PART_OF_SPEECH="N">
-        <GLOSS>luce bianca  all'estrema prua o sul punto più alto dell'alberatura  che deve essere tenuta accesa quando si staziona di notte all'ancora (o alla &quot;fonda&quot;).</GLOSS>
+        <GLOSS>luce bianca  all'estrema prua o sul punto più alto dell'alberatura  che deve essere tenuta accesa quando si staziona di notte all'ancora (o alla "fonda").</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="fanale di fonda" SENSE="1"/>
         </VARIANTS>
@@ -26127,7 +26127,7 @@ superficie ideale col prolungamento del piano dell'equatore.
         <GLOSS>lasciare uscire o entrare  detto specialmente di liquidi.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="fare" SENSE="1" STATUS="CT">
-                <EXAMPLES>&quot;Fare sangue, acqua.&quot;</EXAMPLES>
+                <EXAMPLES>"Fare sangue, acqua."</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -26160,7 +26160,7 @@ superficie ideale col prolungamento del piano dell'equatore.
         <GLOSS>procacciarsi  ottenere.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="fare" SENSE="2" STATUS="CT">
-                <EXAMPLES>&quot;Fare denari, fortuna, successo.&quot;</EXAMPLES>
+                <EXAMPLES>"Fare denari, fortuna, successo."</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -26365,7 +26365,7 @@ superficie ideale col prolungamento del piano dell'equatore.
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
-                <TARGET_WM ID="185" PART_OF_SPEECH="N" LEMMA="faro" SENSE="1" GLOSS="il faro del porto  il termine &quot;faro&quot; deriva dall'isola di Pharos  dove fu eretto nel 300 a.c. il primo e più celebre fanale dell'antichità  a segnalare l'entrata al porto di Alessandria d'Egitto."/>
+                <TARGET_WM ID="185" PART_OF_SPEECH="N" LEMMA="faro" SENSE="1" GLOSS="il faro del porto  il termine "faro" deriva dall'isola di Pharos  dove fu eretto nel 300 a.c. il primo e più celebre fanale dell'antichità  a segnalare l'entrata al porto di Alessandria d'Egitto."/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS/>
@@ -26510,7 +26510,7 @@ superficie ideale col prolungamento del piano dell'equatore.
         <GLOSS>documento che prova una vendita</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="fattura" SENSE="3" STATUS="CT">
-                <EXAMPLES>&quot;emettere fattura&quot;</EXAMPLES>
+                <EXAMPLES>"emettere fattura"</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -27013,7 +27013,7 @@ superficie ideale col prolungamento del piano dell'equatore.
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="V#1479" PART_OF_SPEECH="V">
-        <GLOSS>Il vibrare delle vele quando ricevono il vento &quot;in filo&quot; cioè parallelamente alla loro superficie e non sono pertanto regolate al meglio o non ricevono il vento dalla giusta
+        <GLOSS>Il vibrare delle vele quando ricevono il vento "in filo" cioè parallelamente alla loro superficie e non sono pertanto regolate al meglio o non ricevono il vento dalla giusta
 angolatura.
 </GLOSS>
         <VARIANTS>
@@ -27529,7 +27529,7 @@ angolatura.
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="fuzzynym" ID="3" INV_ID="3">
-                <TARGET_WM ID="1486" PART_OF_SPEECH="N" LEMMA="andamento del fondale" SENSE="1" GLOSS="descrizione del fondo marino per mezzo delle &quot;isobate&quot; cioè le linee che  sulle carte nautiche  uniscono punti di ugual profondità e danno la misura in vari punti. ">
+                <TARGET_WM ID="1486" PART_OF_SPEECH="N" LEMMA="andamento del fondale" SENSE="1" GLOSS="descrizione del fondo marino per mezzo delle "isobate" cioè le linee che  sulle carte nautiche  uniscono punti di ugual profondità e danno la misura in vari punti. ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -28126,7 +28126,7 @@ angolatura.
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
-                <TARGET_WM ID="1181" PART_OF_SPEECH="N" LEMMA="catena" SENSE="1" GLOSS="nella marineria le catene si usano sostanzialmente per collegare l'ancora allo scafo o per ormeggiare ad una bitta. Quelle per l'ancora devono essere &quot;calibrate&quot; cioè con maglie perfettamente uguali per entrare nel barbutin dell'argano.  "/>
+                <TARGET_WM ID="1181" PART_OF_SPEECH="N" LEMMA="catena" SENSE="1" GLOSS="nella marineria le catene si usano sostanzialmente per collegare l'ancora allo scafo o per ormeggiare ad una bitta. Quelle per l'ancora devono essere "calibrate" cioè con maglie perfettamente uguali per entrare nel barbutin dell'argano.  "/>
             </RELATION>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
                 <TARGET_WM ID="108" PART_OF_SPEECH="N" LEMMA="corda" SENSE="1" GLOSS="prodotto flessibile per legare e assicurare">
@@ -29138,7 +29138,7 @@ sposta.
         <VARIANTS>
             <LITERAL LEMMA="gettare" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="tirare" SENSE="6" STATUS="CT">
-                <EXAMPLES>&quot;Tirare la palla.&quot; &quot;Tirare frecce. &quot; &quot;Tirare sassi nell'acqua.&quot; &quot;Tirare una bomba.&quot;</EXAMPLES>
+                <EXAMPLES>"Tirare la palla." "Tirare frecce. " "Tirare sassi nell'acqua." "Tirare una bomba."</EXAMPLES>
             </LITERAL>
             <LITERAL LEMMA="scagliare" SENSE="1"/>
             <LITERAL LEMMA="lanciare" SENSE="1" STATUS="CT"/>
@@ -29250,7 +29250,7 @@ sposta.
         <GLOSS>causare un cambiamento negativo  mettere in una condizione peggiore .</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="gettare" SENSE="6">
-                <EXAMPLES>&quot;gettare nello scompiglio, nello sconforto, nella miseria&quot;</EXAMPLES>
+                <EXAMPLES>"gettare nello scompiglio, nello sconforto, nella miseria"</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <PLUG-IN_LINKS>
@@ -30859,7 +30859,7 @@ formare degli scalini usati per salire sull'alberatura.</GLOSS>
             <LITERAL LEMMA="pozza" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="guazzo" SENSE="1"/>
             <LITERAL LEMMA="lago" SENSE="2" STATUS="CT">
-                <EXAMPLES>&quot;essere in un lago di sangue&quot;</EXAMPLES>
+                <EXAMPLES>"essere in un lago di sangue"</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <PLUG-IN_LINKS/>
@@ -32000,7 +32000,7 @@ formare degli scalini usati per salire sull'alberatura.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="role_patient" ID="28" INV_ID="28">
-                <TARGET_WM ID="773" PART_OF_SPEECH="V" LEMMA="disarmare" SENSE="1" GLOSS="opposto di &quot;armare&quot;  significa sbarcare tutte le attrezzature e porre l'imbarcazione in disarmo  cioè in demolizione.">
+                <TARGET_WM ID="773" PART_OF_SPEECH="V" LEMMA="disarmare" SENSE="1" GLOSS="opposto di "armare"  significa sbarcare tutte le attrezzature e porre l'imbarcazione in disarmo  cioè in demolizione.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -32359,7 +32359,7 @@ formare degli scalini usati per salire sull'alberatura.</GLOSS>
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="xpos_near_synonym" ID="2" INV_ID="2">
-                <TARGET_WM ID="1550" PART_OF_SPEECH="V" LEMMA="pescare" SENSE="1" GLOSS="termine molto usato nella marineria col significato di &quot;essere immerso&quot; relativamente ad uno scafo. ">
+                <TARGET_WM ID="1550" PART_OF_SPEECH="V" LEMMA="pescare" SENSE="1" GLOSS="termine molto usato nella marineria col significato di "essere immerso" relativamente ad uno scafo. ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -32590,7 +32590,7 @@ impedire che si scordoni o si apra.
         <GLOSS>una apparecchiatura  dispositivo  insieme di congegni.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="impianto" SENSE="1" STATUS="CT">
-                <EXAMPLES>&quot;impianto di riscaldamento, impianto elettrico&quot;</EXAMPLES>
+                <EXAMPLES>"impianto di riscaldamento, impianto elettrico"</EXAMPLES>
             </LITERAL>
             <LITERAL LEMMA="apparato" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="apparecchiatura" SENSE="1" STATUS="CT"/>
@@ -33349,7 +33349,7 @@ impedire che si scordoni o si apra.
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1629" PART_OF_SPEECH="N">
-        <GLOSS>indica l'avvicinamento di due velieri che navigano con &quot;mure opposte&quot; e su rotte convergenti o quasi.
+        <GLOSS>indica l'avvicinamento di due velieri che navigano con "mure opposte" e su rotte convergenti o quasi.
 </GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="incrocio" SENSE="1"/>
@@ -33824,7 +33824,7 @@ impedire che si scordoni o si apra.
         <GLOSS>la totalità  persone o animali o cose radunate insieme</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="insieme" SENSE="1" STATUS="CT">
-                <EXAMPLES>&quot;l'insieme dei contribuenti&quot;</EXAMPLES>
+                <EXAMPLES>"l'insieme dei contribuenti"</EXAMPLES>
             </LITERAL>
             <LITERAL LEMMA="gruppo" SENSE="1" STATUS="CT"/>
         </VARIANTS>
@@ -33971,7 +33971,7 @@ impedire che si scordoni o si apra.
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1590" PART_OF_SPEECH="N">
-        <GLOSS>bandiera di segnalazione per richiamare l'attenzione ed esporre successivamente una ulteriore segnalazione. Si utilizza anche per rispondere &quot;ho capito&quot;.</GLOSS>
+        <GLOSS>bandiera di segnalazione per richiamare l'attenzione ed esporre successivamente una ulteriore segnalazione. Si utilizza anche per rispondere "ho capito".</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="intelligenza" SENSE="1"/>
             <LITERAL LEMMA="answering pennant" SENSE="1"/>
@@ -34693,7 +34693,7 @@ incidenti in mare.</GLOSS>
                 <TARGET_WM ID="232" PART_OF_SPEECH="N" LEMMA="carico" SENSE="1" GLOSS="quanto si carica su qualcosa"/>
             </RELATION>
             <RELATION TYPE="involved_patient" ID="29" INV_ID="29">
-                <TARGET_WM ID="1733" PART_OF_SPEECH="N" LEMMA="spinnaker" SENSE="1" GLOSS="vela di prua di grande superficie e di tessuto leggero  viene usata con venti &quot;portanti&quot;  dal &quot;traverso&quot; fino al &quot;fil di ruota&quot;  la progenitrice di questa vela fu alzata per la prima volta su uno yacht britannico nel 1865.">
+                <TARGET_WM ID="1733" PART_OF_SPEECH="N" LEMMA="spinnaker" SENSE="1" GLOSS="vela di prua di grande superficie e di tessuto leggero  viene usata con venti "portanti"  dal "traverso" fino al "fil di ruota"  la progenitrice di questa vela fu alzata per la prima volta su uno yacht britannico nel 1865.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -35156,7 +35156,7 @@ incidenti in mare.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1339" PART_OF_SPEECH="N">
-        <GLOSS>battello a remi o a motore utilizzato per fare la spola tra una nave o un'imbarcazione e la costa. Nel linguaggio marinaro si chiama anche &quot;scialuppa&quot;.
+        <GLOSS>battello a remi o a motore utilizzato per fare la spola tra una nave o un'imbarcazione e la costa. Nel linguaggio marinaro si chiama anche "scialuppa".
 </GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="lancia" SENSE="1"/>
@@ -35248,7 +35248,7 @@ incidenti in mare.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#185" PART_OF_SPEECH="N">
-        <GLOSS>il faro del porto  il termine &quot;faro&quot; deriva dall'isola di Pharos  dove fu eretto nel 300 a.c. il primo e più celebre fanale dell'antichità  a segnalare l'entrata al porto di Alessandria d'Egitto.</GLOSS>
+        <GLOSS>il faro del porto  il termine "faro" deriva dall'isola di Pharos  dove fu eretto nel 300 a.c. il primo e più celebre fanale dell'antichità  a segnalare l'entrata al porto di Alessandria d'Egitto.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="faro" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="lanterna" SENSE="2"/>
@@ -35289,7 +35289,7 @@ incidenti in mare.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1636" PART_OF_SPEECH="N">
-        <GLOSS>distanza tra i due punti estremi della &quot;sezione maestra&quot; cioè della parte più larga della coperta  includendo il fasciame. 
+        <GLOSS>distanza tra i due punti estremi della "sezione maestra" cioè della parte più larga della coperta  includendo il fasciame. 
 </GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="larghezza" SENSE="1"/>
@@ -35633,7 +35633,7 @@ incidenti in mare.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1638" PART_OF_SPEECH="N">
-        <GLOSS>Componente delle cime tessili e dei cavi d'acciaio  formato da una serie di fibre (o fili d'acciaio) ritorte chiamate &quot;trefoli&quot;. Unendo e torcendo più legnuoli  normalmente 3 o 4  si ottiene la cima tessile o il cavo d'acciaio.</GLOSS>
+        <GLOSS>Componente delle cime tessili e dei cavi d'acciaio  formato da una serie di fibre (o fili d'acciaio) ritorte chiamate "trefoli". Unendo e torcendo più legnuoli  normalmente 3 o 4  si ottiene la cima tessile o il cavo d'acciaio.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="legnuolo" SENSE="1"/>
         </VARIANTS>
@@ -35804,7 +35804,7 @@ incidenti in mare.</GLOSS>
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="involved" ID="26" INV_ID="26">
-                <TARGET_WM ID="185" PART_OF_SPEECH="N" LEMMA="faro" SENSE="1" GLOSS="il faro del porto  il termine &quot;faro&quot; deriva dall'isola di Pharos  dove fu eretto nel 300 a.c. il primo e più celebre fanale dell'antichità  a segnalare l'entrata al porto di Alessandria d'Egitto."/>
+                <TARGET_WM ID="185" PART_OF_SPEECH="N" LEMMA="faro" SENSE="1" GLOSS="il faro del porto  il termine "faro" deriva dall'isola di Pharos  dove fu eretto nel 300 a.c. il primo e più celebre fanale dell'antichità  a segnalare l'entrata al porto di Alessandria d'Egitto."/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS/>
@@ -38248,7 +38248,7 @@ incidenti in mare.</GLOSS>
                 <TARGET_WM ID="202" PART_OF_SPEECH="V" LEMMA="ormeggiare" SENSE="1" GLOSS="legare l'imbarcazione a terra o ad uno o più punti di presa con ancore  cavi o catene  allo scopo di trattenerla e di sottrarla ai movimenti che gli imprimerebbe il vento  la corrente ed il moto ondoso. "/>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1655" PART_OF_SPEECH="V" LEMMA="poggiare" SENSE="1" GLOSS="dirigere l'imbarcazione allontanando la prua dalla direzione di provenienza del vento  in modo da navigare con un'andatura più &quot;larga&quot;  cioè con le vele più &quot;lasche&quot;.">
+                <TARGET_WM ID="1655" PART_OF_SPEECH="V" LEMMA="poggiare" SENSE="1" GLOSS="dirigere l'imbarcazione allontanando la prua dalla direzione di provenienza del vento  in modo da navigare con un'andatura più "larga"  cioè con le vele più "lasche".">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -38361,7 +38361,7 @@ incidenti in mare.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="989" PART_OF_SPEECH="V" LEMMA="bracciare" SENSE="1" GLOSS="far ruotare orizzontalmente i pennoni attorno ai rispettivi punti di unione con l'albero per cambiare l'orientazione delle vele quadre nei velieri antichi. Nei moderni indica la manovra di recuperare il braccio dello spinnaker per &quot;quadrare&quot; il tangone. ">
+                <TARGET_WM ID="989" PART_OF_SPEECH="V" LEMMA="bracciare" SENSE="1" GLOSS="far ruotare orizzontalmente i pennoni attorno ai rispettivi punti di unione con l'albero per cambiare l'orientazione delle vele quadre nei velieri antichi. Nei moderni indica la manovra di recuperare il braccio dello spinnaker per "quadrare" il tangone. ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -42105,7 +42105,7 @@ violento.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1260" PART_OF_SPEECH="N">
-        <GLOSS>sessantesima parte di un grado. Viene anche chiamato sinteticamente &quot;primo&quot;. Si divide ulteriormente in 60 secondi.</GLOSS>
+        <GLOSS>sessantesima parte di un grado. Viene anche chiamato sinteticamente "primo". Si divide ulteriormente in 60 secondi.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="minuto primo" SENSE="1"/>
         </VARIANTS>
@@ -42129,7 +42129,7 @@ violento.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1261" PART_OF_SPEECH="N">
-        <GLOSS>sessantesima parte di un primo. Viene anche chiamato sinteticamente &quot;secondo&quot;.</GLOSS>
+        <GLOSS>sessantesima parte di un primo. Viene anche chiamato sinteticamente "secondo".</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="minuto secondo" SENSE="1"/>
         </VARIANTS>
@@ -43041,7 +43041,7 @@ violento.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1656" PART_OF_SPEECH="N" LEMMA="poggiata" SENSE="1" GLOSS="movimento angolare derivato dall'atto di &quot;puggiare&quot;.">
+                <TARGET_WM ID="1656" PART_OF_SPEECH="N" LEMMA="poggiata" SENSE="1" GLOSS="movimento angolare derivato dall'atto di "puggiare".">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -43168,7 +43168,7 @@ violento.</GLOSS>
         <GLOSS>togliere una cosa dal posto in cui si trova.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="muovere" SENSE="1" STATUS="CT">
-                <EXAMPLES>&quot;Muovere un tavolo.&quot; &quot;Muovere un oggetto dal mobile.&quot;</EXAMPLES>
+                <EXAMPLES>"Muovere un tavolo." "Muovere un oggetto dal mobile."</EXAMPLES>
             </LITERAL>
             <LITERAL LEMMA="spostare" SENSE="1" STATUS="CT"/>
         </VARIANTS>
@@ -43361,7 +43361,7 @@ violento.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1344" PART_OF_SPEECH="N">
-        <GLOSS>è il punto della sfera celeste diametralmente opposto allo &quot;zenit&quot;.</GLOSS>
+        <GLOSS>è il punto della sfera celeste diametralmente opposto allo "zenit".</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="nadir" SENSE="1"/>
         </VARIANTS>
@@ -44226,7 +44226,7 @@ violento.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_mero_part" ID="19" INV_ID="19">
-                <TARGET_WM ID="384" PART_OF_SPEECH="N" LEMMA="ponte" SENSE="1" GLOSS="ognuno di piani orizzontali che dividono l'interno delle navi nel senso dell'altezza  nelle imbarcazioni da diporto spesso il termine ponte coincide con &quot;coperta&quot;."/>
+                <TARGET_WM ID="384" PART_OF_SPEECH="N" LEMMA="ponte" SENSE="1" GLOSS="ognuno di piani orizzontali che dividono l'interno delle navi nel senso dell'altezza  nelle imbarcazioni da diporto spesso il termine ponte coincide con "coperta"."/>
             </RELATION>
             <RELATION TYPE="has_mero_part" ID="19" INV_ID="19">
                 <TARGET_WM ID="386" PART_OF_SPEECH="N" LEMMA="plancia" SENSE="1" GLOSS="ponte riservato al comando e alla conduzione della nave stessa."/>
@@ -44313,7 +44313,7 @@ violento.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="role_patient" ID="28" INV_ID="28">
-                <TARGET_WM ID="773" PART_OF_SPEECH="V" LEMMA="disarmare" SENSE="1" GLOSS="opposto di &quot;armare&quot;  significa sbarcare tutte le attrezzature e porre l'imbarcazione in disarmo  cioè in demolizione.">
+                <TARGET_WM ID="773" PART_OF_SPEECH="V" LEMMA="disarmare" SENSE="1" GLOSS="opposto di "armare"  significa sbarcare tutte le attrezzature e porre l'imbarcazione in disarmo  cioè in demolizione.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -46596,7 +46596,7 @@ violento.</GLOSS>
                 <TARGET_WM ID="473" PART_OF_SPEECH="N" LEMMA="navigazione astronomica" SENSE="1" GLOSS="insieme dei metodi e degli strumenti per determinare la posizione geografica mediante l'osservazione degli astri e la misurazione delle loro coordinate."/>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="474" PART_OF_SPEECH="N" LEMMA="navigazione piana" SENSE="1" GLOSS="insieme dei metodi e degli espedienti per risolvere i problemi della &quot;navigazione costiera&quot; e della &quot;navigazione stimata&quot; sulla carta nautica con l'ausilio della Geometria Piana."/>
+                <TARGET_WM ID="474" PART_OF_SPEECH="N" LEMMA="navigazione piana" SENSE="1" GLOSS="insieme dei metodi e degli espedienti per risolvere i problemi della "navigazione costiera" e della "navigazione stimata" sulla carta nautica con l'ausilio della Geometria Piana."/>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
                 <TARGET_WM ID="475" PART_OF_SPEECH="N" LEMMA="navigazione stimata" SENSE="1" GLOSS="procedimento per calcolare e determinare la posizione geografica attuale in dipendenza dell'ultima posizione certa."/>
@@ -46932,7 +46932,7 @@ violento.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#474" PART_OF_SPEECH="N">
-        <GLOSS>insieme dei metodi e degli espedienti per risolvere i problemi della &quot;navigazione costiera&quot; e della &quot;navigazione stimata&quot; sulla carta nautica con l'ausilio della Geometria Piana.</GLOSS>
+        <GLOSS>insieme dei metodi e degli espedienti per risolvere i problemi della "navigazione costiera" e della "navigazione stimata" sulla carta nautica con l'ausilio della Geometria Piana.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="navigazione piana" SENSE="1"/>
         </VARIANTS>
@@ -49081,7 +49081,7 @@ violento.</GLOSS>
                 <TARGET_WM ID="644" PART_OF_SPEECH="N" LEMMA="prodotto" SENSE="1" GLOSS="tutto ciò che gli uomini producono."/>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1768" PART_OF_SPEECH="N" LEMMA="relitto" SENSE="1" GLOSS="qualsiasi oggetto che si trovi in mare alla deriva  sul fondo o sulla costa: &quot;un relitto si è incagliato tra gli scogli&quot;. ">
+                <TARGET_WM ID="1768" PART_OF_SPEECH="N" LEMMA="relitto" SENSE="1" GLOSS="qualsiasi oggetto che si trovi in mare alla deriva  sul fondo o sulla costa: "un relitto si è incagliato tra gli scogli". ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -49834,7 +49834,7 @@ violento.</GLOSS>
             <LITERAL LEMMA="organismo" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="organo" SENSE="4" STATUS="CT"/>
             <LITERAL LEMMA="istituzione" SENSE="1" STATUS="CT">
-                <EXAMPLES>&quot;gli istuti scolastici privati&quot;</EXAMPLES>
+                <EXAMPLES>"gli istuti scolastici privati"</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -49872,7 +49872,7 @@ violento.</GLOSS>
         <GLOSS>complesso  gruppo organizzato</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="organizzazione" SENSE="1" STATUS="CT">
-                <EXAMPLES>&quot;organizzazione sindacale&quot;</EXAMPLES>
+                <EXAMPLES>"organizzazione sindacale"</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -50399,7 +50399,7 @@ violento.</GLOSS>
                 <TARGET_WM ID="847" PART_OF_SPEECH="N" LEMMA="orza" SENSE="1" GLOSS="lato dell'imbarcazione dal quale viene il vento  lato sopravvento."/>
             </RELATION>
             <RELATION TYPE="antonym" ID="5" INV_ID="5">
-                <TARGET_WM ID="1655" PART_OF_SPEECH="V" LEMMA="poggiare" SENSE="1" GLOSS="dirigere l'imbarcazione allontanando la prua dalla direzione di provenienza del vento  in modo da navigare con un'andatura più &quot;larga&quot;  cioè con le vele più &quot;lasche&quot;.">
+                <TARGET_WM ID="1655" PART_OF_SPEECH="V" LEMMA="poggiare" SENSE="1" GLOSS="dirigere l'imbarcazione allontanando la prua dalla direzione di provenienza del vento  in modo da navigare con un'andatura più "larga"  cioè con le vele più "lasche".">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -50527,7 +50527,7 @@ violento.</GLOSS>
                 <TARGET_WM ID="109" PART_OF_SPEECH="N" LEMMA="chiglia" SENSE="1" GLOSS="trave in uno o più pezzi che corre dalla prua alla poppa e costituisce il fondo dello scafo. E' l'elemento più importante della struttura di una imbarcazione."/>
             </RELATION>
             <RELATION TYPE="has_mero_part" ID="19" INV_ID="19">
-                <TARGET_WM ID="1402" PART_OF_SPEECH="N" LEMMA="ruota di poppa" SENSE="1" GLOSS="elemento costruttivo di una imbarcazione posto in verticale all'estrema poppa e collegato inferiormente alla chiglia. Sostiene l'asse del timone e lo &quot;specchio di poppa&quot; ."/>
+                <TARGET_WM ID="1402" PART_OF_SPEECH="N" LEMMA="ruota di poppa" SENSE="1" GLOSS="elemento costruttivo di una imbarcazione posto in verticale all'estrema poppa e collegato inferiormente alla chiglia. Sostiene l'asse del timone e lo "specchio di poppa" ."/>
             </RELATION>
             <RELATION TYPE="has_mero_part" ID="19" INV_ID="19">
                 <TARGET_WM ID="1403" PART_OF_SPEECH="N" LEMMA="ruota di prora" SENSE="1" GLOSS="elemento costruttivo di una imbarcazione  parte dell'ossatura  posto in verticale all'estrema prua e collegato inferiormente alla chiglia.  "/>
@@ -51309,7 +51309,7 @@ violento.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1402" PART_OF_SPEECH="N" LEMMA="ruota di poppa" SENSE="1" GLOSS="elemento costruttivo di una imbarcazione posto in verticale all'estrema poppa e collegato inferiormente alla chiglia. Sostiene l'asse del timone e lo &quot;specchio di poppa&quot; .">
+                <TARGET_WM ID="1402" PART_OF_SPEECH="N" LEMMA="ruota di poppa" SENSE="1" GLOSS="elemento costruttivo di una imbarcazione posto in verticale all'estrema poppa e collegato inferiormente alla chiglia. Sostiene l'asse del timone e lo "specchio di poppa" .">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -51359,7 +51359,7 @@ violento.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1638" PART_OF_SPEECH="N" LEMMA="legnuolo" SENSE="1" GLOSS="Componente delle cime tessili e dei cavi d'acciaio  formato da una serie di fibre (o fili d'acciaio) ritorte chiamate &quot;trefoli&quot;. Unendo e torcendo più legnuoli  normalmente 3 o 4  si ottiene la cima tessile o il cavo d'acciaio.">
+                <TARGET_WM ID="1638" PART_OF_SPEECH="N" LEMMA="legnuolo" SENSE="1" GLOSS="Componente delle cime tessili e dei cavi d'acciaio  formato da una serie di fibre (o fili d'acciaio) ritorte chiamate "trefoli". Unendo e torcendo più legnuoli  normalmente 3 o 4  si ottiene la cima tessile o il cavo d'acciaio.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -51404,7 +51404,7 @@ violento.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="2705" PART_OF_SPEECH="N" LEMMA="polena" SENSE="1" GLOSS="&quot;Polena&quot; è il nome che designa  nell'area mediterranea  una figura scolpita  posta sulla prora delle imbarcazioni  elemento indispensabile della nave  specialmente nei secoli XVII e XVIII fino a tutto il XIX. v francese poulaine: rostro o scarpa a punta.">
+                <TARGET_WM ID="2705" PART_OF_SPEECH="N" LEMMA="polena" SENSE="1" GLOSS=""Polena" è il nome che designa  nell'area mediterranea  una figura scolpita  posta sulla prora delle imbarcazioni  elemento indispensabile della nave  specialmente nei secoli XVII e XVIII fino a tutto il XIX. v francese poulaine: rostro o scarpa a punta.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -51942,7 +51942,7 @@ violento.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1548" PART_OF_SPEECH="N">
-        <GLOSS>angolo superiore delle vele latine  dei fiocchi e delle vele di strallo  al quale si collega la &quot;drizza&quot; per issare e tesare la vela.</GLOSS>
+        <GLOSS>angolo superiore delle vele latine  dei fiocchi e delle vele di strallo  al quale si collega la "drizza" per issare e tesare la vela.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="penna" SENSE="1"/>
         </VARIANTS>
@@ -52504,7 +52504,7 @@ violento.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="V#1550" PART_OF_SPEECH="V">
-        <GLOSS>termine molto usato nella marineria col significato di &quot;essere immerso&quot; relativamente ad uno scafo.
+        <GLOSS>termine molto usato nella marineria col significato di "essere immerso" relativamente ad uno scafo.
 </GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="pescare" SENSE="1"/>
@@ -53658,7 +53658,7 @@ violento.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1559" PART_OF_SPEECH="N">
-        <GLOSS>imbarcazione  normalmente a vela  con due o tre scafi. Viene chiamato anche &quot;multiscafo&quot;.
+        <GLOSS>imbarcazione  normalmente a vela  con due o tre scafi. Viene chiamato anche "multiscafo".
 </GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="pluriscafo" SENSE="1"/>
@@ -53731,14 +53731,14 @@ violento.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="V#1655" PART_OF_SPEECH="V">
-        <GLOSS>dirigere l'imbarcazione allontanando la prua dalla direzione di provenienza del vento  in modo da navigare con un'andatura più &quot;larga&quot;  cioè con le vele più &quot;lasche&quot;.</GLOSS>
+        <GLOSS>dirigere l'imbarcazione allontanando la prua dalla direzione di provenienza del vento  in modo da navigare con un'andatura più "larga"  cioè con le vele più "lasche".</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="poggiare" SENSE="1"/>
             <LITERAL LEMMA="puggiare" SENSE="1"/>
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="xpos_near_synonym" ID="2" INV_ID="2">
-                <TARGET_WM ID="1656" PART_OF_SPEECH="N" LEMMA="poggiata" SENSE="1" GLOSS="movimento angolare derivato dall'atto di &quot;puggiare&quot;.">
+                <TARGET_WM ID="1656" PART_OF_SPEECH="N" LEMMA="poggiata" SENSE="1" GLOSS="movimento angolare derivato dall'atto di "puggiare".">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -53770,14 +53770,14 @@ violento.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1656" PART_OF_SPEECH="N">
-        <GLOSS>movimento angolare derivato dall'atto di &quot;puggiare&quot;.</GLOSS>
+        <GLOSS>movimento angolare derivato dall'atto di "puggiare".</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="poggiata" SENSE="1"/>
             <LITERAL LEMMA="puggiata" SENSE="1"/>
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="xpos_near_synonym" ID="2" INV_ID="2">
-                <TARGET_WM ID="1655" PART_OF_SPEECH="V" LEMMA="poggiare" SENSE="1" GLOSS="dirigere l'imbarcazione allontanando la prua dalla direzione di provenienza del vento  in modo da navigare con un'andatura più &quot;larga&quot;  cioè con le vele più &quot;lasche&quot;."/>
+                <TARGET_WM ID="1655" PART_OF_SPEECH="V" LEMMA="poggiare" SENSE="1" GLOSS="dirigere l'imbarcazione allontanando la prua dalla direzione di provenienza del vento  in modo da navigare con un'andatura più "larga"  cioè con le vele più "lasche"."/>
             </RELATION>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
                 <TARGET_WM ID="1386" PART_OF_SPEECH="N" LEMMA="movimento" SENSE="1" GLOSS="movimento dell'imbarcazione ."/>
@@ -53810,10 +53810,10 @@ violento.</GLOSS>
                 <TARGET_WM ID="1561" PART_OF_SPEECH="AG" LEMMA="orziero" SENSE="1" GLOSS="si dice di un veliero che navigando sotto vela tende a spostare la prua verso la direzione del vento."/>
             </RELATION>
             <RELATION TYPE="is_caused_by" ID="43" INV_ID="43">
-                <TARGET_WM ID="1655" PART_OF_SPEECH="V" LEMMA="poggiare" SENSE="1" GLOSS="dirigere l'imbarcazione allontanando la prua dalla direzione di provenienza del vento  in modo da navigare con un'andatura più &quot;larga&quot;  cioè con le vele più &quot;lasche&quot;."/>
+                <TARGET_WM ID="1655" PART_OF_SPEECH="V" LEMMA="poggiare" SENSE="1" GLOSS="dirigere l'imbarcazione allontanando la prua dalla direzione di provenienza del vento  in modo da navigare con un'andatura più "larga"  cioè con le vele più "lasche"."/>
             </RELATION>
             <RELATION TYPE="is_caused_by" ID="43" INV_ID="43">
-                <TARGET_WM ID="1656" PART_OF_SPEECH="N" LEMMA="poggiata" SENSE="1" GLOSS="movimento angolare derivato dall'atto di &quot;puggiare&quot;."/>
+                <TARGET_WM ID="1656" PART_OF_SPEECH="N" LEMMA="poggiata" SENSE="1" GLOSS="movimento angolare derivato dall'atto di "puggiare"."/>
             </RELATION>
             <RELATION TYPE="pertains_to" ID="79" INV_ID="79">
                 <TARGET_WM ID="163" PART_OF_SPEECH="N" LEMMA="veliero" SENSE="1" GLOSS="bastimento a vela."/>
@@ -53856,7 +53856,7 @@ violento.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#2705" PART_OF_SPEECH="N">
-        <GLOSS>&quot;Polena&quot; è il nome che designa  nell'area mediterranea  una figura scolpita  posta sulla prora delle imbarcazioni  elemento indispensabile della nave  specialmente nei secoli XVII e XVIII fino a tutto il XIX. v francese poulaine: rostro o scarpa a punta.</GLOSS>
+        <GLOSS>"Polena" è il nome che designa  nell'area mediterranea  una figura scolpita  posta sulla prora delle imbarcazioni  elemento indispensabile della nave  specialmente nei secoli XVII e XVIII fino a tutto il XIX. v francese poulaine: rostro o scarpa a punta.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="polena" SENSE="1"/>
         </VARIANTS>
@@ -54111,7 +54111,7 @@ violento.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#384" PART_OF_SPEECH="N">
-        <GLOSS>ognuno di piani orizzontali che dividono l'interno delle navi nel senso dell'altezza  nelle imbarcazioni da diporto spesso il termine ponte coincide con &quot;coperta&quot;.</GLOSS>
+        <GLOSS>ognuno di piani orizzontali che dividono l'interno delle navi nel senso dell'altezza  nelle imbarcazioni da diporto spesso il termine ponte coincide con "coperta".</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="ponte" SENSE="1" STATUS="CT"/>
         </VARIANTS>
@@ -54172,7 +54172,7 @@ violento.</GLOSS>
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
-                <TARGET_WM ID="384" PART_OF_SPEECH="N" LEMMA="ponte" SENSE="1" GLOSS="ognuno di piani orizzontali che dividono l'interno delle navi nel senso dell'altezza  nelle imbarcazioni da diporto spesso il termine ponte coincide con &quot;coperta&quot;.">
+                <TARGET_WM ID="384" PART_OF_SPEECH="N" LEMMA="ponte" SENSE="1" GLOSS="ognuno di piani orizzontali che dividono l'interno delle navi nel senso dell'altezza  nelle imbarcazioni da diporto spesso il termine ponte coincide con "coperta".">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -54348,7 +54348,7 @@ violento.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_mero_location" ID="23" INV_ID="23">
-                <TARGET_WM ID="1402" PART_OF_SPEECH="N" LEMMA="ruota di poppa" SENSE="1" GLOSS="elemento costruttivo di una imbarcazione posto in verticale all'estrema poppa e collegato inferiormente alla chiglia. Sostiene l'asse del timone e lo &quot;specchio di poppa&quot; .">
+                <TARGET_WM ID="1402" PART_OF_SPEECH="N" LEMMA="ruota di poppa" SENSE="1" GLOSS="elemento costruttivo di una imbarcazione posto in verticale all'estrema poppa e collegato inferiormente alla chiglia. Sostiene l'asse del timone e lo "specchio di poppa" .">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -56551,7 +56551,7 @@ violento.</GLOSS>
         <GLOSS>luogo di scalo di navi</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="porto" SENSE="1" STATUS="CT">
-                <EXAMPLES>&quot;la nave è entrata nel porto di Livorno&quot;</EXAMPLES>
+                <EXAMPLES>"la nave è entrata nel porto di Livorno"</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -57228,7 +57228,7 @@ violento.</GLOSS>
             </LITERAL>
             <LITERAL LEMMA="porto" SENSE="3" STATUS="CT">
                 <LFEATURES CONNOTATION="figurative"/>
-                <EXAMPLES>&quot;la casa è il mio porto sicuro&quot;</EXAMPLES>
+                <EXAMPLES>"la casa è il mio porto sicuro"</EXAMPLES>
             </LITERAL>
             <LITERAL LEMMA="ricetto" SENSE="1"/>
             <LITERAL LEMMA="riparo" SENSE="3" STATUS="CT"/>
@@ -57272,7 +57272,7 @@ violento.</GLOSS>
         <GLOSS>meta  conclusione  risultato.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="porto" SENSE="2">
-                <EXAMPLES>&quot;quel progetto è andato in porto&quot;</EXAMPLES>
+                <EXAMPLES>"quel progetto è andato in porto"</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -57976,7 +57976,7 @@ violento.</GLOSS>
             <LITERAL LEMMA="classe" SENSE="2" STATUS="CT"/>
             <LITERAL LEMMA="rango" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="grado" SENSE="1" STATUS="CT">
-                <EXAMPLES>&quot;il grado di maresciallo&quot;</EXAMPLES>
+                <EXAMPLES>"il grado di maresciallo"</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -58046,7 +58046,7 @@ violento.</GLOSS>
             <LITERAL LEMMA="potenza" SENSE="4" STATUS="CT"/>
             <LITERAL LEMMA="energia" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="forza" SENSE="2" STATUS="CT">
-                <EXAMPLES>&quot;forza elettromagnetica&quot;</EXAMPLES>
+                <EXAMPLES>"forza elettromagnetica"</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -58246,7 +58246,7 @@ violento.</GLOSS>
         <GLOSS>giungere in possesso di qualcosa.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="prendere" SENSE="1" STATUS="CT">
-                <EXAMPLES>&quot;Ho finalmente preso lo stipendio.&quot;</EXAMPLES>
+                <EXAMPLES>"Ho finalmente preso lo stipendio."</EXAMPLES>
             </LITERAL>
             <LITERAL LEMMA="avere" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="ricevere" SENSE="1" STATUS="CT"/>
@@ -58499,7 +58499,7 @@ violento.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1181" PART_OF_SPEECH="N" LEMMA="catena" SENSE="1" GLOSS="nella marineria le catene si usano sostanzialmente per collegare l'ancora allo scafo o per ormeggiare ad una bitta. Quelle per l'ancora devono essere &quot;calibrate&quot; cioè con maglie perfettamente uguali per entrare nel barbutin dell'argano.  ">
+                <TARGET_WM ID="1181" PART_OF_SPEECH="N" LEMMA="catena" SENSE="1" GLOSS="nella marineria le catene si usano sostanzialmente per collegare l'ancora allo scafo o per ormeggiare ad una bitta. Quelle per l'ancora devono essere "calibrate" cioè con maglie perfettamente uguali per entrare nel barbutin dell'argano.  ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -58679,7 +58679,7 @@ violento.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1596" PART_OF_SPEECH="N" LEMMA="prua sottile" SENSE="1" GLOSS="prua con forme fini  stretta e filante  il contrario della prua &quot; a canoa&quot;.">
+                <TARGET_WM ID="1596" PART_OF_SPEECH="N" LEMMA="prua sottile" SENSE="1" GLOSS="prua con forme fini  stretta e filante  il contrario della prua " a canoa".">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -58717,7 +58717,7 @@ violento.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="role_location" ID="32" INV_ID="32">
-                <TARGET_WM ID="1733" PART_OF_SPEECH="N" LEMMA="spinnaker" SENSE="1" GLOSS="vela di prua di grande superficie e di tessuto leggero  viene usata con venti &quot;portanti&quot;  dal &quot;traverso&quot; fino al &quot;fil di ruota&quot;  la progenitrice di questa vela fu alzata per la prima volta su uno yacht britannico nel 1865.">
+                <TARGET_WM ID="1733" PART_OF_SPEECH="N" LEMMA="spinnaker" SENSE="1" GLOSS="vela di prua di grande superficie e di tessuto leggero  viene usata con venti "portanti"  dal "traverso" fino al "fil di ruota"  la progenitrice di questa vela fu alzata per la prima volta su uno yacht britannico nel 1865.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -58762,7 +58762,7 @@ violento.</GLOSS>
             <LITERAL LEMMA="provento" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="guadagno" SENSE="2" STATUS="CT"/>
             <LITERAL LEMMA="frutto" SENSE="2" STATUS="CT">
-                <EXAMPLES>&quot;i frutti di un investimento&quot;</EXAMPLES>
+                <EXAMPLES>"i frutti di un investimento"</EXAMPLES>
             </LITERAL>
             <LITERAL LEMMA="profitto" SENSE="2" STATUS="CT"/>
             <LITERAL LEMMA="ricavato" SENSE="1" STATUS="CT"/>
@@ -58979,7 +58979,7 @@ violento.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1598" PART_OF_SPEECH="N">
-        <GLOSS>direzione che si deduce dalla &quot;prua bussola&quot; correggendola della &quot;devizione magnetica&quot; causata dall'influenza del ferro di bordo.</GLOSS>
+        <GLOSS>direzione che si deduce dalla "prua bussola" correggendola della "devizione magnetica" causata dall'influenza del ferro di bordo.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="prua magnetica" SENSE="1"/>
             <LITERAL LEMMA="rotta magnetica" SENSE="1"/>
@@ -59005,7 +59005,7 @@ violento.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1596" PART_OF_SPEECH="N">
-        <GLOSS>prua con forme fini  stretta e filante  il contrario della prua &quot; a canoa&quot;.</GLOSS>
+        <GLOSS>prua con forme fini  stretta e filante  il contrario della prua " a canoa".</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="prua sottile" SENSE="1"/>
             <LITERAL LEMMA="lean bow" SENSE="1"/>
@@ -59026,7 +59026,7 @@ violento.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1599" PART_OF_SPEECH="N">
-        <GLOSS>è la direzione che si ottiene dalla &quot;prua magnetica&quot; correggendola della declinazione magnetica presente nel luogo. E' la reale direzione geografica della prua dell'imbarcazione.</GLOSS>
+        <GLOSS>è la direzione che si ottiene dalla "prua magnetica" correggendola della declinazione magnetica presente nel luogo. E' la reale direzione geografica della prua dell'imbarcazione.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="prua vera" SENSE="1"/>
             <LITERAL LEMMA="true course" SENSE="1"/>
@@ -59303,7 +59303,7 @@ violento.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1344" PART_OF_SPEECH="N" LEMMA="nadir" SENSE="1" GLOSS="è il punto della sfera celeste diametralmente opposto allo &quot;zenit&quot;.">
+                <TARGET_WM ID="1344" PART_OF_SPEECH="N" LEMMA="nadir" SENSE="1" GLOSS="è il punto della sfera celeste diametralmente opposto allo "zenit".">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -59323,7 +59323,7 @@ violento.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="819" PART_OF_SPEECH="N" LEMMA="punto stimato" SENSE="1" GLOSS="posizione geografica (punto nave) calcolata con la &quot;navigazione stimata&quot; considerando sia lo spostamento dell'imbarcazione che le cause che possono influenzare esternamente il suo moto (corrente e scarroccio).">
+                <TARGET_WM ID="819" PART_OF_SPEECH="N" LEMMA="punto stimato" SENSE="1" GLOSS="posizione geografica (punto nave) calcolata con la "navigazione stimata" considerando sia lo spostamento dell'imbarcazione che le cause che possono influenzare esternamente il suo moto (corrente e scarroccio).">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -59364,7 +59364,7 @@ violento.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="fuzzynym" ID="3" INV_ID="3">
-                <TARGET_WM ID="1006" PART_OF_SPEECH="N" LEMMA="rosa dei venti" SENSE="1" GLOSS="diagramma che raffigura  su un cerchio diviso in sedici parti  i punti cardinali e le direzioni dalle quali spirano i venti. Spesso viene posta nella bussola come &quot;rosa della bussola&quot;.">
+                <TARGET_WM ID="1006" PART_OF_SPEECH="N" LEMMA="rosa dei venti" SENSE="1" GLOSS="diagramma che raffigura  su un cerchio diviso in sedici parti  i punti cardinali e le direzioni dalle quali spirano i venti. Spesso viene posta nella bussola come "rosa della bussola".">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -59458,7 +59458,7 @@ violento.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#819" PART_OF_SPEECH="N">
-        <GLOSS>posizione geografica (punto nave) calcolata con la &quot;navigazione stimata&quot; considerando sia lo spostamento dell'imbarcazione che le cause che possono influenzare esternamente il suo moto (corrente e scarroccio).</GLOSS>
+        <GLOSS>posizione geografica (punto nave) calcolata con la "navigazione stimata" considerando sia lo spostamento dell'imbarcazione che le cause che possono influenzare esternamente il suo moto (corrente e scarroccio).</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="punto stimato" SENSE="1"/>
             <LITERAL LEMMA="dead reckoning" SENSE="1"/>
@@ -59927,7 +59927,7 @@ Nelle imbarcazioni da diporto indica la zona giorno sottocoperta.
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
-                <TARGET_WM ID="185" PART_OF_SPEECH="N" LEMMA="faro" SENSE="1" GLOSS="il faro del porto  il termine &quot;faro&quot; deriva dall'isola di Pharos  dove fu eretto nel 300 a.c. il primo e più celebre fanale dell'antichità  a segnalare l'entrata al porto di Alessandria d'Egitto."/>
+                <TARGET_WM ID="185" PART_OF_SPEECH="N" LEMMA="faro" SENSE="1" GLOSS="il faro del porto  il termine "faro" deriva dall'isola di Pharos  dove fu eretto nel 300 a.c. il primo e più celebre fanale dell'antichità  a segnalare l'entrata al porto di Alessandria d'Egitto."/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS/>
@@ -60451,7 +60451,7 @@ Nelle imbarcazioni da diporto indica la zona giorno sottocoperta.
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="fuzzynym" ID="3" INV_ID="3">
-                <TARGET_WM ID="1590" PART_OF_SPEECH="N" LEMMA="intelligenza" SENSE="1" GLOSS="bandiera di segnalazione per richiamare l'attenzione ed esporre successivamente una ulteriore segnalazione. Si utilizza anche per rispondere &quot;ho capito&quot;."/>
+                <TARGET_WM ID="1590" PART_OF_SPEECH="N" LEMMA="intelligenza" SENSE="1" GLOSS="bandiera di segnalazione per richiamare l'attenzione ed esporre successivamente una ulteriore segnalazione. Si utilizza anche per rispondere "ho capito"."/>
             </RELATION>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
                 <TARGET_WM ID="729" PART_OF_SPEECH="N" LEMMA="regata" SENSE="1" GLOSS="gara di velocità tra imbarcazioni di vario tipo"/>
@@ -60551,7 +60551,7 @@ Nelle imbarcazioni da diporto indica la zona giorno sottocoperta.
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1768" PART_OF_SPEECH="N">
-        <GLOSS>qualsiasi oggetto che si trovi in mare alla deriva  sul fondo o sulla costa: &quot;un relitto si è incagliato tra gli scogli&quot;.
+        <GLOSS>qualsiasi oggetto che si trovi in mare alla deriva  sul fondo o sulla costa: "un relitto si è incagliato tra gli scogli".
 </GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="relitto" SENSE="1"/>
@@ -60561,7 +60561,7 @@ Nelle imbarcazioni da diporto indica la zona giorno sottocoperta.
                 <TARGET_WM ID="645" PART_OF_SPEECH="N" LEMMA="oggetto" SENSE="1" GLOSS="qualunque oggetto concreto."/>
             </RELATION>
             <RELATION TYPE="has_extension" ID="82" INV_ID="82">
-                <TARGET_WM ID="2666" PART_OF_SPEECH="N" LEMMA="relitto" SENSE="2" GLOSS="persona ridotta in stato di miseria fisica o spirituale  che vive ai margini della società: &quot;l'alcol lo ha trasformato in un relitto umano&quot;. ">
+                <TARGET_WM ID="2666" PART_OF_SPEECH="N" LEMMA="relitto" SENSE="2" GLOSS="persona ridotta in stato di miseria fisica o spirituale  che vive ai margini della società: "l'alcol lo ha trasformato in un relitto umano". ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -60580,14 +60580,14 @@ Nelle imbarcazioni da diporto indica la zona giorno sottocoperta.
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#2666" PART_OF_SPEECH="N">
-        <GLOSS>persona ridotta in stato di miseria fisica o spirituale  che vive ai margini della società: &quot;l'alcol lo ha trasformato in un relitto umano&quot;.
+        <GLOSS>persona ridotta in stato di miseria fisica o spirituale  che vive ai margini della società: "l'alcol lo ha trasformato in un relitto umano".
 </GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="relitto" SENSE="2"/>
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="is_extension_of" ID="83" INV_ID="83">
-                <TARGET_WM ID="1768" PART_OF_SPEECH="N" LEMMA="relitto" SENSE="1" GLOSS="qualsiasi oggetto che si trovi in mare alla deriva  sul fondo o sulla costa: &quot;un relitto si è incagliato tra gli scogli&quot;. "/>
+                <TARGET_WM ID="1768" PART_OF_SPEECH="N" LEMMA="relitto" SENSE="1" GLOSS="qualsiasi oggetto che si trovi in mare alla deriva  sul fondo o sulla costa: "un relitto si è incagliato tra gli scogli". "/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS/>
@@ -61052,12 +61052,12 @@ Nelle imbarcazioni da diporto indica la zona giorno sottocoperta.
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1780" PART_OF_SPEECH="N" LEMMA="rilevamento di incrocio" SENSE="1" GLOSS="quando una imbarcazione ne rileva una seconda con un angolo costante nel tempo. In tal caso le due rotte seguite si incrociano e quindi sono dette &quot;di collisione&quot;.">
+                <TARGET_WM ID="1780" PART_OF_SPEECH="N" LEMMA="rilevamento di incrocio" SENSE="1" GLOSS="quando una imbarcazione ne rileva una seconda con un angolo costante nel tempo. In tal caso le due rotte seguite si incrociano e quindi sono dette "di collisione".">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="involved_instrument" ID="31" INV_ID="31">
-                <TARGET_WM ID="293" PART_OF_SPEECH="N" LEMMA="bussola da rilevamento" SENSE="1" GLOSS="Particolare tipo di bussola magnetica  per &quot;rilevare&quot; cioè per stabilire la direzione di un qualsiasi oggetto rispetto al nord magnetico."/>
+                <TARGET_WM ID="293" PART_OF_SPEECH="N" LEMMA="bussola da rilevamento" SENSE="1" GLOSS="Particolare tipo di bussola magnetica  per "rilevare" cioè per stabilire la direzione di un qualsiasi oggetto rispetto al nord magnetico."/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS/>
@@ -61093,7 +61093,7 @@ Nelle imbarcazioni da diporto indica la zona giorno sottocoperta.
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1780" PART_OF_SPEECH="N">
-        <GLOSS>quando una imbarcazione ne rileva una seconda con un angolo costante nel tempo. In tal caso le due rotte seguite si incrociano e quindi sono dette &quot;di collisione&quot;.</GLOSS>
+        <GLOSS>quando una imbarcazione ne rileva una seconda con un angolo costante nel tempo. In tal caso le due rotte seguite si incrociano e quindi sono dette "di collisione".</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="rilevamento di incrocio" SENSE="1"/>
         </VARIANTS>
@@ -61857,7 +61857,7 @@ Nelle imbarcazioni da diporto indica la zona giorno sottocoperta.
                 <TARGET_WM ID="1386" PART_OF_SPEECH="N" LEMMA="movimento" SENSE="1" GLOSS="movimento dell'imbarcazione ."/>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1416" PART_OF_SPEECH="N" LEMMA="sbandata" SENSE="1" GLOSS="forte &quot;rollata&quot; a causa di condizioni esterne."/>
+                <TARGET_WM ID="1416" PART_OF_SPEECH="N" LEMMA="sbandata" SENSE="1" GLOSS="forte "rollata" a causa di condizioni esterne."/>
             </RELATION>
             <RELATION TYPE="involved" ID="26" INV_ID="26">
                 <TARGET_WM ID="6" PART_OF_SPEECH="N" LEMMA="nave" SENSE="1" GLOSS="imbarcazione di una certa grandezza che  fornita di adeguati mezzi di propulsione  è adibita al trasporto di persone e merci o che  opportunamente attrezzata e armata  è impiegata in attività belliche. "/>
@@ -61901,8 +61901,8 @@ Nelle imbarcazioni da diporto indica la zona giorno sottocoperta.
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1006" PART_OF_SPEECH="N">
-        <GLOSS>diagramma che raffigura  su un cerchio diviso in sedici parti  i punti cardinali e le direzioni dalle quali spirano i venti. Spesso viene posta nella bussola come &quot;rosa della
-bussola&quot;.</GLOSS>
+        <GLOSS>diagramma che raffigura  su un cerchio diviso in sedici parti  i punti cardinali e le direzioni dalle quali spirano i venti. Spesso viene posta nella bussola come "rosa della
+bussola".</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="rosa dei venti" SENSE="1"/>
         </VARIANTS>
@@ -62065,7 +62065,7 @@ bussola&quot;.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1896" PART_OF_SPEECH="N" LEMMA="rotta stimata" SENSE="1" GLOSS="Percorso in mare riportato sulla carta nautica come derivante dalla sequenza di &quot;punti stimati&quot;. ">
+                <TARGET_WM ID="1896" PART_OF_SPEECH="N" LEMMA="rotta stimata" SENSE="1" GLOSS="Percorso in mare riportato sulla carta nautica come derivante dalla sequenza di "punti stimati". ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -62075,12 +62075,12 @@ bussola&quot;.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="role" ID="24" INV_ID="24">
-                <TARGET_WM ID="1357" PART_OF_SPEECH="N" LEMMA="conversione della rotta" SENSE="1" GLOSS="operazione che il navigatore deve compiere per fornire al timoniere la prua magnetica (cioè i gradi bussola) a partire da una rotta tracciata sulla carta e chiamata &quot;rotta vera&quot;. ">
+                <TARGET_WM ID="1357" PART_OF_SPEECH="N" LEMMA="conversione della rotta" SENSE="1" GLOSS="operazione che il navigatore deve compiere per fornire al timoniere la prua magnetica (cioè i gradi bussola) a partire da una rotta tracciata sulla carta e chiamata "rotta vera". ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="role" ID="24" INV_ID="24">
-                <TARGET_WM ID="1358" PART_OF_SPEECH="N" LEMMA="correzione della rotta" SENSE="1" GLOSS="operazione che il navigatore deve compiere per riportare sulla carta la &quot;rotta vera&quot; partendo dall'informazione fornita dal timoniere relativamente alla prua magnetica (cioè i gradi bussola) tenuta per un determinato tempo. ">
+                <TARGET_WM ID="1358" PART_OF_SPEECH="N" LEMMA="correzione della rotta" SENSE="1" GLOSS="operazione che il navigatore deve compiere per riportare sulla carta la "rotta vera" partendo dall'informazione fornita dal timoniere relativamente alla prua magnetica (cioè i gradi bussola) tenuta per un determinato tempo. ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -62136,7 +62136,7 @@ bussola&quot;.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1896" PART_OF_SPEECH="N">
-        <GLOSS>Percorso in mare riportato sulla carta nautica come derivante dalla sequenza di &quot;punti stimati&quot;.
+        <GLOSS>Percorso in mare riportato sulla carta nautica come derivante dalla sequenza di "punti stimati".
 </GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="rotta stimata" SENSE="1"/>
@@ -62306,7 +62306,7 @@ bussola&quot;.</GLOSS>
                 <TARGET_WM ID="222" PART_OF_SPEECH="N" LEMMA="governale" SENSE="1" GLOSS="strumento delle imbarcazioni per mantenere la direzione durante il moto"/>
             </RELATION>
             <RELATION TYPE="fuzzynym" ID="3" INV_ID="3">
-                <TARGET_WM ID="1402" PART_OF_SPEECH="N" LEMMA="ruota di poppa" SENSE="1" GLOSS="elemento costruttivo di una imbarcazione posto in verticale all'estrema poppa e collegato inferiormente alla chiglia. Sostiene l'asse del timone e lo &quot;specchio di poppa&quot; ."/>
+                <TARGET_WM ID="1402" PART_OF_SPEECH="N" LEMMA="ruota di poppa" SENSE="1" GLOSS="elemento costruttivo di una imbarcazione posto in verticale all'estrema poppa e collegato inferiormente alla chiglia. Sostiene l'asse del timone e lo "specchio di poppa" ."/>
             </RELATION>
             <RELATION TYPE="fuzzynym" ID="3" INV_ID="3">
                 <TARGET_WM ID="1403" PART_OF_SPEECH="N" LEMMA="ruota di prora" SENSE="1" GLOSS="elemento costruttivo di una imbarcazione  parte dell'ossatura  posto in verticale all'estrema prua e collegato inferiormente alla chiglia.  "/>
@@ -62327,7 +62327,7 @@ bussola&quot;.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="ruotare" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="girare" SENSE="1" STATUS="CT">
-                <EXAMPLES>&quot;La Terra gira su se stessa.&quot; &quot;La trottola gira.&quot;</EXAMPLES>
+                <EXAMPLES>"La Terra gira su se stessa." "La trottola gira."</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -63195,7 +63195,7 @@ bussola&quot;.</GLOSS>
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="xpos_near_synonym" ID="2" INV_ID="2">
-                <TARGET_WM ID="1416" PART_OF_SPEECH="N" LEMMA="sbandata" SENSE="1" GLOSS="forte &quot;rollata&quot; a causa di condizioni esterne.">
+                <TARGET_WM ID="1416" PART_OF_SPEECH="N" LEMMA="sbandata" SENSE="1" GLOSS="forte "rollata" a causa di condizioni esterne.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -63223,7 +63223,7 @@ bussola&quot;.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1416" PART_OF_SPEECH="N">
-        <GLOSS>forte &quot;rollata&quot; a causa di condizioni esterne.</GLOSS>
+        <GLOSS>forte "rollata" a causa di condizioni esterne.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="sbandata" SENSE="1"/>
             <LITERAL LEMMA="sbandamento" SENSE="2"/>
@@ -63435,7 +63435,7 @@ bussola&quot;.</GLOSS>
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1419" PART_OF_SPEECH="V" LEMMA="scarrocciare" SENSE="1" GLOSS="Lo &quot;scadere&quot; sottovento alla rotta predefinta  causato dall'azione del vento."/>
+                <TARGET_WM ID="1419" PART_OF_SPEECH="V" LEMMA="scarrocciare" SENSE="1" GLOSS="Lo "scadere" sottovento alla rotta predefinta  causato dall'azione del vento."/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS/>
@@ -63542,7 +63542,7 @@ bussola&quot;.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_mero_part" ID="19" INV_ID="19">
-                <TARGET_WM ID="2705" PART_OF_SPEECH="N" LEMMA="polena" SENSE="1" GLOSS="&quot;Polena&quot; è il nome che designa  nell'area mediterranea  una figura scolpita  posta sulla prora delle imbarcazioni  elemento indispensabile della nave  specialmente nei secoli XVII e XVIII fino a tutto il XIX. v francese poulaine: rostro o scarpa a punta.">
+                <TARGET_WM ID="2705" PART_OF_SPEECH="N" LEMMA="polena" SENSE="1" GLOSS=""Polena" è il nome che designa  nell'area mediterranea  una figura scolpita  posta sulla prora delle imbarcazioni  elemento indispensabile della nave  specialmente nei secoli XVII e XVIII fino a tutto il XIX. v francese poulaine: rostro o scarpa a punta.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -64147,13 +64147,13 @@ bussola&quot;.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="V#1419" PART_OF_SPEECH="V">
-        <GLOSS>Lo &quot;scadere&quot; sottovento alla rotta predefinta  causato dall'azione del vento.</GLOSS>
+        <GLOSS>Lo "scadere" sottovento alla rotta predefinta  causato dall'azione del vento.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="scarrocciare" SENSE="1"/>
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="xpos_near_synonym" ID="2" INV_ID="2">
-                <TARGET_WM ID="1420" PART_OF_SPEECH="N" LEMMA="scarroccio" SENSE="2" GLOSS="lo &quot;scadere&quot; sottovento alla rotta predefinta  causato dall'azione del vento.">
+                <TARGET_WM ID="1420" PART_OF_SPEECH="N" LEMMA="scarroccio" SENSE="2" GLOSS="lo "scadere" sottovento alla rotta predefinta  causato dall'azione del vento.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -64174,13 +64174,13 @@ bussola&quot;.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1420" PART_OF_SPEECH="N">
-        <GLOSS>lo &quot;scadere&quot; sottovento alla rotta predefinta  causato dall'azione del vento.</GLOSS>
+        <GLOSS>lo "scadere" sottovento alla rotta predefinta  causato dall'azione del vento.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="scarroccio" SENSE="2"/>
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="xpos_near_synonym" ID="2" INV_ID="2">
-                <TARGET_WM ID="1419" PART_OF_SPEECH="V" LEMMA="scarrocciare" SENSE="1" GLOSS="Lo &quot;scadere&quot; sottovento alla rotta predefinta  causato dall'azione del vento."/>
+                <TARGET_WM ID="1419" PART_OF_SPEECH="V" LEMMA="scarrocciare" SENSE="1" GLOSS="Lo "scadere" sottovento alla rotta predefinta  causato dall'azione del vento."/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS/>
@@ -64698,7 +64698,7 @@ bussola&quot;.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="scrittura" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="atto" SENSE="2" STATUS="CT">
-                <EXAMPLES>&quot;atti di un processo&quot;</EXAMPLES>
+                <EXAMPLES>"atti di un processo"</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -64868,7 +64868,7 @@ bussola&quot;.</GLOSS>
         <GLOSS>indicare per mezzo di segnali.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="segnalare" SENSE="1" STATUS="CT">
-                <EXAMPLES>&quot;Segnalare un pericolo.&quot; &quot;Segnalare un incrocio.&quot;</EXAMPLES>
+                <EXAMPLES>"Segnalare un pericolo." "Segnalare un incrocio."</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -65101,7 +65101,7 @@ bussola&quot;.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1456" PART_OF_SPEECH="N">
-        <GLOSS>effettuato alzando dei gruppi di due o più &quot;bandiere da segnalazione&quot; legate una sotto l'altra: ad ogni gruppo corrisponde un messaggio convenzionale secondo quanto definito nel Codice dei Segnali.
+        <GLOSS>effettuato alzando dei gruppi di due o più "bandiere da segnalazione" legate una sotto l'altra: ad ogni gruppo corrisponde un messaggio convenzionale secondo quanto definito nel Codice dei Segnali.
 </GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="segnale con bandiere" SENSE="1"/>
@@ -65132,7 +65132,7 @@ bussola&quot;.</GLOSS>
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="fuzzynym" ID="3" INV_ID="3">
-                <TARGET_WM ID="1590" PART_OF_SPEECH="N" LEMMA="intelligenza" SENSE="1" GLOSS="bandiera di segnalazione per richiamare l'attenzione ed esporre successivamente una ulteriore segnalazione. Si utilizza anche per rispondere &quot;ho capito&quot;.">
+                <TARGET_WM ID="1590" PART_OF_SPEECH="N" LEMMA="intelligenza" SENSE="1" GLOSS="bandiera di segnalazione per richiamare l'attenzione ed esporre successivamente una ulteriore segnalazione. Si utilizza anche per rispondere "ho capito".">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -65194,7 +65194,7 @@ bussola&quot;.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1456" PART_OF_SPEECH="N" LEMMA="segnale con bandiere" SENSE="1" GLOSS="effettuato alzando dei gruppi di due o più &quot;bandiere da segnalazione&quot; legate una sotto l'altra: ad ogni gruppo corrisponde un messaggio convenzionale secondo quanto definito nel Codice dei Segnali. ">
+                <TARGET_WM ID="1456" PART_OF_SPEECH="N" LEMMA="segnale con bandiere" SENSE="1" GLOSS="effettuato alzando dei gruppi di due o più "bandiere da segnalazione" legate una sotto l'altra: ad ogni gruppo corrisponde un messaggio convenzionale secondo quanto definito nel Codice dei Segnali. ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -65243,7 +65243,7 @@ bussola&quot;.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="185" PART_OF_SPEECH="N" LEMMA="faro" SENSE="1" GLOSS="il faro del porto  il termine &quot;faro&quot; deriva dall'isola di Pharos  dove fu eretto nel 300 a.c. il primo e più celebre fanale dell'antichità  a segnalare l'entrata al porto di Alessandria d'Egitto.">
+                <TARGET_WM ID="185" PART_OF_SPEECH="N" LEMMA="faro" SENSE="1" GLOSS="il faro del porto  il termine "faro" deriva dall'isola di Pharos  dove fu eretto nel 300 a.c. il primo e più celebre fanale dell'antichità  a segnalare l'entrata al porto di Alessandria d'Egitto.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -66168,7 +66168,7 @@ bussola&quot;.</GLOSS>
         <GLOSS>detto del vento.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="soffiare" SENSE="3" STATUS="CT">
-                <EXAMPLES>&quot;soffiava una forte brezza da ponente&quot;</EXAMPLES>
+                <EXAMPLES>"soffiava una forte brezza da ponente"</EXAMPLES>
             </LITERAL>
             <LITERAL LEMMA="spirare" SENSE="2" STATUS="CT"/>
         </VARIANTS>
@@ -66617,7 +66617,7 @@ bussola&quot;.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="sottostare" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="subire" SENSE="1" STATUS="CT">
-                <EXAMPLES>&quot;Subire una minaccia.&quot; &quot;Subire un padrone crudele.&quot;</EXAMPLES>
+                <EXAMPLES>"Subire una minaccia." "Subire un padrone crudele."</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -66815,7 +66815,7 @@ bussola&quot;.</GLOSS>
         <GLOSS>prodotto tipico ed esclusivo</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="specialità" SENSE="1" STATUS="CT">
-                <EXAMPLES>&quot;specialità farmaceutica&quot;</EXAMPLES>
+                <EXAMPLES>"specialità farmaceutica"</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -67314,7 +67314,7 @@ bussola&quot;.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1733" PART_OF_SPEECH="N">
-        <GLOSS>vela di prua di grande superficie e di tessuto leggero  viene usata con venti &quot;portanti&quot;  dal &quot;traverso&quot; fino al &quot;fil di ruota&quot;  la progenitrice di questa vela fu alzata per la prima volta su uno yacht britannico nel 1865.</GLOSS>
+        <GLOSS>vela di prua di grande superficie e di tessuto leggero  viene usata con venti "portanti"  dal "traverso" fino al "fil di ruota"  la progenitrice di questa vela fu alzata per la prima volta su uno yacht britannico nel 1865.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="spinnaker" SENSE="1"/>
             <LITERAL LEMMA="fiocco pallone" SENSE="1"/>
@@ -68350,7 +68350,7 @@ bussola&quot;.</GLOSS>
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="antonym" ID="5" INV_ID="5">
-                <TARGET_WM ID="989" PART_OF_SPEECH="V" LEMMA="bracciare" SENSE="1" GLOSS="far ruotare orizzontalmente i pennoni attorno ai rispettivi punti di unione con l'albero per cambiare l'orientazione delle vele quadre nei velieri antichi. Nei moderni indica la manovra di recuperare il braccio dello spinnaker per &quot;quadrare&quot; il tangone. "/>
+                <TARGET_WM ID="989" PART_OF_SPEECH="V" LEMMA="bracciare" SENSE="1" GLOSS="far ruotare orizzontalmente i pennoni attorno ai rispettivi punti di unione con l'albero per cambiare l'orientazione delle vele quadre nei velieri antichi. Nei moderni indica la manovra di recuperare il braccio dello spinnaker per "quadrare" il tangone. "/>
             </RELATION>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
                 <TARGET_WM ID="708" PART_OF_SPEECH="V" LEMMA="manovrare" SENSE="2" GLOSS="far funzionare attrezzature o strumenti per la navigazione mediante le operazioni o i movimenti necessari. ">
@@ -68842,7 +68842,7 @@ bussola&quot;.</GLOSS>
                 <TARGET_WM ID="1542" PART_OF_SPEECH="N" LEMMA="passascotte" SENSE="1"/>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1548" PART_OF_SPEECH="N" LEMMA="penna" SENSE="1" GLOSS="angolo superiore delle vele latine  dei fiocchi e delle vele di strallo  al quale si collega la &quot;drizza&quot; per issare e tesare la vela."/>
+                <TARGET_WM ID="1548" PART_OF_SPEECH="N" LEMMA="penna" SENSE="1" GLOSS="angolo superiore delle vele latine  dei fiocchi e delle vele di strallo  al quale si collega la "drizza" per issare e tesare la vela."/>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
                 <TARGET_WM ID="2031" PART_OF_SPEECH="N" LEMMA="pescatore" SENSE="2" GLOSS="utensile per il recupero degli attrezzi di sondaggio in caso di incidenti."/>
@@ -68876,7 +68876,7 @@ bussola&quot;.</GLOSS>
                 <TARGET_WM ID="2172" PART_OF_SPEECH="N" LEMMA="strumento nautico" SENSE="1" GLOSS="utile per calcolare la posizione della nave e per tecniche e/o operazioni di navigazione."/>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="2704" PART_OF_SPEECH="N" LEMMA="tavola da surf" SENSE="1" GLOSS="tavola per fare &quot;surfing&quot;">
+                <TARGET_WM ID="2704" PART_OF_SPEECH="N" LEMMA="tavola da surf" SENSE="1" GLOSS="tavola per fare "surfing"">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -68988,7 +68988,7 @@ bussola&quot;.</GLOSS>
                 <TARGET_WM ID="194" PART_OF_SPEECH="N" LEMMA="molo" SENSE="1" GLOSS="costruzione che agevola l'attracco delle imbarcazioni e  permette l'imbarco e lo sbarco dei passeggeri e delle merci."/>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="384" PART_OF_SPEECH="N" LEMMA="ponte" SENSE="1" GLOSS="ognuno di piani orizzontali che dividono l'interno delle navi nel senso dell'altezza  nelle imbarcazioni da diporto spesso il termine ponte coincide con &quot;coperta&quot;."/>
+                <TARGET_WM ID="384" PART_OF_SPEECH="N" LEMMA="ponte" SENSE="1" GLOSS="ognuno di piani orizzontali che dividono l'interno delle navi nel senso dell'altezza  nelle imbarcazioni da diporto spesso il termine ponte coincide con "coperta"."/>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
                 <TARGET_WM ID="1793" PART_OF_SPEECH="N" LEMMA="rotaia" SENSE="1" GLOSS="profilo metallico che serve come guida di scorrimento per un bozzello  un carrello  una manovra  ecc."/>
@@ -69283,7 +69283,7 @@ bussola&quot;.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="V#1708" PART_OF_SPEECH="V">
-        <GLOSS>allascare completamente una vela per sottrarla alla spinta del vento  facendola &quot;fileggiare&quot; in modo da poterla agevolmente ammainare o terzarolare  oppure per ridurre la velocità del veliero. 
+        <GLOSS>allascare completamente una vela per sottrarla alla spinta del vento  facendola "fileggiare" in modo da poterla agevolmente ammainare o terzarolare  oppure per ridurre la velocità del veliero. 
 </GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="sventare" SENSE="1"/>
@@ -69689,7 +69689,7 @@ bussola&quot;.</GLOSS>
         <GLOSS>prezzo stabilito per determinate merci o prestazioni</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="tariffa" SENSE="1" STATUS="CT">
-                <EXAMPLES>&quot;tariffa ferroviaria&quot;</EXAMPLES>
+                <EXAMPLES>"tariffa ferroviaria"</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -69922,7 +69922,7 @@ bussola&quot;.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#2704" PART_OF_SPEECH="N">
-        <GLOSS>tavola per fare &quot;surfing&quot;</GLOSS>
+        <GLOSS>tavola per fare "surfing"</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="tavola da surf" SENSE="1"/>
             <LITERAL LEMMA="tavola" SENSE="1"/>
@@ -70094,7 +70094,7 @@ bussola&quot;.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1241" PART_OF_SPEECH="N" LEMMA="tifone" SENSE="1" GLOSS="Prendono questo nome i &quot;cicloni&quot; dell'Oceano Indiano e dell'Oceano Pacifico orientale.">
+                <TARGET_WM ID="1241" PART_OF_SPEECH="N" LEMMA="tifone" SENSE="1" GLOSS="Prendono questo nome i "cicloni" dell'Oceano Indiano e dell'Oceano Pacifico orientale.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -70253,7 +70253,7 @@ bussola&quot;.</GLOSS>
         <GLOSS>età  soprattutto quando riferita a bambini molto piccoli  gli anni</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="tempo" SENSE="4" STATUS="CT">
-                <EXAMPLES>&quot;quanto tempo ha questo bambino?&quot;</EXAMPLES>
+                <EXAMPLES>"quanto tempo ha questo bambino?"</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <PLUG-IN_LINKS>
@@ -70953,7 +70953,7 @@ bussola&quot;.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1241" PART_OF_SPEECH="N">
-        <GLOSS>Prendono questo nome i &quot;cicloni&quot; dell'Oceano Indiano e dell'Oceano Pacifico orientale.</GLOSS>
+        <GLOSS>Prendono questo nome i "cicloni" dell'Oceano Indiano e dell'Oceano Pacifico orientale.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="tifone" SENSE="1"/>
         </VARIANTS>
@@ -71716,7 +71716,7 @@ bussola&quot;.</GLOSS>
         <GLOSS>punto cardinale indicato dalla Stella Polare</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="tramontana" SENSE="2" STATUS="CT">
-                <EXAMPLES>&quot;una finestra volta a tramontana&quot;</EXAMPLES>
+                <EXAMPLES>"una finestra volta a tramontana"</EXAMPLES>
             </LITERAL>
             <LITERAL LEMMA="settentrione" SENSE="1" STATUS="CT"/>
             <LITERAL LEMMA="nord" SENSE="1" STATUS="CT"/>
@@ -71760,7 +71760,7 @@ bussola&quot;.</GLOSS>
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="involved_location" ID="33" INV_ID="33">
-                <TARGET_WM ID="384" PART_OF_SPEECH="N" LEMMA="ponte" SENSE="1" GLOSS="ognuno di piani orizzontali che dividono l'interno delle navi nel senso dell'altezza  nelle imbarcazioni da diporto spesso il termine ponte coincide con &quot;coperta&quot;."/>
+                <TARGET_WM ID="384" PART_OF_SPEECH="N" LEMMA="ponte" SENSE="1" GLOSS="ognuno di piani orizzontali che dividono l'interno delle navi nel senso dell'altezza  nelle imbarcazioni da diporto spesso il termine ponte coincide con "coperta"."/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS>
@@ -72352,7 +72352,7 @@ bussola&quot;.</GLOSS>
                 <TARGET_WM ID="421" PART_OF_SPEECH="N" LEMMA="parte" SENSE="1" GLOSS="ciascuno degli elementi o delle parti in cui è diviso un tutto."/>
             </RELATION>
             <RELATION TYPE="has_holonym" ID="12" INV_ID="12">
-                <TARGET_WM ID="1638" PART_OF_SPEECH="N" LEMMA="legnuolo" SENSE="1" GLOSS="Componente delle cime tessili e dei cavi d'acciaio  formato da una serie di fibre (o fili d'acciaio) ritorte chiamate &quot;trefoli&quot;. Unendo e torcendo più legnuoli  normalmente 3 o 4  si ottiene la cima tessile o il cavo d'acciaio."/>
+                <TARGET_WM ID="1638" PART_OF_SPEECH="N" LEMMA="legnuolo" SENSE="1" GLOSS="Componente delle cime tessili e dei cavi d'acciaio  formato da una serie di fibre (o fili d'acciaio) ritorte chiamate "trefoli". Unendo e torcendo più legnuoli  normalmente 3 o 4  si ottiene la cima tessile o il cavo d'acciaio."/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS/>
@@ -72442,7 +72442,7 @@ bussola&quot;.</GLOSS>
                 <TARGET_WM ID="58" PART_OF_SPEECH="N" LEMMA="imbarcazione" SENSE="1" GLOSS="termine generico per indicare barche di piccole e medie dimensioni  utilizzate per diversi scopi (lavoro  piacere  etc.). "/>
             </RELATION>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
-                <TARGET_WM ID="1559" PART_OF_SPEECH="N" LEMMA="pluriscafo" SENSE="1" GLOSS="imbarcazione  normalmente a vela  con due o tre scafi. Viene chiamato anche &quot;multiscafo&quot;. "/>
+                <TARGET_WM ID="1559" PART_OF_SPEECH="N" LEMMA="pluriscafo" SENSE="1" GLOSS="imbarcazione  normalmente a vela  con due o tre scafi. Viene chiamato anche "multiscafo". "/>
             </RELATION>
         </INTERNAL_LINKS>
         <PLUG-IN_LINKS>
@@ -73252,12 +73252,12 @@ bussola&quot;.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1260" PART_OF_SPEECH="N" LEMMA="minuto primo" SENSE="1" GLOSS="sessantesima parte di un grado. Viene anche chiamato sinteticamente &quot;primo&quot;. Si divide ulteriormente in 60 secondi.">
+                <TARGET_WM ID="1260" PART_OF_SPEECH="N" LEMMA="minuto primo" SENSE="1" GLOSS="sessantesima parte di un grado. Viene anche chiamato sinteticamente "primo". Si divide ulteriormente in 60 secondi.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1261" PART_OF_SPEECH="N" LEMMA="minuto secondo" SENSE="1" GLOSS="sessantesima parte di un primo. Viene anche chiamato sinteticamente &quot;secondo&quot;.">
+                <TARGET_WM ID="1261" PART_OF_SPEECH="N" LEMMA="minuto secondo" SENSE="1" GLOSS="sessantesima parte di un primo. Viene anche chiamato sinteticamente "secondo".">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -73608,7 +73608,7 @@ bussola&quot;.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="valersi" SENSE="1"/>
             <LITERAL LEMMA="impiegare" SENSE="1" STATUS="CT">
-                <EXAMPLES>&quot;Impiegare materiali ecologici.&quot; &quot;Impiegare nuovi farmaci per la cura.&quot;</EXAMPLES>
+                <EXAMPLES>"Impiegare materiali ecologici." "Impiegare nuovi farmaci per la cura."</EXAMPLES>
             </LITERAL>
             <LITERAL LEMMA="avvalersi" SENSE="1"/>
             <LITERAL LEMMA="servirsi" SENSE="1"/>
@@ -73644,7 +73644,7 @@ bussola&quot;.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="valersi" SENSE="1"/>
             <LITERAL LEMMA="impiegare" SENSE="1" STATUS="CT">
-                <EXAMPLES>&quot;Impiegare materiali ecologici.&quot; &quot;Impiegare nuovi farmaci per la cura.&quot;</EXAMPLES>
+                <EXAMPLES>"Impiegare materiali ecologici." "Impiegare nuovi farmaci per la cura."</EXAMPLES>
             </LITERAL>
             <LITERAL LEMMA="avvalersi" SENSE="1"/>
             <LITERAL LEMMA="servirsi" SENSE="1"/>
@@ -74390,7 +74390,7 @@ bussola&quot;.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1733" PART_OF_SPEECH="N" LEMMA="spinnaker" SENSE="1" GLOSS="vela di prua di grande superficie e di tessuto leggero  viene usata con venti &quot;portanti&quot;  dal &quot;traverso&quot; fino al &quot;fil di ruota&quot;  la progenitrice di questa vela fu alzata per la prima volta su uno yacht britannico nel 1865.">
+                <TARGET_WM ID="1733" PART_OF_SPEECH="N" LEMMA="spinnaker" SENSE="1" GLOSS="vela di prua di grande superficie e di tessuto leggero  viene usata con venti "portanti"  dal "traverso" fino al "fil di ruota"  la progenitrice di questa vela fu alzata per la prima volta su uno yacht britannico nel 1865.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -74410,12 +74410,12 @@ bussola&quot;.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="341" PART_OF_SPEECH="N" LEMMA="vela aurica" SENSE="1" GLOSS="vela di taglio di forma trapezoidale. Il nome deriva dal latino &quot;auris&quot; = orecchio che ricorda la forma di tale vela.">
+                <TARGET_WM ID="341" PART_OF_SPEECH="N" LEMMA="vela aurica" SENSE="1" GLOSS="vela di taglio di forma trapezoidale. Il nome deriva dal latino "auris" = orecchio che ricorda la forma di tale vela.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="349" PART_OF_SPEECH="N" LEMMA="vela di cappa" SENSE="1" GLOSS="vela di ridotte dimensioni e di tessuto particolarmente robusto che si utilizza per &quot;stare alla cappa&quot; in caso di maltempo.">
+                <TARGET_WM ID="349" PART_OF_SPEECH="N" LEMMA="vela di cappa" SENSE="1" GLOSS="vela di ridotte dimensioni e di tessuto particolarmente robusto che si utilizza per "stare alla cappa" in caso di maltempo.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -74529,7 +74529,7 @@ bussola&quot;.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="role_patient" ID="28" INV_ID="28">
-                <TARGET_WM ID="1479" PART_OF_SPEECH="V" LEMMA="fileggiare" SENSE="1" GLOSS="Il vibrare delle vele quando ricevono il vento &quot;in filo&quot; cioè parallelamente alla loro superficie e non sono pertanto regolate al meglio o non ricevono il vento dalla giusta angolatura. ">
+                <TARGET_WM ID="1479" PART_OF_SPEECH="V" LEMMA="fileggiare" SENSE="1" GLOSS="Il vibrare delle vele quando ricevono il vento "in filo" cioè parallelamente alla loro superficie e non sono pertanto regolate al meglio o non ricevono il vento dalla giusta angolatura. ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -74549,7 +74549,7 @@ bussola&quot;.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="role_patient" ID="28" INV_ID="28">
-                <TARGET_WM ID="1708" PART_OF_SPEECH="V" LEMMA="sventare" SENSE="1" GLOSS="allascare completamente una vela per sottrarla alla spinta del vento  facendola &quot;fileggiare&quot; in modo da poterla agevolmente ammainare o terzarolare  oppure per ridurre la velocità del veliero.  ">
+                <TARGET_WM ID="1708" PART_OF_SPEECH="V" LEMMA="sventare" SENSE="1" GLOSS="allascare completamente una vela per sottrarla alla spinta del vento  facendola "fileggiare" in modo da poterla agevolmente ammainare o terzarolare  oppure per ridurre la velocità del veliero.  ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -74657,7 +74657,7 @@ bussola&quot;.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1670" PART_OF_SPEECH="N">
-        <GLOSS>particolare orientamento delle vele per l'andatura in &quot;fil di ruota&quot;  cioè col vento da poppa. 
+        <GLOSS>particolare orientamento delle vele per l'andatura in "fil di ruota"  cioè col vento da poppa. 
 </GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="vela a farfalla" SENSE="1"/>
@@ -74699,7 +74699,7 @@ bussola&quot;.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#341" PART_OF_SPEECH="N">
-        <GLOSS>vela di taglio di forma trapezoidale. Il nome deriva dal latino &quot;auris&quot; = orecchio che ricorda la forma di tale vela.</GLOSS>
+        <GLOSS>vela di taglio di forma trapezoidale. Il nome deriva dal latino "auris" = orecchio che ricorda la forma di tale vela.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="vela aurica" SENSE="1"/>
         </VARIANTS>
@@ -74727,7 +74727,7 @@ bussola&quot;.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#349" PART_OF_SPEECH="N">
-        <GLOSS>vela di ridotte dimensioni e di tessuto particolarmente robusto che si utilizza per &quot;stare alla cappa&quot; in caso di maltempo.</GLOSS>
+        <GLOSS>vela di ridotte dimensioni e di tessuto particolarmente robusto che si utilizza per "stare alla cappa" in caso di maltempo.</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="vela di cappa" SENSE="1"/>
         </VARIANTS>
@@ -74792,7 +74792,7 @@ bussola&quot;.</GLOSS>
                 <TARGET_WM ID="131" PART_OF_SPEECH="N" LEMMA="vela" SENSE="1" GLOSS="ciascuno dei teli disposti verticalmente a bordo dei velieri in modo da ricevere la pressione del vento per utilizzarla come forza motrice."/>
             </RELATION>
             <RELATION TYPE="has_mero_part" ID="19" INV_ID="19">
-                <TARGET_WM ID="1548" PART_OF_SPEECH="N" LEMMA="penna" SENSE="1" GLOSS="angolo superiore delle vele latine  dei fiocchi e delle vele di strallo  al quale si collega la &quot;drizza&quot; per issare e tesare la vela.">
+                <TARGET_WM ID="1548" PART_OF_SPEECH="N" LEMMA="penna" SENSE="1" GLOSS="angolo superiore delle vele latine  dei fiocchi e delle vele di strallo  al quale si collega la "drizza" per issare e tesare la vela.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -75019,7 +75019,7 @@ bussola&quot;.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_subevent" ID="44" INV_ID="44">
-                <TARGET_WM ID="989" PART_OF_SPEECH="V" LEMMA="bracciare" SENSE="1" GLOSS="far ruotare orizzontalmente i pennoni attorno ai rispettivi punti di unione con l'albero per cambiare l'orientazione delle vele quadre nei velieri antichi. Nei moderni indica la manovra di recuperare il braccio dello spinnaker per &quot;quadrare&quot; il tangone. ">
+                <TARGET_WM ID="989" PART_OF_SPEECH="V" LEMMA="bracciare" SENSE="1" GLOSS="far ruotare orizzontalmente i pennoni attorno ai rispettivi punti di unione con l'albero per cambiare l'orientazione delle vele quadre nei velieri antichi. Nei moderni indica la manovra di recuperare il braccio dello spinnaker per "quadrare" il tangone. ">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -75059,7 +75059,7 @@ bussola&quot;.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_subevent" ID="44" INV_ID="44">
-                <TARGET_WM ID="1655" PART_OF_SPEECH="V" LEMMA="poggiare" SENSE="1" GLOSS="dirigere l'imbarcazione allontanando la prua dalla direzione di provenienza del vento  in modo da navigare con un'andatura più &quot;larga&quot;  cioè con le vele più &quot;lasche&quot;.">
+                <TARGET_WM ID="1655" PART_OF_SPEECH="V" LEMMA="poggiare" SENSE="1" GLOSS="dirigere l'imbarcazione allontanando la prua dalla direzione di provenienza del vento  in modo da navigare con un'andatura più "larga"  cioè con le vele più "lasche".">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -75109,7 +75109,7 @@ bussola&quot;.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="in_manner" ID="66" INV_ID="66">
-                <TARGET_WM ID="348" PART_OF_SPEECH="AV" LEMMA="con le vele a farfalla" SENSE="1" GLOSS="con un particolare orientamento delle vele per l'andatura in &quot;fil di ruota&quot;  cioè col vento da poppa.">
+                <TARGET_WM ID="348" PART_OF_SPEECH="AV" LEMMA="con le vele a farfalla" SENSE="1" GLOSS="con un particolare orientamento delle vele per l'andatura in "fil di ruota"  cioè col vento da poppa.">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -75510,7 +75510,7 @@ bussola&quot;.</GLOSS>
         <GLOSS>cedere ad altri q.c. ricevendone il prezzo  commerciare (anche assol.).</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="vendere" SENSE="1" STATUS="CT">
-                <EXAMPLES>&quot;Vendere frutta.&quot; &quot;Vendere all'asta.&quot;</EXAMPLES>
+                <EXAMPLES>"Vendere frutta." "Vendere all'asta."</EXAMPLES>
             </LITERAL>
         </VARIANTS>
         <INTERNAL_LINKS>
@@ -75626,7 +75626,7 @@ bussola&quot;.</GLOSS>
         <GLOSS>spostamento di masse d'aria atmosferiche dovuto a differenza di temperatura o di pressione  spostamento di masse d'aria atmosferiche causato da differenze di temperatura o di pressione</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="aria" SENSE="5" STATUS="CT">
-                <EXAMPLES>&quot;c'è aria stasera&quot;</EXAMPLES>
+                <EXAMPLES>"c'è aria stasera"</EXAMPLES>
             </LITERAL>
             <LITERAL LEMMA="vento" SENSE="1" STATUS="CT"/>
         </VARIANTS>
@@ -75637,7 +75637,7 @@ bussola&quot;.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="fuzzynym" ID="3" INV_ID="3">
-                <TARGET_WM ID="1006" PART_OF_SPEECH="N" LEMMA="rosa dei venti" SENSE="1" GLOSS="diagramma che raffigura  su un cerchio diviso in sedici parti  i punti cardinali e le direzioni dalle quali spirano i venti. Spesso viene posta nella bussola come &quot;rosa della bussola&quot;.">
+                <TARGET_WM ID="1006" PART_OF_SPEECH="N" LEMMA="rosa dei venti" SENSE="1" GLOSS="diagramma che raffigura  su un cerchio diviso in sedici parti  i punti cardinali e le direzioni dalle quali spirano i venti. Spesso viene posta nella bussola come "rosa della bussola".">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -75716,7 +75716,7 @@ bussola&quot;.</GLOSS>
                 </TARGET_WM>
             </RELATION>
             <RELATION TYPE="has_hyponym" ID="10" INV_ID="10">
-                <TARGET_WM ID="1683" PART_OF_SPEECH="N" LEMMA="vento in poppa" SENSE="1" GLOSS="vento portante proveniente da una direzione vicina alla poppa  che consente di navigare in &quot;fil di ruota&quot;.">
+                <TARGET_WM ID="1683" PART_OF_SPEECH="N" LEMMA="vento in poppa" SENSE="1" GLOSS="vento portante proveniente da una direzione vicina alla poppa  che consente di navigare in "fil di ruota".">
                     <RFEATURES REVERSED="T"/>
                 </TARGET_WM>
             </RELATION>
@@ -75839,7 +75839,7 @@ vento che consente di sviluppare la massima velocità a vela.</GLOSS>
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="fuzzynym" ID="3" INV_ID="3">
-                <TARGET_WM ID="1733" PART_OF_SPEECH="N" LEMMA="spinnaker" SENSE="1" GLOSS="vela di prua di grande superficie e di tessuto leggero  viene usata con venti &quot;portanti&quot;  dal &quot;traverso&quot; fino al &quot;fil di ruota&quot;  la progenitrice di questa vela fu alzata per la prima volta su uno yacht britannico nel 1865."/>
+                <TARGET_WM ID="1733" PART_OF_SPEECH="N" LEMMA="spinnaker" SENSE="1" GLOSS="vela di prua di grande superficie e di tessuto leggero  viene usata con venti "portanti"  dal "traverso" fino al "fil di ruota"  la progenitrice di questa vela fu alzata per la prima volta su uno yacht britannico nel 1865."/>
             </RELATION>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
                 <TARGET_WM ID="224" PART_OF_SPEECH="N" LEMMA="aria" SENSE="5" GLOSS="spostamento di masse d'aria atmosferiche dovuto a differenza di temperatura o di pressione  spostamento di masse d'aria atmosferiche causato da differenze di temperatura o di pressione"/>
@@ -76054,7 +76054,7 @@ vento che consente di sviluppare la massima velocità a vela.</GLOSS>
         </TOP_ONTO>
     </WORD_MEANING>
     <WORD_MEANING ID="N#1683" PART_OF_SPEECH="N">
-        <GLOSS>vento portante proveniente da una direzione vicina alla poppa  che consente di navigare in &quot;fil di ruota&quot;.</GLOSS>
+        <GLOSS>vento portante proveniente da una direzione vicina alla poppa  che consente di navigare in "fil di ruota".</GLOSS>
         <VARIANTS>
             <LITERAL LEMMA="vento in poppa" SENSE="1"/>
         </VARIANTS>
@@ -76172,10 +76172,10 @@ vento che consente di sviluppare la massima velocità a vela.</GLOSS>
         </VARIANTS>
         <INTERNAL_LINKS>
             <RELATION TYPE="near_synonym" ID="1" INV_ID="1">
-                <TARGET_WM ID="1683" PART_OF_SPEECH="N" LEMMA="vento in poppa" SENSE="1" GLOSS="vento portante proveniente da una direzione vicina alla poppa  che consente di navigare in &quot;fil di ruota&quot;."/>
+                <TARGET_WM ID="1683" PART_OF_SPEECH="N" LEMMA="vento in poppa" SENSE="1" GLOSS="vento portante proveniente da una direzione vicina alla poppa  che consente di navigare in "fil di ruota"."/>
             </RELATION>
             <RELATION TYPE="fuzzynym" ID="3" INV_ID="3">
-                <TARGET_WM ID="1733" PART_OF_SPEECH="N" LEMMA="spinnaker" SENSE="1" GLOSS="vela di prua di grande superficie e di tessuto leggero  viene usata con venti &quot;portanti&quot;  dal &quot;traverso&quot; fino al &quot;fil di ruota&quot;  la progenitrice di questa vela fu alzata per la prima volta su uno yacht britannico nel 1865."/>
+                <TARGET_WM ID="1733" PART_OF_SPEECH="N" LEMMA="spinnaker" SENSE="1" GLOSS="vela di prua di grande superficie e di tessuto leggero  viene usata con venti "portanti"  dal "traverso" fino al "fil di ruota"  la progenitrice di questa vela fu alzata per la prima volta su uno yacht britannico nel 1865."/>
             </RELATION>
             <RELATION TYPE="has_hyperonym" ID="8" INV_ID="8">
                 <TARGET_WM ID="224" PART_OF_SPEECH="N" LEMMA="aria" SENSE="5" GLOSS="spostamento di masse d'aria atmosferiche dovuto a differenza di temperatura o di pressione  spostamento di masse d'aria atmosferiche causato da differenze di temperatura o di pressione"/>

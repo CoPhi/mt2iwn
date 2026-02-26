@@ -47,8 +47,8 @@ matches pairs, and writes filtered XML files.
 
 ```python
 transcribe_candidates(
-    'data/MariT_03_24.xml',
-    'data/IWN_03_24.xml',
+    'data/MariT.xml',
+    'data/IWN.xml',
     'results/breakdown.csv',
     'results/MariT_filtered.xml',
     'results/IWN_filtered.xml',

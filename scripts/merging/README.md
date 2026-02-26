@@ -25,7 +25,7 @@ from scripts.merging import merge_and_format_iwn_files, format_xml_with_indentat
 
 ```python
 merge_and_format_iwn_files(
-    'data/IWN_03_24.xml',
+    'data/IWN.xml',
     'results/IWN_updates.xml',
     'results/IWN_pre_merge.xml',
 )

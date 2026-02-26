@@ -50,7 +50,7 @@ Compares the original IWN against the post-merge file and returns:
 
 ```python
 updated, new, new_wm, new_rels = identify_updates_in_iwn(
-    'data/IWN_03_24.xml',
+    'data/IWN.xml',
     'results/IWN_post_merge.xml',
 )
 ```
