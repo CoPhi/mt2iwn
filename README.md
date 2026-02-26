@@ -97,6 +97,24 @@ Each module has a `README.md` with full API documentation:
 
 ---
 
+## Citation
+
+If you use this toolkit in your research, please cite:
+
+[Your Name]. (2026). MT2IWN: MariTerm to ItalWordNet Integration Toolkit 
+(Version 1.0.0) [Software]. https://github.com/CoPhi/mt2iwn
+
+BibTeX:
+```bibtex
+@software{lgaliero2026mt2iwn,
+  author = {[Lucia Galiero]},
+  title = {MT2IWN: MariTerm to ItalWordNet Integration Toolkit},
+  year = {2026},
+  url = {https://github.com/CoPhi/mt2iwn},
+  version = {1.0.0}
+}
+```
+
 ## License
 
 MIT - See repository for details.
