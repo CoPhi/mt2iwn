@@ -5,4 +5,3 @@ dmps
 archive
 .venv
 **/__pycache__
-.gitignore
