@@ -15,7 +15,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from scripts.config import Paths
 from scripts.analysis import identify_updates_in_iwn
-from scripts.plugins import (
+from scripts.plugin import (
     find_glosses_for_new_synsets,
     display_results,
     update_glosses_in_xml,

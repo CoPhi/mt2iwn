@@ -3,3 +3,5 @@ requirements.txt
 scripts/prototypes
 dmps
 archive
+.venv
+**/__pycache__

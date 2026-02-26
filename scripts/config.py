@@ -7,8 +7,8 @@ import xml.etree.ElementTree as ET
 
 class Paths:
     # Input
-    MARIT = 'data/MariT_03_24.xml'
-    IWN = 'data/IWN_03_24.xml'
+    MARIT = 'data/MariT.xml'
+    IWN = 'data/IWN.xml'
 
     # Intermediate
     CANDIDATES_CSV = 'results/candidates.csv'

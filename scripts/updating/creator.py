@@ -109,4 +109,4 @@ def create_or_merge_word_meaning(lemma, sense, existing_ids, mari_eq_links, mari
             if ref.get('gloss'):
                 target_wm.set('GLOSS', ref['gloss'])
 
-    return word_meaning, word_meaning_idv
+    return word_meaning, word_meaning_id
