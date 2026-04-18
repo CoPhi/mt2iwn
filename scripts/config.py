@@ -4,6 +4,22 @@ Centralized configuration for MT2IWN pipeline.
 
 import xml.etree.ElementTree as ET
 
+# ---------------------------------------------------------------------------
+# Scoring thresholds
+# These values must be identical to whatever filter.py (Stage 3) uses so
+# that audit.py reproduces the same 747 / 410 split when run on the same
+# breakdown.csv.
+# ---------------------------------------------------------------------------
+ 
+GLOSS_HIGH_THRESHOLD  = 0.43   # Gate A: accepted on gloss similarity alone
+GLOSS_LOW_THRESHOLD   = 0.13   # Gate B: floor on gloss when relations help
+REL_SUPPORT_THRESHOLD = 0.09   # Gate B: minimum relation similarity
+ 
+# ---------------------------------------------------------------------------
+# Audit output directory (used by scripts/audit.py as default --out-dir)
+# ---------------------------------------------------------------------------
+ 
+AUDIT_OUT_DIR = "results/audit"
 
 class Paths:
     # Input
@@ -34,3 +50,4 @@ class Config:
 
 def parse_xml(file_path):
     return ET.parse(file_path).getroot()
+
