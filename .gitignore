@@ -5,3 +5,5 @@ dmps
 archive
 .venv
 **/__pycache__
+scripts/audit_cli.py
+scripts/analysis/audit.py
