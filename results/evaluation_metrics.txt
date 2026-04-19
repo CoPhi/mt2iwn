@@ -1,0 +1,72 @@
+======================================================================
+mt2iwn — EVALUATION METRICS REPORT
+Generated      : 2026-04-20 00:43:13
+scikit-learn   : 1.8.0
+======================================================================
+
+PIPELINE CONTEXT
+----------------------------------------------------------------------
+Total candidates          :   1157
+Accepted by algorithm     :    747
+Rejected by algorithm     :    410
+Manually reviewed (sample):    400
+
+FN estimation method : direct count from post-hoc corrections (internship report §3.3)
+
+CONFUSION MATRIX  (entered values — floats rounded to int for sklearn)
+----------------------------------------------------------------------
+                                   Predicted +   Predicted -
+  Actual Positive (truly correct)           733           302
+  Actual Negative (truly wrong)             14           108
+
+  TP : 733
+  FP : 14
+  FN : 302
+  TN : 108
+  Total : 1157
+
+  Predicted positive (accepted)     : 747
+  Predicted negative (rejected)     : 410
+  Actual positive (true matches)    : 1035
+  Actual negative (true non-matches): 122
+
+METRICS  (computed via scikit-learn)
+----------------------------------------------------------------------
+  precision_score  : 0.98  [ 98.13% ]
+    → of all accepted pairs, this fraction was correct
+
+  recall_score     : 0.71  [ 70.82% ]
+    → of all truly correct pairs, this fraction was found
+
+  error_rate       : 0.02  [ 1.87% ]
+    → 1 - precision; fraction of accepted pairs that were wrong
+
+  accuracy_score   : 0.73  [ 72.69% ]
+    → interpret with caution: TN is estimated, classes are imbalanced
+
+F-SCORES  (sklearn.metrics.fbeta_score, zero_division=0)
+----------------------------------------------------------------------
+  fbeta_score(beta=0.5 )  (precision-weighted   )  : 0.91
+  fbeta_score(beta=1.0 )  (balanced             )  : 0.82
+  fbeta_score(beta=2.0 )  (recall-weighted      )  : 0.75
+
+  Formula: F_beta = (1 + beta²) × precision × recall
+                    ────────────────────────────────
+                    beta² × precision + recall
+
+  F0.5  weights precision — use when incorrect ItalWordNet updates
+        are costlier than missing some valid matches.
+  F1    balanced — standard publication default.
+  F2    weights recall — use when coverage matters most.
+
+INTERPRETATION NOTES
+----------------------------------------------------------------------
+  Metrics cover the scoring + threshold stage only (Stage 2 → 3).
+  Post-hoc corrections applied in finalize.py are not reflected.
+
+  FN is an estimate. Re-run with FN ± 10 to gauge recall sensitivity.
+
+  TN=0 in the default configuration because rejected pairs were not
+  exhaustively reviewed. Accuracy will appear inflated if TN is large.
+
+======================================================================

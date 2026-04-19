@@ -1,51 +1,45 @@
 # MT2IWN
+
 **MariTerm to ItalWordNet Mapping: Complete Lexical Integration Pipeline**
-Modular Python toolkit for extracting, scoring, filtering, and integrating
-shared lemmas between MariTerm (maritime terminology) and ItalWordNet (Italian
-WordNet). Processes XML-encoded lexical resources through a seven-stage pipeline
-from candidate identification to finalized bidirectional plugin links, with
-post-pipeline evaluation utilities.
+
+Modular Python toolkit for extracting, scoring, filtering, and integrating shared lemmas between MariTerm (maritime terminology) and ItalWordNet (Italian WordNet). Processes XML-encoded lexical resources through a seven-stage pipeline from candidate identification to finalized bidirectional plugin links, with optional analysis and reporting utilities.
 
 ---
 
 ## Pipeline Overview
 
-```
-Stage 1  candidates.py   MariT.xml + IWN.xml  → candidates.csv
-Stage 2  score.py        candidates.csv        → breakdown.csv (747 accepted)
-                                                  breakdown_rejected.csv (410 rejected)
-                                                  matched_breakdown.txt
-                                                  rejected_breakdown.txt
-Stage 3  filter.py       breakdown.csv         → MariT_filtered.xml, IWN_filtered.xml
-Stage 4  update.py       filtered XMLs         → IWN_updates.xml
-Stage 5  merge.py        IWN_updates.xml       → IWN_pre_merge.xml
-Stage 6  analyze.py      IWN_pre_merge.xml     → console report
-Stage 7  finalize.py     IWN_post_merge.xml    → IWN_final.xml, MariT_final.xml
-```
-
-Stage 2 scores all 1,157 candidates, writes accepted and rejected rows to
-separate CSVs, and immediately generates the two .txt breakdown reports.
-`breakdown.csv` (accepted only) is unchanged for downstream compatibility with
-Stage 3; `breakdown_rejected.csv` is a new parallel output.
-
-### Evaluation Utilities
-
-These scripts operate on Stage 2 outputs and are run independently of the
-main sequence.
+### Core Pipeline Stages
 
 ```
-audit.py    breakdown.csv + breakdown_rejected.csv  → matched_breakdown.txt,
-                                                       rejected_breakdown.txt
-metrics.py  manual counts                           → evaluation_metrics.txt
+Stage 1  candidates.py   MariT.xml + IWN.xml → candidates.csv
+Stage 2  score.py        candidates.csv       → breakdown.csv
+Stage 3  filter.py       breakdown.csv        → MariT_filtered.xml, IWN_filtered.xml
+Stage 4  update.py       filtered XMLs        → IWN_updates.xml
+Stage 5  merge.py        IWN_updates.xml      → IWN_pre_merge.xml
+Stage 6  analyze.py      IWN_pre_merge.xml    → console report
+Stage 7  finalize.py     IWN_post_merge.xml   → IWN_final.xml, MariT_final.xml
 ```
 
-`audit.py` reads both Stage 2 CSVs, re-classifies all 1,157 rows with
-whatever thresholds you supply, and writes fresh .txt files. Use it for
-threshold sensitivity experiments without re-running scoring.
+### Optional Analysis Stage
 
-`metrics.py` computes precision, recall, F1 / F-beta and related metrics from
-manually entered confusion-matrix counts. Missing values are prompted
-interactively if not supplied via flags.
+**Stage 2.5 (Optional): `report.py`** - Match Classification Reports
+
+Generates detailed breakdowns showing why each match was accepted or rejected. Does not affect pipeline output - pure analysis/reporting tool.
+
+```bash
+python scripts/report.py
+```
+
+**Input:** `results/breakdown.csv` (from score.py)  
+**Output:** 
+- `results/reports/accepted_matches.txt` - Detailed breakdown of accepted pairs with full score components
+- `results/reports/rejected_matches.txt` - Detailed breakdown of rejected pairs with rejection reasons
+
+**Use cases:**
+- Understanding matching algorithm behavior
+- Identifying false positive/negative patterns
+- Threshold tuning and validation
+- Documentation for papers and reports
 
 ---
 
@@ -53,37 +47,33 @@ interactively if not supplied via flags.
 
 ```
 MT2IWN/
-├── data/                      XML input files (not in repo)
-├── results/
-│   ├── breakdown.csv              747 accepted rows (Stage 2)
-│   ├── breakdown_rejected.csv     410 rejected rows (Stage 2, new)
-│   ├── matched_breakdown.txt      Score report — accepted (Stage 2, new)
-│   ├── rejected_breakdown.txt     Score report — rejected (Stage 2, new)
-│   └── audit/                     Re-analysis outputs (audit.py, metrics.py)
+├── data/                      XML input files 
+├── results/                   Generated outputs
+│   ├── candidates.csv
+│   ├── breakdown.csv
 ├── scripts/
-│   ├── config.py              Paths, thresholds (GLOSS_HIGH/LOW, REL_SUPPORT),
-│   │                          BREAKDOWN_CSV, BREAKDOWN_REJECTED_CSV, AUDIT_OUT_DIR
+│   ├── config.py              Paths, Config, parse_xml, threshold constants
 │   ├── candidates.py          CLI — Stage 1
 │   ├── score.py               CLI — Stage 2
+│   ├── report.py              CLI — Optional Stage 2.5 (NEW)
 │   ├── filter.py              CLI — Stage 3
 │   ├── update.py              CLI — Stage 4
 │   ├── merge.py               CLI — Stage 5
 │   ├── analyze.py             CLI — Stage 6
 │   ├── finalize.py            CLI — Stage 7
-│   ├── audit.py               CLI — Threshold re-analysis (evaluation utility)
-│   ├── metrics.py             CLI — Evaluation metrics (evaluation utility)
 │   ├── extraction/            Lemma extraction module
 │   ├── similarity/            Normalization and scoring
 │   ├── matching/              Word meaning matching
-│   │   └── report.py          format_block(), write_breakdown_txts()
+│   │   ├── matcher.py         Core matching algorithm
+│   │   ├── normalizer.py      Gloss preprocessing
+│   │   └── writer.py          Output formatting
 │   ├── filtering/             XML filtering and transcription
 │   ├── updating/              IWN entry creation and update
 │   ├── merging/               File merging and formatting
-│   ├── analysis/              Post-hoc checks and evaluation
-│   │   ├── audit.py           classify(), build_report_blocks(),
-│   │   │                      compute_rejection_stats(), format_entry()
-│   │   └── metrics.py         confusion_matrix(), compute_metrics(),
-│   │                          format_report()
+│   ├── analysis/              Post-hoc checks and reporting
+│   │   ├── audit.py           Post-merge validation
+│   │   ├── identifier.py      Update identification
+│   │   └── report.py          Match classification and formatting
 │   └── plugins/               Plugin link finalization
 └── README.md
 ```
@@ -93,8 +83,8 @@ MT2IWN/
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/MT2IWN.git
-cd MT2IWN
+git clone https://github.com/CoPhi/mt2iwn.git
+cd mt2iwn
 pip install pandas scikit-learn numpy
 ```
 
@@ -102,10 +92,31 @@ Python 3.8+ required. No other external dependencies.
 
 ---
 
+## Configuration
+
+All threshold values and paths are defined in `scripts/config.py`:
+
+| Constant | Default | Used By | Purpose |
+|----------|---------|---------|---------|
+| `GLOSS_HIGH_THRESHOLD` | 0.43 | score.py, filter.py, report.py | Gate A: Accept on high gloss similarity alone |
+| `GLOSS_LOW_THRESHOLD` | 0.13 | score.py, filter.py, report.py | Gate B: Minimum gloss with relation support |
+| `REL_SUPPORT_THRESHOLD` | 0.09 | score.py, filter.py, report.py | Gate B: Minimum relation score |
+| `REPORT_OUT_DIR` | results/reports/ | report.py | Report output location |
+
+**Matching constraints:**
+- **One-to-one mapping**: Each MariTerm sense matches to at most one IWN sense, and vice versa
+- **Candidate pair constraint**: Only (MariTerm ID, IWN ID) pairs from candidates.csv are scored
+- **Two-gate threshold logic**: Matches pass via high gloss similarity (Gate A) OR moderate gloss + strong relation support (Gate B)
+
+To change thresholds, edit these values in `config.py` - all relevant stages will use the updated values automatically.
+
+---
+
 ## Quick Start
 
 Place `MariT_03_24.xml` and `IWN_03_24.xml` in `data/`, then run each stage:
 
+### Core Pipeline
 ```bash
 python scripts/candidates.py
 python scripts/score.py
@@ -116,55 +127,21 @@ python scripts/analyze.py
 python scripts/finalize.py
 ```
 
-All scripts use the default paths from `scripts/config.py`.
-Run any script with `--help` to see all options.
-
-### Breakdown reports
-
-`score.py` writes the .txt reports automatically. To re-generate them with
-different thresholds (without re-running scoring):
+### Optional: Generate Match Reports
 
 ```bash
-# Default thresholds — output identical to score.py's
-python scripts/audit.py
+# Generate detailed acceptance/rejection reports
+python scripts/report.py
 
-# Threshold experiment
-python scripts/audit.py --gloss-high 0.45 --gloss-low 0.10 --out-dir results/audit_v2
+# Use custom thresholds
+python scripts/report.py --gloss-high 0.45 --out-dir results/custom_reports/
 
 # See all options
-python scripts/audit.py --help
+python scripts/report.py --help
 ```
 
-### Evaluation metrics
-
-```bash
-# Fully interactive — prompts for TP, FP, FN, TN with explanations
-python scripts/metrics.py
-
-# Fully scripted
-python scripts/metrics.py --tp 386 --fp 14 --fn 10 --tn 0 --no-interactive
-
-# Partial flags — missing values are prompted
-python scripts/metrics.py --tp 386 --fp 14
-```
-
----
-
-## config.py — Shared Constants
-
-`scripts/config.py` holds all paths and threshold values used across stages.
-The evaluation utilities read thresholds from config so the audit reproduces
-the same 747 / 410 split as Stage 3.
-
-| Constant                  | Default                          | Used by                        |
-|---------------------------|----------------------------------|--------------------------------|
-| `GLOSS_HIGH_THRESHOLD`    | 0.43                             | score.py, filter.py, audit.py  |
-| `GLOSS_LOW_THRESHOLD`     | 0.13                             | score.py, filter.py, audit.py  |
-| `REL_SUPPORT_THRESHOLD`   | 0.09                             | score.py, filter.py, audit.py  |
-| `BREAKDOWN_CSV`           | `results/breakdown.csv`          | score.py, filter.py, audit.py  |
-| `BREAKDOWN_REJECTED_CSV`  | `results/breakdown_rejected.csv` | score.py, audit.py             |
-| `BREAKDOWN_REPORT_DIR`    | `results`                        | score.py                       |
-| `AUDIT_OUT_DIR`           | `results/audit`                  | audit.py, metrics.py           |
+All scripts use the default paths from `scripts/config.py`.
+Run any script with `--help` to see all options.
 
 ---
 
@@ -172,14 +149,37 @@ the same 747 / 410 split as Stage 3.
 
 Each module has a `README.md` with full API documentation:
 
-- `scripts/extraction/README.md`
-- `scripts/similarity/README.md`
-- `scripts/matching/README.md`
-- `scripts/filtering/README.md`
-- `scripts/updating/README.md`
-- `scripts/merging/README.md`
-- `scripts/analysis/README.md`
-- `scripts/plugins/README.md`
+- `scripts/extraction/README.md` - Lemma extraction from XML
+- `scripts/similarity/README.md` - Normalization and TF-IDF scoring
+- `scripts/matching/README.md` - One-to-one sense matching with constraints
+- `scripts/filtering/README.md` - XML filtering and transcription
+- `scripts/updating/README.md` - IWN entry creation
+- `scripts/merging/README.md` - File merging and formatting
+- `scripts/analysis/README.md` - Post-hoc validation and reporting
+- `scripts/plugins/README.md` - Plugin link finalization
+
+---
+
+## Key Features
+
+### Matching Algorithm
+- **TF-IDF-based gloss similarity** with weighted mean scoring
+- **Relation-aware scoring** with configurable bonus/malus weights
+- **One-to-one constraint enforcement** - no duplicate matches
+- **Candidate pair constraint** - only scores pre-specified pairs from candidates.csv
+- **Two-gate threshold logic** for balanced precision/recall
+
+### Quality Controls
+- **Multi-stage validation**: Scoring → filtering → updating → merging → analysis
+- **One-to-one mapping verification**: Each sense matches at most once
+- **Manual validation support**: Post-hoc inspection of merged XML
+- **Detailed reporting**: Full score breakdowns for all candidates
+
+### Output Formats
+- **Enhanced XML resources** with bidirectional plugin links
+- **CSV breakdowns** with complete scoring details
+- **Text reports** with human-readable match classifications
+- **Console summaries** for quick pipeline monitoring
 
 ---
 
@@ -188,23 +188,50 @@ Each module has a `README.md` with full API documentation:
 If you use this toolkit in your research, please cite:
 
 ### Software Citation
+
 Galiero, L. & Boschetti, F. (2026). *MT2IWN: MariTerm to ItalWordNet Integration Toolkit* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.18788538
 
 **BibTeX:**
 ```bibtex
 @software{galiero2026mt2iwn,
-  author = {Galiero, Lucia}, {Boschetti, Federico}
+  author = {Galiero, Lucia and Boschetti, Federico},
   title = {{MT2IWN}: {MariTerm} to {ItalWordNet} Integration Toolkit},
   year = {2026},
   publisher = {Zenodo},
   version = {1.0.0},
-  doi = {https://doi.org/10.5281/zenodo.18788538},
+  doi = {10.5281/zenodo.18788538},
   url = {https://github.com/CoPhi/mt2iwn}
 }
 ```
 
+### Associated Publication
+
+Galiero, L., Boschetti, F., Del Gratta, R., Del Grosso, A. M., & Monachini, M. (2026). Reviving Legacy WordNet-like Resources: MariTerm and ItalWordNet Renewal through Mutual Expansion and Plug-in Links. *Journal of Open Humanities Data*.
+
+---
+
 ## License
 
-MIT - See repository for details.
+MIT - See LICENSE file for details.
 
-**Last Updated:** April 19th, 2026
+---
+
+## Contributing
+
+This toolkit was developed as part of a research project at CNR-ILC. For bug reports, feature requests, or contributions, please open an issue or pull request on GitHub.
+
+---
+
+## Changelog
+
+### Version 1.0.0 (2026-04-20)
+- Initial release
+- Seven-stage integration pipeline
+- Optional reporting utilities
+- One-to-one matching constraint enforcement
+- Candidate pair constraint implementation
+- Configurable threshold system
+
+---
+
+**Last Updated:** April 20th, 2026
