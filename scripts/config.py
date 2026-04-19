@@ -4,22 +4,25 @@ Centralized configuration for MT2IWN pipeline.
 
 import xml.etree.ElementTree as ET
 
+
 # ---------------------------------------------------------------------------
 # Scoring thresholds
 # These values must be identical to whatever filter.py (Stage 3) uses so
 # that audit.py reproduces the same 747 / 410 split when run on the same
 # breakdown.csv.
 # ---------------------------------------------------------------------------
- 
+
 GLOSS_HIGH_THRESHOLD  = 0.43   # Gate A: accepted on gloss similarity alone
 GLOSS_LOW_THRESHOLD   = 0.13   # Gate B: floor on gloss when relations help
 REL_SUPPORT_THRESHOLD = 0.09   # Gate B: minimum relation similarity
- 
+
 # ---------------------------------------------------------------------------
-# Audit output directory (used by scripts/audit.py as default --out-dir)
+# File paths (used by score.py, filter.py, audit.py)
 # ---------------------------------------------------------------------------
- 
-AUDIT_OUT_DIR = "results/audit"
+
+BREAKDOWN_CSV          = "results/breakdown.csv"           # 747 accepted rows
+BREAKDOWN_REJECTED_CSV = "results/breakdown_rejected.csv"  # 410 rejected rows (NEW)
+BREAKDOWN_REPORT_DIR   = "results"                         # matched/rejected_breakdown.txt (NEW)AUDIT_OUT_DIR          = "results/audit"                   # audit.py re-analysis outputs
 
 class Paths:
     # Input
@@ -29,6 +32,8 @@ class Paths:
     # Intermediate
     CANDIDATES_CSV = 'results/candidates.csv'
     BREAKDOWN_CSV = 'results/breakdown.csv'
+    BREAKDOWN_REJECTED_CSV = "results/breakdown_rejected.csv"
+    BREAKDOWN_REPORT_DIR   = "results"                         # matched/rejected_breakdown.txt (NEW)
     FILT_MART = 'results/MariT_filtered.xml'
     FILT_IWN = 'results/IWN_filtered.xml'
     UPDATES = 'results/IWN_updates.xml'
