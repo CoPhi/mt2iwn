@@ -10,10 +10,10 @@ console summary — nothing else.
 Usage modes
 -----------
 1. Fully non-interactive (CI / reproducible runs):
-       python scripts/metrics.py --tp 380 --fp 20 --fn 10 --tn 0
+       python scripts/metrics.py --tp 733 --fp 14 --fn 60 --tn 350
 
 2. Partially specified — missing values are prompted interactively:
-       python scripts/metrics.py --tp 380 --fp 20
+       python scripts/metrics.py --tp 733 --fp 14
        # → will ask for FN and TN at the terminal
 
 3. Fully interactive — no flags at all:
@@ -21,20 +21,16 @@ Usage modes
        # → walks through every value with explanations
 
 4. Custom F-beta values:
-       python scripts/metrics.py --tp 380 --fp 20 --fn 10 --tn 0 \
+       python scripts/metrics.py --tp 733 --fp 14 --fn 60 --tn 350 \
            --betas 0.5 1.0 2.0 3.0
 
 5. Custom output path:
-       python scripts/metrics.py --tp 380 --fp 20 --fn 10 --tn 0 \
+       python scripts/metrics.py --tp 733 --fp 14 --fn 60 --tn 350 \
            --out results/metrics/evaluation.txt
 
 Default values
 --------------
-The defaults come from the internship report (post-hoc section):
-  TP = 386   (400 reviewed − 14 wrong)
-  FP =  14   (10 incorrect alignments + 4 removed as redundant)
-  FN =  10   (correctly matched but rejected by scorer)
-  TN =   0   (rejected pairs not reviewed in full)
+The defaults set to 0
 
 All defaults can be overridden interactively or via flags.
 """
@@ -63,17 +59,17 @@ from analysis.metrics import (
 # results, not pipeline parameters.  They live here as named constants so
 # the interactive prompt can display them clearly.
 
-_DEFAULT_TP = 386   # 400 reviewed − 14 incorrect alignments/removals
-_DEFAULT_FP = 14    # 10 incorrectly aligned + 4 removed as redundant
-_DEFAULT_FN = 10    # 10 rejected pairs that were actually correct
-_DEFAULT_TN = 0     # rejected pairs were not exhaustively reviewed
+_DEFAULT_TP = 0 
+_DEFAULT_FP = 0
+_DEFAULT_FN = 0
+_DEFAULT_TN = 0
 
 _DEFAULT_BETAS = [0.5, 1.0, 2.0]
 
-_DEFAULT_TOTAL_CANDIDATES = 1157
-_DEFAULT_TOTAL_ACCEPTED   = 747
-_DEFAULT_TOTAL_REJECTED   = 410
-_DEFAULT_SAMPLE_SIZE      = 400
+_DEFAULT_TOTAL_CANDIDATES = 0
+_DEFAULT_TOTAL_ACCEPTED   = 0
+_DEFAULT_TOTAL_REJECTED   = 0
+_DEFAULT_SAMPLE_SIZE      = 0
 
 
 # ---------------------------------------------------------------------------
@@ -121,22 +117,14 @@ def _prompt_int(
             print("  Invalid input.  Enter a number.")
 
 
-def _prompt_notes() -> str:
-    """Ask for optional free-text notes to embed in the report."""
-    print()
-    print("  Notes (optional) — describe your sampling method or")
-    print("  any caveats about the FN estimate.  Leave blank to skip.")
-    return input("  Notes: ").strip()
-
-
 def _prompt_fn_method() -> str:
     """Ask how the FN estimate was derived."""
     print()
     print("  FN estimation method — how was the false-negative count determined?")
     print("  Examples:")
     print("    'manual spot-check of 50 rejected pairs, scaled to 410'")
-    print("    'direct count from post-hoc review (internship report §3.3)'")
-    default = "direct count from post-hoc corrections (internship report §3.3)"
+    print("    'direct count from post-hoc review'")
+    default = "direct count from post-hoc corrections"
     raw = input(f"  Method [press Enter to use default]: ").strip()
     return raw if raw else default
 
@@ -208,10 +196,6 @@ def _interactive_prompt(args: argparse.Namespace) -> argparse.Namespace:
     # ---- FN estimation method ----
     if args.fn_method is None:
         args.fn_method = _prompt_fn_method()
-
-    # ---- optional notes ----
-    if args.notes is None:
-        args.notes = _prompt_notes()
 
     return args
 

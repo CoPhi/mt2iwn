@@ -253,7 +253,7 @@ def format_report(cm: dict, metrics: dict, meta: dict) -> str:
     cm      : dict — output of confusion_matrix()
     metrics : dict — output of compute_metrics()
     meta    : dict — contextual information added by the CLI:
-                     keys: 'timestamp', 'notes', 'sample_size',
+                     keys: 'timestamp', 'sample_size',
                            'total_candidates', 'total_accepted',
                            'total_rejected', 'fn_estimation_method'
 
@@ -288,9 +288,6 @@ def format_report(cm: dict, metrics: dict, meta: dict) -> str:
         "",
     ]
 
-    notes = meta.get("notes", "").strip()
-    if notes:
-        lines += ["NOTES", sep2, notes, ""]
 
     # ---- confusion matrix ----
     lines += [
