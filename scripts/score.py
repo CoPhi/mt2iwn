@@ -95,17 +95,19 @@ def score_candidates(MariT, ItalWN, candidates_file):
         if any(nl in candidate_lemmas for nl in wm['normalized_lemmas'])
     ]
 
-    # NEW: pass return_rejected=True to capture pairs that failed the gates
     results, rejected_tuples = match_lemmas_with_alternate_senses(
         mari_term_wms, ital_wn_wms,
         return_rejected=True,
     )
 
-    print_and_return_best_match(results)   # unchanged — prints accepted to terminal
+    print_and_return_best_match(results)            # accepted matches
+    print_and_return_best_match(rejected_tuples)    # rejected matches
 
-    # Unwrap (match_dict, []) tuples → plain dicts for CSV / report writing
-    rejected = [match for match, _ in rejected_tuples]   # NEW
-    return rejected                                       # NEW
+    total = len(results) + len(rejected_tuples)
+    print(f"\nTotal matches identified (accepted + rejected): {total}")
+
+    rejected = [match for match, _ in rejected_tuples]
+    return rejected
 
 
 # ---------------------------------------------------------------------------

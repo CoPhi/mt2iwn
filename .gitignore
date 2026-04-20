@@ -5,8 +5,4 @@ dmps
 archive
 .venv
 **/__pycache__
-scripts/audit_cli.py
-scripts/analysis/audit.py
-results/matched_breakdown.txt
-results/rejected_breakdown.txt
-results/breakdown_rejected.csv
+

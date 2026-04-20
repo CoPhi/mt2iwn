@@ -17,39 +17,16 @@ def match_lemmas_with_alternate_senses(mari_term_wms, ital_wn_wms,
 
     Parameters
     ----------
-    mari_term_wms   : list[dict]  — word meanings from MariTerm XML
-    ital_wn_wms     : list[dict]  — word meanings from ItalWordNet XML
+    mari_term_wms   : list[dict]
+    ital_wn_wms     : list[dict]
     return_rejected : bool
-        False (default) → returns only accepted results; all existing callers
+        False (default) → returns only accepted results; existing callers
         are completely unaffected.
         True → returns (results, rejected).
-
-    Returns
-    -------
-    return_rejected=False  →  results                list of (dict, [])
-    return_rejected=True   →  (results, rejected)    both lists of (dict, [])
-
-    Rejected set
-    ------------
-    Keyed by ItalWN ID, mirroring best_matches_per_ital_wn exactly.
-    Multiple MariTerm senses can compete for the same IWN sense; only the
-    highest-scoring failed attempt per IWN ID is kept.  An IWN ID that was
-    accepted by any MariTerm sense is excluded from rejected entirely.
-    Result: each IWN sense appears in at most one of the two outputs.
-
-    Threshold gates (unchanged)
-    ---------------------------
-    Gate A  Gloss S. >= 0.43  OR  T. Relation S. > 0
-    Gate B  Gloss S. >= 0.13  AND  (Gloss S. < 0.43  OR  T. Relation S. > 0)
-    Gate C  T. Relation S. > 0.09
-            OR  0.14 <= Gloss S. < 0.19
-            OR  0.24 <= Gloss S. < 0.29
-            OR  Gloss S. >= 0.44
     """
     results = []
-    best_matches_per_ital_wn = {}         # ItalWN ID → accepted match (unchanged)
-    best_rejected_per_iwn_id: dict = {}   # ItalWN ID → best failed attempt
-
+    best_matches_per_ital_wn = {}
+    rejected_matches = {}          # ItalWN ID → best failed match
     seen_pairs = set()
 
     if not mari_term_wms or not ital_wn_wms:
@@ -135,10 +112,9 @@ def match_lemmas_with_alternate_senses(mari_term_wms, ital_wn_wms,
                     best_total_similarity = total_similarity
                     best_match = current_match
 
-        # Apply the matching criteria based on thresholds (unchanged)
+        # Apply the matching criteria based on thresholds
         if best_match:
             ital_wn_id = best_match.get('ItalWN ID')
-
             if best_match['Gloss S. (WM)'] >= 0.43 or best_match['T. Relation S.'] > 0:
                 best_matches_per_ital_wn[ital_wn_id] = best_match
             elif best_match['Gloss S. (WM)'] >= 0.13 and (best_match['Gloss S. (WM)'] < 0.43 or best_match['T. Relation S.'] > 0):
@@ -146,37 +122,13 @@ def match_lemmas_with_alternate_senses(mari_term_wms, ital_wn_wms,
             elif best_match['T. Relation S.'] > 0.09 or (0.14 <= best_match['Gloss S. (WM)'] < 0.19) or (0.24 <= best_match['Gloss S. (WM)'] < 0.29) or best_match['Gloss S. (WM)'] >= 0.44:
                 best_matches_per_ital_wn[ital_wn_id] = best_match
             else:
-                # Failed all gates.
-                # Keep the highest-scoring failed attempt for this IWN ID so
-                # each IWN sense appears at most once in the rejected output,
-                # matched to whichever MariTerm sense scored best against it.
-                existing = best_rejected_per_iwn_id.get(ital_wn_id)
-                if existing is None or best_match['Total S.'] > existing['Total S.']:
-                    best_rejected_per_iwn_id[ital_wn_id] = best_match
+                rejected_matches[ital_wn_id] = best_match
 
     results = [(match, []) for match in best_matches_per_ital_wn.values()]
 
     if return_rejected:
-        # Step 1: exclude IWN IDs that were accepted by any MariTerm sense.
-        rejected_by_iwn = {
-            iwn_id: match
-            for iwn_id, match in best_rejected_per_iwn_id.items()
-            if iwn_id not in best_matches_per_ital_wn
-        }
-
-        # Step 2: deduplicate by Literal Lemma.
-        # A lemma with two failing MariTerm senses each pointing to a
-        # different IWN ID produces two entries after Step 1 — one per
-        # IWN ID — but should appear only once in the rejected output.
-        # Keep the row with the highest Total S. (closest miss).
-        best_per_lemma: dict[str, dict] = {}
-        for match in rejected_by_iwn.values():
-            lemma = match.get("Literal Lemma", "")
-            existing = best_per_lemma.get(lemma)
-            if existing is None or match["Total S."] > existing["Total S."]:
-                best_per_lemma[lemma] = match
-
-        rejected = [(match, []) for match in best_per_lemma.values()]
+        rejected = [(match, []) for match in rejected_matches.values()
+                    if match.get('ItalWN ID') not in best_matches_per_ital_wn]
         return results, rejected
 
     return results

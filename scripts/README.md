@@ -43,7 +43,6 @@ Score all candidate pairs using TF-IDF and relation similarity.
 **Key Features:**
 - TF-IDF gloss similarity (Jaccard + bidirectional cosine)
 - Relation-aware scoring (bonus/malus/no-gloss)
-- **Candidate pair constraint**: Only scores (MariTerm ID, IWN ID) pairs from CSV
 - **One-to-one enforcement**: Each sense matches at most once
 
 **Usage:**
@@ -54,7 +53,6 @@ python scripts/score.py --candidates results/custom_candidates.csv
 
 **Modules:** `similarity/`, `matching/`
 
-**Important:** This stage enforces the candidate pair constraint and one-to-one mapping. The output breakdown.csv contains exactly the candidates from candidates.csv, each scored only once.
 
 ---
 

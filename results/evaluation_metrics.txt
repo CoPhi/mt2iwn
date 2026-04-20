@@ -1,6 +1,6 @@
 ======================================================================
 mt2iwn — EVALUATION METRICS REPORT
-Generated      : 2026-04-20 01:18:38
+Generated      : 2026-04-20 10:12:41
 scikit-learn   : 1.8.0
 ======================================================================
 
@@ -16,39 +16,39 @@ FN estimation method : direct count from post-hoc corrections
 CONFUSION MATRIX  (entered values — floats rounded to int for sklearn)
 ----------------------------------------------------------------------
                                    Predicted +   Predicted -
-  Actual Positive (truly correct)           733            60
-  Actual Negative (truly wrong)             14           350
+  Actual Positive (truly correct)           733           314
+  Actual Negative (truly wrong)             14           206
 
   TP : 733
   FP : 14
-  FN : 60
-  TN : 350
-  Total : 1157
+  FN : 314
+  TN : 206
+  Total : 1267
 
   Predicted positive (accepted)     : 747
-  Predicted negative (rejected)     : 410
-  Actual positive (true matches)    : 793
-  Actual negative (true non-matches): 364
+  Predicted negative (rejected)     : 520
+  Actual positive (true matches)    : 1047
+  Actual negative (true non-matches): 220
 
 METRICS  (computed via scikit-learn)
 ----------------------------------------------------------------------
   precision_score  : 0.98  [ 98.13% ]
     → of all accepted pairs, this fraction was correct
 
-  recall_score     : 0.92  [ 92.43% ]
+  recall_score     : 0.70  [ 70.01% ]
     → of all truly correct pairs, this fraction was found
 
   error_rate       : 0.02  [ 1.87% ]
     → 1 - precision; fraction of accepted pairs that were wrong
 
-  accuracy_score   : 0.94  [ 93.60% ]
+  accuracy_score   : 0.74  [ 74.11% ]
     → interpret with caution: TN is estimated, classes are imbalanced
 
 F-SCORES  (sklearn.metrics.fbeta_score, zero_division=0)
 ----------------------------------------------------------------------
-  fbeta_score(beta=0.5 )  (precision-weighted   )  : 0.97
-  fbeta_score(beta=1.0 )  (balanced             )  : 0.95
-  fbeta_score(beta=2.0 )  (recall-weighted      )  : 0.94
+  fbeta_score(beta=0.5 )  (precision-weighted   )  : 0.91
+  fbeta_score(beta=1.0 )  (balanced             )  : 0.82
+  fbeta_score(beta=2.0 )  (recall-weighted      )  : 0.74
 
   Formula: F_beta = (1 + beta²) × precision × recall
                     ────────────────────────────────

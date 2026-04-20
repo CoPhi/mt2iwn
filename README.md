@@ -47,10 +47,13 @@ python scripts/report.py
 
 ```
 MT2IWN/
-├── data/                      XML input files 
-├── results/                   Generated outputs
+├── data/                      XML input files (not in repo)
+├── results/                   Generated outputs (not in repo)
 │   ├── candidates.csv
 │   ├── breakdown.csv
+│   ├── reports/               Match classification reports (optional)
+│   │   ├── accepted_matches.txt
+│   │   └── rejected_matches.txt
 ├── scripts/
 │   ├── config.py              Paths, Config, parse_xml, threshold constants
 │   ├── candidates.py          CLI — Stage 1
@@ -73,7 +76,7 @@ MT2IWN/
 │   ├── analysis/              Post-hoc checks and reporting
 │   │   ├── audit.py           Post-merge validation
 │   │   ├── identifier.py      Update identification
-│   │   └── report.py          Match classification and formatting
+│   │   └── report.py          Match classification and formatting (NEW)
 │   └── plugins/               Plugin link finalization
 └── README.md
 ```
@@ -105,7 +108,6 @@ All threshold values and paths are defined in `scripts/config.py`:
 
 **Matching constraints:**
 - **One-to-one mapping**: Each MariTerm sense matches to at most one IWN sense, and vice versa
-- **Candidate pair constraint**: Only (MariTerm ID, IWN ID) pairs from candidates.csv are scored
 - **Two-gate threshold logic**: Matches pass via high gloss similarity (Gate A) OR moderate gloss + strong relation support (Gate B)
 
 To change thresholds, edit these values in `config.py` - all relevant stages will use the updated values automatically.
@@ -151,7 +153,7 @@ Each module has a `README.md` with full API documentation:
 
 - `scripts/extraction/README.md` - Lemma extraction from XML
 - `scripts/similarity/README.md` - Normalization and TF-IDF scoring
-- `scripts/matching/README.md` - One-to-one sense matching with constraints
+- `scripts/matching/README.md` - One-to-one sense matching
 - `scripts/filtering/README.md` - XML filtering and transcription
 - `scripts/updating/README.md` - IWN entry creation
 - `scripts/merging/README.md` - File merging and formatting
@@ -166,7 +168,6 @@ Each module has a `README.md` with full API documentation:
 - **TF-IDF-based gloss similarity** with weighted mean scoring
 - **Relation-aware scoring** with configurable bonus/malus weights
 - **One-to-one constraint enforcement** - no duplicate matches
-- **Candidate pair constraint** - only scores pre-specified pairs from candidates.csv
 - **Two-gate threshold logic** for balanced precision/recall
 
 ### Quality Controls
@@ -228,8 +229,6 @@ This toolkit was developed as part of a research project at CNR-ILC. For bug rep
 - Initial release
 - Seven-stage integration pipeline
 - Optional reporting utilities
-- One-to-one matching constraint enforcement
-- Candidate pair constraint implementation
 - Configurable threshold system
 
 ---
